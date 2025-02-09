@@ -1,6 +1,6 @@
 # Facilitating the exchange process
 
-The system of money has changed dramatically over the years, moving from physical forms of money to digital forms of money such as fiat currencies and cryptocurrencies. Systems of money have an ongoing influence over how the exchange process is facilitated. We are not talking about the creation and overall maintenance of the actual system itself. Instead, we are talking about the exchange process that people conduct on a regular basis to purchase goods and services.
+The system of money has changed dramatically over the years, moving from physical forms of money to digital forms of money. Examples of digital forms of money include fiat currencies and cryptocurrencies. Digital money has introduced third parties into the exchange process that act as facilitators.&#x20;
 
 
 
