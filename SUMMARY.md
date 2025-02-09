@@ -10,3 +10,7 @@
 * [Interest](money/interest.md)
 * [Consequences of interest](money/consequences-of-interest.md)
 * [Demurrage](money/demurrage.md)
+
+## Web3 Money
+
+* [Facilitating the exchange process](web3-money/facilitating-the-exchange-process.md)
