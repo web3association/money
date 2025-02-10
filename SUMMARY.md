@@ -14,3 +14,4 @@
 ## Web3 Money
 
 * [Facilitating the exchange process](web3-money/facilitating-the-exchange-process.md)
+* [Web3 money responsibilities](web3-money/web3-money-responsibilities.md)
