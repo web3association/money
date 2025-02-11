@@ -26,7 +26,7 @@ Network money is highly suitable for paying for the operational costs of the net
 
 **Token money**
 
-Token money could be used to pay node operators however there are a number of security risks to consider. If the money is created by a subset of the community there is a risk about how that community could change that system of money to benefit themselves or how they could potentially harm the network. The network needs to be as robust and resilient as possible. If the network is going to be adopted at global scale there is little room for enabling any opportunity for systemic failures. Using community made money to operate the network could introduce more risks than there are benefits due to the unpredictability of how that money is governed. There is also uncertainty around whether the token money adopts suitable functions and properties, as this could influence whether are going to be any long term problems or not.
+Token money could be used to pay node operators however there are a number of security risks to consider. If the money is created by a subset of the community there is a risk about how that community could change that system of money to benefit themselves or how they could potentially harm the network. The network needs to be as robust and resilient as possible. If the network is going to be adopted at global scale there is little room for enabling any opportunity for systemic failures. Using community made money to operate the network could introduce more risks than there are benefits due to the unpredictability of how that money is governed. There is also uncertainty around whether the token money adopts suitable functions and properties, as this could influence whether there is might be any long term problems or not.
 
 
 
