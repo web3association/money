@@ -20,3 +20,4 @@
 ## Web3 Network Money
 
 * [Demurrage implementation approaches](web3-network-money/demurrage-implementation-approaches.md)
+* [Creating stable demand for network money](web3-network-money/creating-stable-demand-for-network-money.md)
