@@ -4,7 +4,7 @@ Many Web3 networks enable the creation of token based assets. This creates an en
 
 In token enabled networks there are two types of money. Network money and token money. Network money is the network's own coin. In the case of Ethereum it is ETH, for Solana it is SOL, for Cardano it is ADA and so on. Token money is any of the token based assets that gets adopted as a form of money.
 
-Both of these types of money could have multiple responsibilities that they will handle from the ones that have been previously identified so far. Let’s take a look at which responsibilities are most suitable for each type of money.
+Both of these types of money could have multiple responsibilities that they need to handle from the ones that have been identified so far. Let’s take a look at which responsibilities are most suitable for each type of money.
 
 
 
@@ -20,7 +20,7 @@ Any system of money could benefit from parameter changes or system updates that 
 
 **Network money**
 
-Network money is highly suitable for paying for the operational costs of the network. Users would pay transaction fees or other forms of taxes using the network money. Web3 networks can create circular economies where people pay to use the network and this income pays for the node operators that run the network.
+Network money is highly suitable for paying for the operational costs of the network. Users would pay transaction fees or other forms of taxes using the network money. This income can be used to pay for node operators. Web3 networks can create circular economies that incentivise people to operate nodes that maintain the network.
 
 
 
@@ -30,21 +30,22 @@ Token money could be used to pay node operators however there are a number of se
 
 
 
-## Token asset exchange liquidity
+## Financial liquidity
 
 
 
 **Network money**
 
-Network money is highly suitable for token exchange pairings as it is a form of money that everyone uses and needs in the network. Network money could become the primary exchange pairing for tokens. This would reduce the number of swaps people need to make when swapping any token for any other token. If multiple forms of money were used for these pairings it could increase the number of swaps that need to happen and fragment the liquidity due to the problem of tokens potentially being paired up with many forms of money in the exchange. This makes network money a highly suitable candidate as liquidity for facilitating token asset exchanges.
+Network money is highly suitable for being used as financial liquidity such as for token exchange pairings as it is a form of money that everyone already uses and needs to pay for network usage. Network money could become the primary exchange pairing for many tokens. This can help to reduce the number of swaps that people need to make when swapping one token for any other token. If multiple forms of money were used for these pairings it could increase the number of swaps that are necessary to execute the desired exchange. This could also mean fragmented liquidity due to the problem of tokens being spread across liquidity pairings with many forms of money. Network money could be a highly suitable candidate as liquidity for facilitating token asset exchanges.
 
 
 
 **Token money**
 
-Token money could also be used as token asset exchange liquidity for the network however it would be beneficial if there was only one primary pairing against the other tokens that are available. This would mean that the token money would benefit from having global community governance to handle this separate form of money if it was going to be used as a primary pairing for token exchanges. So token money could be a viable candidate as a primary token asset pairing for the exchange process however network money could also fulfil this role.
+Token money could also be used as financial liquidity, such as for facilitating token asset exchange, though it would be beneficial if there was only one primary pairing against the other tokens that are available. This would mean that the token money would benefit from being globally governed by the ecosystem to manage the token money if it was going to be used as a primary pairing for token exchanges. So token money could be a viable candidate as a primary token asset exchange pairing however network money could also fulfil this role.
 
-Communities that create their own form of money may also want to use localised exchanges where their own money is paired against different tokens based assets that only that community uses. So although the responsibility of token asset exchange liquidity could be globally handled by network money it could also be locally handled by token money within each community.\
+Communities that create their own form of money may also want to use localised exchanges where their own money is paired against different tokens based assets that only that community uses. So although the responsibility of token asset exchange liquidity could be globally handled by network money it could also be locally handled by token money within each community.
+
 
 
 ## Medium of exchange
@@ -60,3 +61,23 @@ Network money will be one of the most adopted and widely known forms of money in
 **Token money**
 
 Web3 networks create an open and permissionless free market for mediums of exchange to compete with one another. Communities can create a medium of exchange that is context specific and purpose built for their environment. For instance, each country could create their own medium of exchange and adapt the money supply and mechanics of that money as necessary to ensure prices remain stable. This could help to prevent the problems that might occur if a global medium of exchange was adopted, where different economies would likely have different growth rates and requirements. Web3 networks enable ongoing competition between different mediums of exchange, so many new ideas for systems of money could be experimented with using token based assets. This makes token money highly suitable for creating the mediums of exchange that people use day to day. Governance decisions can also be handled much more quickly and efficiently with a token money approach, as these communities are able to create and locally govern their own money themselves.
+
+
+
+## Store of value
+
+
+
+**Network money**
+
+Web3 networks could become increasingly responsible for a very large population of users from across the world. This means that they will need to be far less lenient on people hoarding the network money as people would increasingly depend on access to this money to use the network. Therefore it will be important to balance the demand for the network money with enough influence from demurrage to prevent it from being hoarded. Network money shouldn’t be a good store of value but it also doesn’t need to be something that loses value at a fast rate.
+
+Network money will benefit from being as precise as possible with how much demand it is generating for the network money and how the money actually gets used. Digital asset based networks will be fiercely competing with other networks to create the best environment for creating, exchanging, using and storing digital assets.
+
+
+
+**Token money**
+
+Token money has more flexibility to decide how it should be implemented as token money could be created for any community large and small. Some communities may prefer a mixed system of money where the user can hold a small amount of it but beyond that point it starts charging them a demurrage fee. This type of implementation would be at risk due to sybil attacks as people could split their holdings across multiple wallets. Identity solutions could prevent this problem and then these types of ideas could be implemented.
+
+Although the store of value property is not a desirable one for creating a good system of money there are still many opportunities to explore with different implementations of token money. Communities could experiment with different approaches for implementing their own system of money that may or may not be tolerant to a store of value property under certain conditions.
