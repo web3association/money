@@ -33,9 +33,13 @@ If treasury income is generated through active users this is a form punishment f
 
 
 
-**Hoardable networks could have transaction fees that are as cheap as demurrage networks**
+**Hoardable networks could have transaction fees that are nearly as cheap as demurrage networks**
 
-If node operators are paid a fixed amount it wouldn’t matter if it was a hoardable network or a wealth tax based network for keeping transaction fees low. This is because a hoardable network could adopt a certain transaction fee amount until a threshold amount of income is achieved and then lower the transaction fee amount once that threshold is exceeded. This example is not demonstrated in the data model however it is a feasible implementation. Hoardable networks still have the problem that the transaction fees might initially be higher until this threshold is met which could punish poorer users. Wealth tax based networks would still be preferable as it spreads the cost of paying for node operators across the entire network of people that hold the coin rather than just the active users.
+If node operators were paid a predictable or fixed amount based on performance both hoardable networks and demurrage networks could reduce their fees once this threshold of compensation has been reached.
+
+With hoardable networks it is more difficult to lower transaction fees as low as possible as node operators rely on the income generated from transactions. This means the network needs to predict how many transactions it will receive to reduce the fees accordingly to make sure the node operators are only compensated what is necessary. Alternatively it means using a single fee amount that could have been reduced due to the excess income that was generated beyond the intended compensation amount. Hoardable networks will likely need to introduce a buffer so that node operators are always sufficiently compensated otherwise this could create a system risk for the network. Node operators also rely on the price stability of the network money as if the price drops the same transaction fee amount might not be enough to incentivise ongoing operation.
+
+Wealth taxes don't rely on transaction volume which makes the income more predictable. They do however rely on price stability of the network money. Overall this should mean that wealth taxes provide more reliable income for node operators than transaction fees. The transaction fees can be reduced to the absolute minimum and it can remain there in perpetuity. The only increase in fee that is commonly required is one that prevents transaction spammers. Demurrage networks should be able to more reliably keep transaction fees as cheap as possible. The other benefit of the wealth tax approach is it spreads the cost of paying for node operators across the entire network of people that hold the network coin rather than just being the responsibility of active transacting users.
 
 
 
