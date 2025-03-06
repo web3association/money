@@ -20,6 +20,7 @@
 ## Web3 Network Money
 
 * [Demurrage implementation approaches](web3-network-money/demurrage-implementation-approaches.md)
+* [Wealth tax data modelling](web3-network-money/wealth-tax-data-modelling.md)
 * [Creating stable demand for network money](web3-network-money/creating-stable-demand-for-network-money.md)
 * [Goals & concessions](web3-network-money/goals-and-concessions.md)
 * [Web3 network development phases](web3-network-money/web3-network-development-phases.md)
