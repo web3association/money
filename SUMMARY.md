@@ -26,3 +26,4 @@
 * [Goals & concessions](web3-network-money/goals-and-concessions.md)
 * [Web3 network development phases](web3-network-money/web3-network-development-phases.md)
 * [Demurrage advantages & opportunities](web3-network-money/demurrage-advantages-and-opportunities.md)
+* [Demurrage risks & challenges](web3-network-money/demurrage-risks-and-challenges.md)
