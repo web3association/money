@@ -27,3 +27,7 @@
 * [Web3 network development phases](web3-network-money/web3-network-development-phases.md)
 * [Demurrage advantages & opportunities](web3-network-money/demurrage-advantages-and-opportunities.md)
 * [Demurrage risks & challenges](web3-network-money/demurrage-risks-and-challenges.md)
+* [Demurrage network money is inevitable](web3-network-money/demurrage-network-money-is-inevitable/README.md)
+  * [Hoardable money & no treasury income](web3-network-money/demurrage-network-money-is-inevitable/hoardable-money-and-no-treasury-income.md)
+  * [Hoardable money & transaction fees](web3-network-money/demurrage-network-money-is-inevitable/hoardable-money-and-transaction-fees.md)
+  * [Demurrage money & wealth taxes](web3-network-money/demurrage-network-money-is-inevitable/demurrage-money-and-wealth-taxes.md)
