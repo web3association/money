@@ -31,3 +31,8 @@
   * [Hoardable money & no treasury income](web3-network-money/demurrage-network-money-is-inevitable/hoardable-money-and-no-treasury-income.md)
   * [Hoardable money & transaction fees](web3-network-money/demurrage-network-money-is-inevitable/hoardable-money-and-transaction-fees.md)
   * [Demurrage money & wealth taxes](web3-network-money/demurrage-network-money-is-inevitable/demurrage-money-and-wealth-taxes.md)
+
+## Web3 Token money
+
+* [Observations, goals & concessions](web3-token-money/observations-goals-and-concessions.md)
+* [Token money future possibilities](web3-token-money/token-money-future-possibilities.md)
