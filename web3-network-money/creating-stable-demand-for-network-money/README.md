@@ -52,7 +52,7 @@ A problem with the transaction fee use case is it doesn’t generate sustained l
 
 **Decrease the wealth tax**
 
-Decreasing the wealth tax would simply mean the network is changing from a demurrage based network to a hoardable one. This leads to all the problems with adopting hoardable money so we’re actively trying to minimise the need to reduce the wealth tax.
+Decreasing the wealth tax would simply mean the network is changing from a demurrage based network to a storable one. This leads to all the problems with adopting storable money so we’re actively trying to minimise the need to reduce the wealth tax.
 
 
 

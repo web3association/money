@@ -1,6 +1,6 @@
 # Consequences of interest
 
-Hoardable money leads to interest and a number of other economic issues.
+Storable money leads to interest and a number of other economic issues.
 
 
 
@@ -14,7 +14,7 @@ It should also be pointed out that the marginal efficiency of capital is not an 
 
 In a barter based economy, where goods and services are exchanged for other goods and services, this ability to extract interest and expect a minimum return on investment does not exist. Both parties in the exchange benefit from completing the exchange as soon as possible due to the decaying nature of their goods and services.
 
-The limiting factor to the creation of new capital has nothing to do with the natural levels of supply and demand for tangible assets but is rather a consequence of the hoardability of money. An obvious conclusion is that if money didn’t have this advantage over tangible wealth and therefore didn’t enable holders of money to exact interest, the capital formation process would continue beyond the current artificial limit set by money.
+The limiting factor to the creation of new capital has nothing to do with the natural levels of supply and demand for tangible assets but is rather a consequence of the storability of money. An obvious conclusion is that if money didn’t have this advantage over tangible wealth and therefore didn’t enable holders of money to exact interest, the capital formation process would continue beyond the current artificial limit set by money.
 
 
 
@@ -28,12 +28,12 @@ Workers get the short end of the stick both as producers and consumers. The impa
 
 The situation for the owners of capital is the mirror image of that of workers. The fact that employers pay less for labour and receive higher prices for their goods & services means they make higher profits.
 
-Imagine how different the world would be if the owners of trillions of dollars which are currently being unproductively hoarded in cash, checking accounts or short-term, risk-free lending, were no longer offered those artificial safe havens in which to store wealth and had to instead choose between seeing their wealth lose value with the passage of time or investing it in productive capital. Imagine how much more capital there would be. Imagine how much more demand for labour there would be. Imagine how much higher wages would be. Imagine how much cheaper goods & services would be.
+Imagine how different the world would be if the owners of trillions of dollars which are currently being unproductively stored in cash, checking accounts or short-term, risk-free lending, were no longer offered those artificial safe havens in which to store wealth and had to instead choose between seeing their wealth lose value with the passage of time or investing it in productive capital. Imagine how much more capital there would be. Imagine how much more demand for labour there would be. Imagine how much higher wages would be. Imagine how much cheaper goods & services would be.
 
 
 
-## **Impact of inflation and deflation on hoardable money**
+## **Impact of inflation and deflation on storable money**
 
 Under inflationary conditions, money performs the medium of exchange function much more effectively, which means that it performs the store of value function less effectively. Just as how money is a great way to hold wealth when prices are falling, since its purchasing power increases, the opposite is the case when prices rise. Money loses purchasing power when prices rise, therefore holders of money are incentivised to convert their money into other forms in order to preserve their wealth. And often, just like with deflation, inflation can be a self-reinforcing process. Prices rise, causing people with stores of money to want to get rid of their money — that is convert it into other forms by buying other assets, which causes prices to rise even more.
 
-So the hoardability of money, which makes demand discretionary, causes money to zig when society needs it to zag and to zag when society needs it to zig. Our form of money incentivises the exact opposite behaviour from what society needs holders of money to do in order to maintain economic stability. Thus “animal spirits” drive economic sentiment to swing from one extreme to the other causing what we erroneously refer to as “the business cycle”. We should describe it more accurately as “the money cycle”.
+So the storability of money, which makes demand discretionary, causes money to zig when society needs it to zag and to zag when society needs it to zig. Our form of money incentivises the exact opposite behaviour from what society needs holders of money to do in order to maintain economic stability. Thus “animal spirits” drive economic sentiment to swing from one extreme to the other causing what we erroneously refer to as “the business cycle”. We should describe it more accurately as “the money cycle”.

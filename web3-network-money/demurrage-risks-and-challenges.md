@@ -6,7 +6,7 @@ Implementing demurrage in a Web3 ecosystem does have its risks and challenges. T
 
 ## Difficulty sustaining a wealth tax that is above the operational costs over the long term
 
-Once a Web3 ecosystem is mature and well developed there is an incentive to duplicate the network and strip it of any taxes that exceed the cost of operating the network. Some people would individually benefit from this duplicated network as they might save money on wealth taxes. The problem with this is it would likely mean that the impact of demurrage would be reduced and the hoardability of the money could become an issue again. A 0.1% wealth tax would be much less effective than a 3% tax for preventing the hoarding of network money. Wealth can more easily concentrate and be hoarded when the wealth tax is reduced. Collectively it is beneficial to keep the wealth tax sufficiently high to prevent this. Individually it would still be beneficial to find the cheapest and most lucrative way to store wealth and transact.
+Once a Web3 ecosystem is mature and well developed there is an incentive to duplicate the network and strip it of any taxes that exceed the cost of operating the network. Some people would individually benefit from this duplicated network as they might save money on wealth taxes. The problem with this is it would likely mean that the impact of demurrage would be reduced and the storability of the money could become an issue again. A 0.1% wealth tax would be much less effective than a 3% tax for preventing the storing of network money. Wealth can more easily concentrate and be stored when the wealth tax is reduced. Collectively it is beneficial to keep the wealth tax sufficiently high to prevent this. Individually it would still be beneficial to find the cheapest and most lucrative way to store wealth and transact.
 
 
 
@@ -28,7 +28,7 @@ Demurrage does not need to be implemented at the start of a Web3 network. A gene
 
 When the network has grown and the genesis funds are nearing depletion the community could then consider introducing a small wealth tax to simulate demurrage that can also help with funding ongoing initiatives. During a growth phase the holder of the network money could benefit from ongoing price appreciation that outpaces any loss from the wealth tax.
 
-It is only in the late stages of the ecosystem where the impact of demurrage will have the desired effect of preventing coin hoarding. Approaches such as financial liquidity incentives would then likely be useful for generating more long term demand for the network money.
+It is only in the late stages of the ecosystem where the impact of demurrage will have the desired effect of preventing coin storage. Approaches such as financial liquidity incentives would then likely be useful for generating more long term demand for the network money.
 
 
 
@@ -40,7 +40,7 @@ The wealth tax could mean there is a large amount of income generated for the tr
 
 **Counter arguments**
 
-This is a potential risk for the network to consider, especially as the network money will likely be hoardable in the growth phase due to price appreciation. One way this risk of growing influence could be reduced is by allowing the founding entities to moderate the funding process in the genesis and growth stages of the network. This would allow them to identify any bad actors and manually prevent those actors from gaining any financial advantage over others in the funding process. Another way that this problem could be minimised is by making sure that funding isn’t distributed as a lump sum to a single address. Paying contributors individually and adding in checks and balances for any fixed costs would be an important part of making sure the funding process isn’t easily abused by malicious actors. As the ecosystem grows and becomes more decentralised the cost and difficulty of maliciously influencing the funding process could also increase as well. The cost of holding a larger amount of coins would become increasingly problematic due to the loss from demurrage.
+This is a potential risk for the network to consider, especially as the network money will likely be storable in the growth phase due to price appreciation. One way this risk of growing influence could be reduced is by allowing the founding entities to moderate the funding process in the genesis and growth stages of the network. This would allow them to identify any bad actors and manually prevent those actors from gaining any financial advantage over others in the funding process. Another way that this problem could be minimised is by making sure that funding isn’t distributed as a lump sum to a single address. Paying contributors individually and adding in checks and balances for any fixed costs would be an important part of making sure the funding process isn’t easily abused by malicious actors. As the ecosystem grows and becomes more decentralised the cost and difficulty of maliciously influencing the funding process could also increase as well. The cost of holding a larger amount of coins would become increasingly problematic due to the loss from demurrage.
 
 
 

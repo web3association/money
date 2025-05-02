@@ -1,6 +1,6 @@
 # Demurrage
 
-The previous sections have helped to highlight the problems that arise due to the adoption of hoardable money, such as it being a root cause for interest, which then contributes towards growing wealth inequality. Demurrage represents a promising solution to these problems.
+The previous sections have helped to highlight the problems that arise due to the adoption of storable money, such as it being a root cause for interest, which then contributes towards growing wealth inequality. Demurrage represents a promising solution to these problems.
 
 
 
@@ -22,7 +22,7 @@ Treating money as a form of private wealth is harmful to society. A proper under
 
 Water, air, public airwaves, public parks and the internet are all examples of resources that belong to everyone. These resources are not owned by any single individual. People rely on these resources for society to function properly. Money is also a vital public resource. Everyone depends on money to exchange goods and services and for investing or donating towards impactful initiatives.
 
-Money could be thought of as a public road. Public roads are not forms of private property. They are public utilities created by society to improve the living standards of all of its members. The charging of interest is like allowing people to park their cars on public roads and then allowing those people to charge others to move their cars so traffic can flow. Permitting the extraction of interest is allowing private parties to treat a vital public resource as a form of private property and charge for its use. We wouldn’t tolerate such a situation on our roads, but we have tolerated an analogous situation when it comes to the vital public resource of money. Our systems of money should belong to The Commons and not be considered as a form of private wealth that can be hoarded.
+Money could be thought of as a public road. Public roads are not forms of private property. They are public utilities created by society to improve the living standards of all of its members. The charging of interest is like allowing people to park their cars on public roads and then allowing those people to charge others to move their cars so traffic can flow. Permitting the extraction of interest is allowing private parties to treat a vital public resource as a form of private property and charge for its use. We wouldn’t tolerate such a situation on our roads, but we have tolerated an analogous situation when it comes to the vital public resource of money. Our systems of money should belong to The Commons and not be considered as a form of private wealth that can be stored and left idle.
 
 
 
@@ -40,7 +40,7 @@ Demurrage would have a negligible effect on anyone using money as a medium of ex
 
 This one monetary change, of putting money on a level playing field with the goods & services, would eliminate the privileges of money and thereby solve all of the problems that result from those privileges.
 
-Unhoardable goods & services would meet with unhoardable money to negotiate exchanges, and the universal impulsion to circulate that applies to both sides of every barter transaction would then also apply to both sides of every exchange intermediated by money. Money would then no longer be able to exact “tribute”. This in turn would result in the gradual disappearance of interest and the removal of the artificial limit on the production of capital.
+Unstorable goods & services would meet with unstorable money to negotiate exchanges, and the universal impulsion to circulate that applies to both sides of every barter transaction would then also apply to both sides of every exchange intermediated by money. Money would then no longer be able to exact “tribute”. This in turn would result in the gradual disappearance of interest and the removal of the artificial limit on the production of capital.
 
 
 
@@ -52,7 +52,7 @@ While it is true that inflation makes money a bad store of value on average, it 
 
 One of the key differences between demurrage and inflation is that demurrage is consistent and predictable. It is always the same. In good times and in bad times, demurrage reduces the purchasing power of money by the same amount each and every day or week. Inflation, on the other hand, is inconsistent, unpredictable and constantly changing. Sometimes inflation is high, sometimes it’s low, and sometimes it reverses itself and becomes negative.
 
-Inflation is not a solution to the problem of the reduction in commerce due to falling prices. This is because, by definition, if prices are falling there’s no inflation. Falling prices means deflation, which is the opposite. Regardless of whether it is gold-backed money or unbacked fiat money, any time prices fall, the purchasing power of money increases. And that rewards those who withhold money from circulation. So the disincentive of hoarding, which is sometimes provided by inflation, disappears completely and becomes its opposite, a reward to hoarding, precisely at the times when society most needs money to circulate. While inflation means that on average money is not a feather bed, it becomes a feather bed exactly when we need it not to.
+Inflation is not a solution to the problem of the reduction in commerce due to falling prices. This is because, by definition, if prices are falling there’s no inflation. Falling prices means deflation, which is the opposite. Regardless of whether it is gold-backed money or unbacked fiat money, any time prices fall, the purchasing power of money increases. And that rewards those who withhold money from circulation. So the disincentive of storing, which is sometimes provided by inflation, disappears completely and becomes its opposite, a reward to storing, precisely at the times when society most needs money to circulate. While inflation means that on average money is not a feather bed, it becomes a feather bed exactly when we need it not to.
 
 Demurrage money, on the other hand, provides the same incentive to keep money circulating in all economic environments. This is the most important difference between demurrage and inflation. When it matters most, demurrage money and conventional fiat money behave exactly opposite to one another. The effect of inflation on modern fiat money is not just not the same as demurrage. It is directly opposite demurrage when it matters most.
 
@@ -94,7 +94,7 @@ Another question to answer is around whether demurrage money should have backing
 
 Supporters of the gold standard tend to consider the terms “hard money” and “sound money” as synonyms. But from a Gesellian perspective, the terms “hard money” and “sound money” are actually antonyms. Gesell’s states: “The power of money to effect exchanges, its technical quality from the mercantile standpoint, is in inverse proportion to its technical quality from the banking standpoint.”
 
-“Hard money” or backed money is good if you want money to be a store of value, but as covered already elsewhere in these resources, making money a good store of value means making it a bad medium of exchange. “Hard money” ensures that prices will not be stable. Because hoardability means that velocity will always fall when prices are already falling and always rise when prices are already rising. “Hard money” not only doesn’t achieve price stability, it actually causes price instability. Backing is not only unnecessary for a medium of exchange, it is in fact counterproductive.
+“Hard money” or backed money is good if you want money to be a store of value, but as covered already elsewhere in these resources, making money a good store of value means making it a bad medium of exchange. “Hard money” ensures that prices will not be stable. Because storability means that velocity will always fall when prices are already falling and always rise when prices are already rising. “Hard money” not only doesn’t achieve price stability, it actually causes price instability. Backing is not only unnecessary for a medium of exchange, it is in fact counterproductive.
 
 
 

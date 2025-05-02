@@ -36,9 +36,9 @@ Creating commodity money, especially using precious metals, will often mean that
 
 **Problems**
 
-* **Hoarding** - Commodity money, particularly precious metals like gold and silver, can be easily hoarded. Hoarding can lead to a reduction in money circulation, causing deflation and slowing down economic activity.
+* **Storable** - Commodity money, particularly precious metals like gold and silver, can be easily stored. Storable money can lead to a reduction in money circulation, causing deflation and slowing down economic activity.
 * **Rigidity of supply** - The supply of commodity money is tied to the physical availability and extraction of the commodity. This can lead to economic instability if the supply cannot be easily adjusted to meet the changing needs of a growing economy.
-* **Imbalance of power** - \*\*\*\*Hard money, like gold or silver, give the buyer more power in the exchange process as they often have less urgency to make a purchase. Buyers have money that does not erode or degrade over time. Sellers often do have goods that get less valuable over time. This gives buyers an advantage in the exchange process as there is no cost for them to pause or delay the exchange.
+* **Imbalance of power** - Hard money, like gold or silver, give the buyer more power in the exchange process as they often have less urgency to make a purchase. Buyers have money that does not erode or degrade over time. Sellers often do have goods that get less valuable over time. This gives buyers an advantage in the exchange process as there is no cost for them to pause or delay the exchange.
 * **High production costs -** Mining, refining and minting commodities like gold or silver can involve significant costs, which can be economically inefficient.
 * **Storage and transport** - Physical commodities can be bulky and heavy, making them difficult and costly to store and transport.
 * **Market fluctuations -** The value of commodity money can fluctuate with changes in market conditions for the underlying commodity.
@@ -76,7 +76,7 @@ In modern fiat systems, money is primarily created through the actions of centra
 
 * **Inflation risks** - Fiat money is not backed by a physical commodity which makes it susceptible to over issuance by governments and the banking system. This can then lead to inflation or even hyperinflation. The value of these currencies can erode over time due to an ever increasing supply.
 * **Lack of intrinsic value -** Fiat money has no intrinsic value. It relies entirely on public trust and government decree, which can be fragile.
-* **Interest and debt cycles** - Fiat money systems often facilitate debt accumulation and interest, a system where money is able to earn interest passively, which incentivises hoarding and allows wealth accumulation without productive effort. This system can create economic instability and result in higher concentrations of wealth that exacerbate inequality.
+* **Interest and debt cycles** - Fiat money systems often facilitate debt accumulation and interest, a system where money is able to earn interest passively, which incentivises storing and allows wealth accumulation without productive effort. This system can create economic instability and result in higher concentrations of wealth that exacerbate inequality.
 * **Potential for abuse -** The ability to print unlimited quantities of money can lead to irresponsible fiscal and monetary policies. These policies could have unintended consequences and create economic instability.
 
 

@@ -22,7 +22,7 @@ A consequence of this fact, that nearly all forms of tangible wealth lose value 
 
 
 
-## Imbalance of power due to hoardable money
+## Imbalance of power due to storable money
 
 Gold when used as money is the leading example of a material that exemplifies the store of value function.
 
@@ -36,9 +36,9 @@ The introduction of gold money transforms a level playing field into an un-level
 
 
 
-## Falling prices due to hoardable money
+## Falling prices due to storable money
 
-The problem that is created by adopting hoardable money is that it results in optional demand. Demand can be paused or delayed as long as the buyer wishes to do so when their money does not have any urgency for exchange due to a lack of decay.
+The problem that is created by adopting storable money is that it results in optional demand. Demand can be paused or delayed as long as the buyer wishes to do so when their money does not have any urgency for exchange due to a lack of decay.
 
 If there is any reason for people to believe that prices might fall they can withdraw their intentions to exchange. This act of withdrawal puts sellers into a difficult position as they do not have the luxury of delaying the exchange. Sellers then become more inclined to reduce the price of their products or services to increase the amount of demand for people to exchange with them.
 
@@ -50,7 +50,7 @@ Shrinking demand relative to stable supply can lead to falling prices. So expect
 
 ## **Saving reduces economic activity**
 
-Buying and selling become two separate actions under a monetary exchange process. Hoardable money results in demand that is optional. Buyers can decide to save their money instead of spending or investing it at no cost to themselves. Saving might add to individual wealth, but it also can be self-defeating and even be harmful for the exchange process and society more broadly.
+Buying and selling become two separate actions under a monetary exchange process. Storable money results in demand that is optional. Buyers can decide to save their money instead of spending or investing it at no cost to themselves. Saving might add to individual wealth, but it also can be self-defeating and even be harmful for the exchange process and society more broadly.
 
 The effect of not spending is it means there will be a reduction in demand for consumption below what it would have been if that money had been spent or invested and not been saved. The act of individual saving decreases the demand for consumption, which reduces employment and income.
 
@@ -80,7 +80,7 @@ Now, because of the inherent tension between money’s functions as medium of ex
 
 
 
-## Hoardable money’s ability to extract tribute
+## Storable money’s ability to extract tribute
 
 Gesell’s great insight is that money is not a commodity. Money is a tool created by society in order to unlock the enormous wealth creating power of the division of labour system. So exchanging money for goods & services is not like any other exchange of commodities. And because we chose a form of money that is not subject to the same laws of nature and the same impulsion to circulate as the goods & services it is used to exchange, we have created a situation in which the blood of the economic organism extracts “tribute” whenever it facilitates exchange. So to investigate this concept of “tribute” more closely, Gesell writes:
 
