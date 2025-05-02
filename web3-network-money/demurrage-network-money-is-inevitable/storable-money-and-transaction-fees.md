@@ -1,8 +1,8 @@
-# Hoardable money & transaction fees
+# Storable money & transaction fees
 
 <div align="left"><figure><img src="../../.gitbook/assets/hoardable-money-transaction-fees.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
-Hoardable money is a form of money that can be stored and saved over time with either no or limited loss in value. Hoardable money is often superior to most goods and services that decay or lose value over time. Hoardable money commonly leads to holders of money demanding interest from others that want to access that money due to the fact that hoardable money is superior as a store of value when compared to other goods and services. For Web3 ecosystems that have adopted a proof of stake mechanism, those that hold coins can also commonly generate a return by simply staking their coins to secure the network. This creates a form of appreciating money that constantly grows in value over time. In these situations the user does not need to be productive with their money and can just hoard it and their financial position should grow over time.
+Storable money is a form of money that can be stored and saved over time with either no or limited loss in value. Storable money is often superior to most goods and services that decay or lose value over time. Storable money commonly leads to holders of money demanding interest from others that want to access that money due to the fact that storable money is superior as a store of value when compared to other goods and services. For Web3 ecosystems that have adopted a proof of stake mechanism, those that hold coins can also commonly generate a return by simply staking their coins to secure the network. This creates a form of appreciating money that constantly grows in value over time. In these situations the user does not need to be productive with their money and can just store it and their financial position should grow over time.
 
 A transaction fee approach means that the ecosystem is generating income for the treasury using transaction fees. Anyone that submits transactions on the network would be contributing towards the treasury.
 
@@ -10,7 +10,7 @@ A transaction fee approach means that the ecosystem is generating income for the
 
 **Bad money system (Score - 1)**
 
-Appreciating money has all of the problems mentioned in the money resources such as reduced economic activity due to hoarding and the artificial ceiling on capital creation due to the impacts of interest. A small staking reward creates another problem for this implementation of money as it further incentivises hoarding and rewards people that hold their coins and lock them up. This approach could result in ongoing economic stagnation and low coin velocity due to the incentives people have to hoard this form of money and also due to the lack of incentives that exist for maintaining and improving the network.
+Appreciating money has all of the problems mentioned in the money resources such as reduced economic activity due to stored and idle money and the artificial ceiling on capital creation due to the impacts of interest. A small staking reward creates another problem for this implementation of money as it further incentivises storing and rewards people that hold their coins and lock them up. This approach could result in ongoing economic stagnation and low coin velocity due to the incentives people have to store this form of money and also due to the lack of incentives that exist for maintaining and improving the network.
 
 
 
@@ -32,7 +32,7 @@ Transaction fees should remain low as the network could attempt to dynamically p
 
 **Moderate incentive alignment (Score - 3)**
 
-The main incentive problem with a transaction fee approach is it rewards people for just hoarding the network coin as they know people that transact will pay for any network maintenance and improvements through the fees they pay. So in terms of taxing those that benefit from funding the network the incentives are not fully aligned with generating the best outcomes for the network and its users.
+The main incentive problem with a transaction fee approach is it rewards people for just storing the network coin as they know people that transact will pay for any network maintenance and improvements through the fees they pay. So in terms of taxing those that benefit from funding the network the incentives are not fully aligned with generating the best outcomes for the network and its users.
 
 The good thing about transaction fees is that they at least help with generating treasury income and creating a circular economy that supports and maintains the network. This is good for the funding process as it means the incentives can be fully aligned with generating impact across the entire ecosystem. No contributor would need to be locked into a single project or initiative for extended periods of time. Although this is assuming the funding process has been designed with contributor flexibility in mind.
 
@@ -40,7 +40,7 @@ The good thing about transaction fees is that they at least help with generating
 
 **Low network security (Score - 2)**
 
-Networks that adopt a transaction fee approach for generating treasury income would create an environment where people are not taxed or penalised for just holding the network coins and doing nothing with them. This means hoarding is rewarded as the attractiveness of holding network money would be higher than holding many other assets that commonly depreciate over time. This reduces the network security as it creates a long term risk that power consolidates into the hands of a few people that have managed to accumulate a large amount of the network coin. The inevitability of wealth concentration is increased only further by the presence of any risk free staking rewards.
+Networks that adopt a transaction fee approach for generating treasury income would create an environment where people are not taxed or penalised for just holding the network coins and doing nothing with them. This means storing is rewarded as the attractiveness of holding network money would be higher than holding many other assets that commonly depreciate over time. This reduces the network security as it creates a long term risk that power consolidates into the hands of a few people that have managed to accumulate a large amount of the network coin. The inevitability of wealth concentration is increased only further by the presence of any risk free staking rewards.
 
 
 

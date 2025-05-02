@@ -12,8 +12,8 @@ In regards to the network's funding process, all of these ecosystems could have 
 
 To understand the benefits of demurrage we can compare the most common combination of approaches that a Web3 ecosystem might adopt when creating a money system and a process for generating treasury income. The approaches we will compare include:
 
-* [**Hoardable money & no treasury income**](hoardable-money-and-no-treasury-income.md) - Creating a hoardable money with no mechanism for generating treasury income
-* [**Hoardable money & transaction fees**](hoardable-money-and-transaction-fees.md) - Creating a hoardable money with a transaction fee model for generating treasury income
+* [**Storable money & no treasury income**](storable-money-and-no-treasury-income.md) - Creating a storable money with no mechanism for generating treasury income
+* [**Storable money & transaction fees** ](storable-money-and-transaction-fees.md)- Creating a storable money with a transaction fee model for generating treasury income
 * [**Demurrage money & wealth taxes**](demurrage-money-and-wealth-taxes.md) - Creating a demurrage money using a wealth tax which is used to generate treasury income
 
 <figure><img src="../../.gitbook/assets/money-treasury-income-approaches.png" alt=""><figcaption></figcaption></figure>
@@ -22,11 +22,11 @@ To understand the benefits of demurrage we can compare the most common combinati
 
 **Key takeaways**
 
-* **Demurrage is a better system for money** - As covered in the previous resources, demurrage represents a more effective approach for a system of money over hoardable money that causes wealth concentrations, economic stagnation and instability due to interest and money cycles.
+* **Demurrage is a better system for money** - As covered in the previous resources, demurrage represents a more effective approach for a system of money over storable money that causes wealth concentrations, economic stagnation and instability due to interest and money cycles.
 * **Wealth taxes are the most effective for generating treasury income** - Wealth taxes generate more predictable and reliable income that is less impacted by changing transaction volume. To generate large amounts of income the network is reliant on network effects that are able to sustain higher wealth taxes.
-* **Wealth taxes can reduce transaction fees more consistently to their lowest** - Wealth taxes can subsidise or fully pay for node operational costs which creates a long term solution for reducing transaction fees. Hoardable networks rely on transaction fees to pay for node operators which makes it more difficult to have transaction fees as low as they possibly can be as they need to predict how many transactions will be created to work out what the fee structure should be. This commonly means a buffer is needed to make sure the node operators are sufficiently compensated. With wealth taxes, it is easier to keep transaction fees as low as possible as the wealth tax income is more predictable and periodic.
-* **Wealth taxes create the most aligned incentives** - All users that hold the coin will contribute towards the treasury through the wealth tax. The ecosystem also gets to focus on making transaction fees as low as possible which encourages the maximum amount of usage. Wealth taxes penalise hoarding which is the most undesirable use case. Increased transaction fees punish active users, the most important use case of the network. Wealth taxes are more egalitarian and effective at aligning the incentives.
-* **Wealth taxes can lead to improved network security** - Users are incentivised to use their coins productively rather than hoard them, resulting in more exchange and investment. Demurrage helps to maximise coin velocity and opportunities for people to receive money for goods and services. Demurrage can help to ensure that money is not the end goal in the economy, which increases coin dispersion and decentralisation of the coin. Reducing the concentration of wealth should help with maintaining higher levels of network security as the influence that people have from the network coin would be reduced due to higher coin dispersion across the network. A balance still needs to be struck between having enough demand for network money so it is valuable but not too valuable that everyone tries to hoard it.
+* **Wealth taxes can reduce transaction fees more consistently to their lowest** - Wealth taxes can subsidise or fully pay for node operational costs which creates a long term solution for reducing transaction fees. Storable networks rely on transaction fees to pay for node operators which makes it more difficult to have transaction fees as low as they possibly can be as they need to predict how many transactions will be created to work out what the fee structure should be. This commonly means a buffer is needed to make sure the node operators are sufficiently compensated. With wealth taxes, it is easier to keep transaction fees as low as possible as the wealth tax income is more predictable and periodic.
+* **Wealth taxes create the most aligned incentives** - All users that hold the coin will contribute towards the treasury through the wealth tax. The ecosystem also gets to focus on making transaction fees as low as possible which encourages the maximum amount of usage. Wealth taxes penalise idle money which is the most undesirable use case. Increased transaction fees punish active users, the most important use case of the network. Wealth taxes are more egalitarian and effective at aligning the incentives.
+* **Wealth taxes can lead to improved network security** - Users are incentivised to use their coins productively rather than leave them idle, resulting in more exchange and investment. Demurrage helps to maximise coin velocity and opportunities for people to receive money for goods and services. Demurrage can help to ensure that money is not the end goal in the economy, which increases coin dispersion and decentralisation of the coin. Reducing the concentration of wealth should help with maintaining higher levels of network security as the influence that people have from the network coin would be reduced due to higher coin dispersion across the network. A balance still needs to be struck between having enough demand for network money so it is valuable but not too valuable that everyone is incentivised to store it.
 * **Wealth taxes create the best investment opportunities** - Wealth taxes create reliable and predictable treasury income. If the network has a lot of growth potential this treasury income can help with funding impactful initiatives that improve the network or that increase the number of protocols, applications and use cases available. A wealth tax can create a reliable growth engine for funding ongoing development efforts. Reliable funding can make it easier for a network to outcompete the other less funded and potentially stagnant networks. The ongoing development efforts and network improvements could lead to a larger amount of network growth and coin price appreciation. This can make the network coin a compelling investment.
 
 
@@ -53,12 +53,12 @@ Web3 ecosystems are open and permissionless. For this reason large incumbents wi
 
 ## Money & treasury income approaches **analysis**
 
-{% content-ref url="hoardable-money-and-no-treasury-income.md" %}
-[hoardable-money-and-no-treasury-income.md](hoardable-money-and-no-treasury-income.md)
+{% content-ref url="storable-money-and-no-treasury-income.md" %}
+[storable-money-and-no-treasury-income.md](storable-money-and-no-treasury-income.md)
 {% endcontent-ref %}
 
-{% content-ref url="hoardable-money-and-transaction-fees.md" %}
-[hoardable-money-and-transaction-fees.md](hoardable-money-and-transaction-fees.md)
+{% content-ref url="storable-money-and-transaction-fees.md" %}
+[storable-money-and-transaction-fees.md](storable-money-and-transaction-fees.md)
 {% endcontent-ref %}
 
 {% content-ref url="demurrage-money-and-wealth-taxes.md" %}

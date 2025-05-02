@@ -10,7 +10,7 @@ A wealth tax is able to simulate the effects of demurrage as it means that peopl
 
 **Good money system (Score - 5)**
 
-A network that uses a wealth tax creates an incentive for people to use their money instead of hoarding it. This increases the velocity of the money and due to the reduced marginal efficiency of capital, which increases the amount of viable investment opportunities and the willingness of people to exchange their money for goods and services. Users should benefit from easier access to money due to the incentives for people to be more productive with it rather than hoard it.
+A network that uses a wealth tax creates an incentive for people to use their money instead of storing it. This increases the velocity of the money and due to the reduced marginal efficiency of capital, which increases the amount of viable investment opportunities and the willingness of people to exchange their money for goods and services. Users should benefit from easier access to money due to the incentives for people to be more productive with it rather than store it.
 
 
 
@@ -38,7 +38,7 @@ A network that adopts a wealth tax is able to create more fully aligned incentiv
 
 **High network security (Score - 5)**
 
-A wealth tax means money is less attractive to hold due to the costs of holding it for a long period of time. This makes it less effective as a store of value. This incentivises people to invest or exchange their money more regularly which creates more opportunities for people looking to start new businesses and that want to provide their labour for income. Demurrage helps to create a natural incentive for coins to disperse over time across the community to people that are offering their goods and services. These outcomes should be more useful to the ecosystem over people just hoarding a coin that they are gradually losing over time due to the wealth tax. Increased coin dispersion helps to increase the security of the network as the coin and its influence is being spread across more people. Demurrage helps to prevent concentrations of wealth from occurring, which can help with ensuring the network remains secure and decentralised over the long term.
+A wealth tax means money is less attractive to hold due to the costs of holding it for a long period of time. This makes it less effective as a store of value. This incentivises people to invest or exchange their money more regularly which creates more opportunities for people looking to start new businesses and that want to provide their labour for income. Demurrage helps to create a natural incentive for coins to disperse over time across the community to people that are offering their goods and services. These outcomes should be more useful to the ecosystem over people just storing a coin that they are gradually losing over time due to the wealth tax. Increased coin dispersion helps to increase the security of the network as the coin and its influence is being spread across more people. Demurrage helps to prevent concentrations of wealth from occurring, which can help with ensuring the network remains secure and decentralised over the long term.
 
 
 
