@@ -45,6 +45,6 @@ Network coin taxes don't rely on transaction volume which makes the income more 
 
 **Network coin tax networks will need to add additional incentives or have sufficient network effects to maintain a high network coin tax**
 
-A network coin tax network could be easily duplicated and the network coin tax could be reduced to only pay for node operation. When these networks mature there will likely be less development effort required to improve and maintain the network. This situation creates an opportunity to reduce the network coin tax or for other networks to duplicate the network and reduce it.
+A network with a network coin tax could be easily duplicated and the network coin tax could be reduced to only pay for node operation. When these networks mature there will likely be less development effort required to improve and maintain the network. This situation creates an opportunity to reduce the network coin tax or for other networks to duplicate the network and reduce it.
 
 This could make it difficult to keep the network coin tax above the cost of operating the network unless an additional incentive is added to generate ongoing demand for the network money. Alternatively network effects could help with preventing people from leaving the network due to the difficulties in getting everyone to migrate elsewhere.
