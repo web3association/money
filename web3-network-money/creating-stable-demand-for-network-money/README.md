@@ -10,7 +10,7 @@ Physical money, like gold, coins and banknotes have different characteristics wh
 
 Digital money is entirely different. With digital money, people can find out about goods and services online and find out the prices immediately and what forms of money the seller accepts. The buyer can exchange the money they have for something else almost instantaneously. Systems could also be created to automate the process of exchanging any money you receive into other assets the moment you receive digital money. Implementing a demurrage money would create an incentive for these solutions to be developed that can handle this for you. People are incentivised to hold other assets if the money they are holding is losing value. And with digital money, anyone is able to do this in a multitude of ways. People may still use the money to exchange and invest in businesses but they would only want to hold that money at the exact moment they are going to perform those actions. Outside of this they would likely prefer to hold something that will appreciate in value or retain its value like a digital gold representation or another similar type of asset.
 
-Web3 money is programmable. The networks are increasingly becoming cheaper and faster. Introducing a wealth tax would create an incentive for people to avoid holding the network money until it was absolutely necessary to use it. This could create an ongoing amount of sell pressure for the network money due to this incentive to quickly exchange it. If no one wants to hold network money this could limit its price potential and overall value. People might accept the money during exchange but then immediately exchange it for another asset that doesn’t lose value. Limited price value of the network money could put the security of the network at risk as it is the network coin that is often used to influence governance and funding decisions in the network. Many of the assets and pieces of functionality that get built on top of the network could be highly valuable. Network money that has minimal demand could increase the opportunity for someone to quickly attain a large amount of that network money and then attempt to maliciously attack the network.
+Web3 money is programmable. The networks are increasingly becoming cheaper and faster. Introducing a network coin tax would create an incentive for people to avoid holding the network money until it was absolutely necessary to use it. This could create an ongoing amount of sell pressure for the network money due to this incentive to quickly exchange it. If no one wants to hold network money this could limit its price potential and overall value. People might accept the money during exchange but then immediately exchange it for another asset that doesn’t lose value. Limited price value of the network money could put the security of the network at risk as it is the network coin that is often used to influence governance and funding decisions in the network. Many of the assets and pieces of functionality that get built on top of the network could be highly valuable. Network money that has minimal demand could increase the opportunity for someone to quickly attain a large amount of that network money and then attempt to maliciously attack the network.
 
 Introducing incentives will likely play an important role in maintaining stable demand for network money. In the later growth stages of these networks, where coin velocity becomes an increasingly important factor, there will be an ongoing need to sustain a sufficient level of demand for the network money whilst also maintaining a sufficient threshold of demurrage that can incentivise enough money velocity.
 
@@ -50,9 +50,9 @@ A problem with the transaction fee use case is it doesn’t generate sustained l
 
 
 
-**Decrease the wealth tax**
+**Decrease the network coin tax**
 
-Decreasing the wealth tax would simply mean the network is changing from a demurrage based network to a storable one. This leads to all the problems with adopting storable money so we’re actively trying to minimise the need to reduce the wealth tax.
+Decreasing the network coin tax would simply mean the network is changing from a demurrage based network to a storable one. This leads to all the problems with adopting storable money so we’re actively trying to minimise the need to reduce the network coin tax.
 
 
 
@@ -64,17 +64,17 @@ As an example, if someone submitted 1000 transactions annually and those cost $0
 
 
 
-**Token asset transaction fees or token asset wealth taxes**
+**Token asset transaction fees or token asset taxes**
 
-The network could try to increase the demand for the network money by making the other assets in the ecosystem less appealing to hold. Increasing the asset based transaction fees is one approach. Another is to introduce a wealth tax that is applied to all token assets.
+The network could try to increase the demand for the network money by making the other assets in the ecosystem less appealing to hold. Increasing the asset based transaction fees is one approach. Another is to introduce a tax that is applied to all token assets.
 
 These approaches are unnecessary as having other forms of money on the network does not compromise the need for network money that is always needed for transaction fees. It is also very well suited for being used as financial liquidity. If demurrage was forced upon all assets in the network it would mean that no asset could have the store of value property. This would make other networks much more appealing and competitive as they could simply give the users this optionality around adopting the properties they want for their token assets.
 
 
 
-**Wealth tax reduction incentive**
+**Network coin tax reduction incentive**
 
-Users could pay a higher wealth tax amount by default when they are holding network money in their wallet. This wealth tax could then be reduced if they deposit the money as financial liquidity. This is desirable as it means that unproductive money is now being used productively. One of the worst outcomes for network money is that it is sat idle and not being used productively for things like financial liquidity or for transaction fees. This would help with increasing the productive use of network money.
+Users could pay a higher network coin tax amount by default when they are holding network money in their wallet. This network coin tax could then be reduced if they deposit the money as financial liquidity. This is desirable as it means that unproductive money is now being used productively. One of the worst outcomes for network money is that it is sat idle and not being used productively for things like financial liquidity or for transaction fees. This would help with increasing the productive use of network money.
 
 
 
@@ -110,13 +110,13 @@ The ability to participate in treasury decisions could be determined by whether 
 
 **External initiatives & incentives**
 
-A number of different initiatives and incentives could be introduced that are handled outside of the network. Some examples could be reduced national taxes for people that deposit liquidity in the network or legislation that incentivises the use of approved networks such as those that adopt a certain percentage of wealth tax to properly simulate demurrage. It is difficult to enforce these types of solutions properly as the network is global and each country competes with one another. So if these initiatives created a reason for people to move to another country it could create an incentive to not adopt these kinds of ideas in the first place. Although these example ideas might not be hugely compelling they might still be somewhat effective. There might also be other external incentive approaches that haven’t been identified and considered.
+A number of different initiatives and incentives could be introduced that are handled outside of the network. Some examples could be reduced national taxes for people that deposit liquidity in the network or legislation that incentivises the use of approved networks such as those that adopt a certain percentage of taxation for their network coin to properly simulate demurrage. It is difficult to enforce these types of solutions properly as the network is global and each country competes with one another. So if these initiatives created a reason for people to move to another country it could create an incentive to not adopt these kinds of ideas in the first place. Although these example ideas might not be hugely compelling they might still be somewhat effective. There might also be other external incentive approaches that haven’t been identified and considered.
 
 
 
 ## Financial liquidity approaches
 
-Incentive mechanisms such as the transaction fee reduction incentive or a wealth tax reduction incentive were some of the most compelling approaches for transferring demand from using network money for transaction fees or as a store of value and redirecting it towards demand for using network money as financial liquidity. These incentives should help to ensure that network money would be used more productively and also these incentives could include lock-up periods to create longer term demand.
+Incentive mechanisms such as the transaction fee reduction incentive or a network coin tax reduction incentive were some of the most compelling approaches for transferring demand from using network money for transaction fees or as a store of value and redirecting it towards demand for using network money as financial liquidity. These incentives should help to ensure that network money would be used more productively and also these incentives could include lock-up periods to create longer term demand.
 
 Network money could be deposited as liquidity across many decentralised finance protocols. A digital asset network needs to incentivise the most important use cases that are most aligned with making the network highly effective for creating, maintaining, using and exchanging token based digital assets.
 
@@ -132,7 +132,7 @@ A token asset exchange liquidity incentive currently appears to be the most comp
 
 A digital asset network benefits from network money being used for transaction fees and as token asset exchange liquidity. These two use cases are highly valuable for the network as they are highly productive use cases for network money. Increased financial liquidity could represent an effective network effect for a digital asset network. Idle and unproductive network money is one of the least desirable outcomes for these networks. Financial liquidity incentives should help with reducing and minimising this issue of idle network money.
 
-Decreasing the wealth tax and reducing transaction fees for people that deposit network money as financial liquidity were the two most compelling ways to redirect existing demand for network money into demand for increasing the amount of deposited financial liquidity.
+Decreasing the network coin tax and reducing transaction fees for people that deposit network money as financial liquidity were the two most compelling ways to redirect existing demand for network money into demand for increasing the amount of deposited financial liquidity.
 
 Many of the other approaches for redirecting or creating demand for network money were not as compelling as they would often mean punishing poor users unnecessarily. Other networks could simply duplicate the network and remove these restrictions if the existing incentives give wealthier users a huge advantage.
 

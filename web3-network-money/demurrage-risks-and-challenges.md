@@ -1,18 +1,18 @@
 # Demurrage risks & challenges
 
-Implementing demurrage in a Web3 ecosystem does have its risks and challenges. The most compelling one we’ve identified so far is the challenge around maintaining a sufficiently high wealth tax.
+Implementing demurrage in a Web3 ecosystem does have its risks and challenges. The most compelling one we’ve identified so far is the challenge around maintaining a sufficiently high network coin tax.
 
 
 
-## Difficulty sustaining a wealth tax that is above the operational costs over the long term
+## Difficulty sustaining a network coin tax that is above the operational costs over the long term
 
-Once a Web3 ecosystem is mature and well developed there is an incentive to duplicate the network and strip it of any taxes that exceed the cost of operating the network. Some people would individually benefit from this duplicated network as they might save money on wealth taxes. The problem with this is it would likely mean that the impact of demurrage would be reduced and the storability of the money could become an issue again. A 0.1% wealth tax would be much less effective than a 3% tax for preventing the storing of network money. Wealth can more easily concentrate and be stored when the wealth tax is reduced. Collectively it is beneficial to keep the wealth tax sufficiently high to prevent this. Individually it would still be beneficial to find the cheapest and most lucrative way to store wealth and transact.
+Once a Web3 ecosystem is mature and well developed there is an incentive to duplicate the network and strip it of any taxes that exceed the cost of operating the network. Some people would individually benefit from this duplicated network as they might save money on network coin taxes. The problem with this is it would likely mean that the impact of demurrage would be reduced and the storability of the money could become an issue again. A 0.1% network coin tax would be much less effective than a 3% tax for preventing the storing of network money. Wealth can more easily concentrate and be stored when the network coin tax is reduced. Collectively it is beneficial to keep the network coin tax sufficiently high to prevent this. Individually it would still be beneficial to find the cheapest and most lucrative way to store wealth and transact.
 
 
 
 **Counter arguments**
 
-Network effects will play a big role in retaining users over the long term. The most compelling solution for resolving the challenge of sustaining a high wealth tax is to maximise the amount of liquidity in the network to create increasingly efficient markets. Creating efficient markets is hard to duplicate when capital is already available and deployed in one network. How effective any network effects are over the long term will influence how high the wealth tax could remain.
+Network effects will play a big role in retaining users over the long term. The most compelling solution for resolving the challenge of sustaining a high network coin tax is to maximise the amount of liquidity in the network to create increasingly efficient markets. Creating efficient markets is hard to duplicate when capital is already available and deployed in one network. How effective any network effects are over the long term will influence how high the network coin tax could remain.
 
 
 
@@ -24,9 +24,9 @@ Implementing demurrage into a Web3 ecosystem could result in an increased diffic
 
 **Counter arguments**
 
-Demurrage does not need to be implemented at the start of a Web3 network. A genesis allocation of coins can be an effective way to allocate enough funds for building up some initial use cases and applications for people to use. This approach means early capital investments into the network money would be rewarded by being able to benefit from no wealth taxes in the earlier stages.
+Demurrage does not need to be implemented at the start of a Web3 network. A genesis allocation of coins can be an effective way to allocate enough funds for building up some initial use cases and applications for people to use. This approach means early capital investments into the network money would be rewarded by being able to benefit from no network coin taxes in the earlier stages.
 
-When the network has grown and the genesis funds are nearing depletion the community could then consider introducing a small wealth tax to simulate demurrage that can also help with funding ongoing initiatives. During a growth phase the holder of the network money could benefit from ongoing price appreciation that outpaces any loss from the wealth tax.
+When the network has grown and the genesis funds are nearing depletion the community could then consider introducing a small network coin tax to simulate demurrage that can also help with funding ongoing initiatives. During a growth phase the holder of the network money could benefit from ongoing price appreciation that outpaces any loss from the network coin tax.
 
 It is only in the late stages of the ecosystem where the impact of demurrage will have the desired effect of preventing coin storage. Approaches such as financial liquidity incentives would then likely be useful for generating more long term demand for the network money.
 
@@ -34,7 +34,7 @@ It is only in the late stages of the ecosystem where the impact of demurrage wil
 
 ## **Treasury influence risks**
 
-The wealth tax could mean there is a large amount of income generated for the treasury each year. Community members could greatly benefit financially from this income which creates an incentive for people to try and game the system or increase their wealth to influence over how this funding is used. If the wealth tax from demurrage results in a suppressed coin value it could become easier to capture enough influence in the network. If someone can accumulate more than they lose from the funding process they might be able to perpetually increase their wealth through the funding process.
+The network coin tax could mean there is a large amount of income generated for the treasury each year. Community members could greatly benefit financially from this income which creates an incentive for people to try and game the system or increase their wealth to influence over how this funding is used. If the network coin tax from demurrage results in a suppressed coin value it could become easier to capture enough influence in the network. If someone can accumulate more than they lose from the funding process they might be able to perpetually increase their wealth through the funding process.
 
 
 
@@ -54,7 +54,7 @@ The idea and benefits of demurrage are not widely understood or known in society
 
 The network money does not need to compete to be the most desirable medium of exchange. It could solely focus on being used for paying for node operation and as financial liquidity. Token money is able to experiment with a variety of different ideas to create a broadly adopted medium of exchange. New forms of money can be introduced and adopted over time.
 
-Education could still be a meaningful barrier for the adoption of demurrage. The quality of educational resources will be an important part of convincing people that demurrage is actually highly preferable and a more effective approach for money. A Web3 ecosystem only needs a moderately sized community to endorse this approach for the ecosystem to demonstrate the potential of a wealth tax that simulates demurrage.
+Education could still be a meaningful barrier for the adoption of demurrage. The quality of educational resources will be an important part of convincing people that demurrage is actually highly preferable and a more effective approach for money. A Web3 ecosystem only needs a moderately sized community to endorse this approach for the ecosystem to demonstrate the potential of a network coin tax that simulates demurrage.
 
 
 

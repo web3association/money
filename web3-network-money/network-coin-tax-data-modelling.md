@@ -1,13 +1,13 @@
-# Wealth tax data modelling
+# Network coin tax data modelling
 
-A number of comparisons can be made to better understand the implications of adopting a wealth tax within a Web3 network.
+A number of comparisons can be made to better understand the implications of adopting a network coin tax within a Web3 network.
 
 The approaches we want to compare are as follows:
 
 * **Storable money & added transaction fees generating treasury income** - The money doesn’t lose value over time and the base transaction fee is increased to generate ongoing income for the ecosystem treasury.
 * **Storable money & excess transaction fees generating treasury income** - The money doesn’t lose value over time and the transaction fees are as low as possible with only excess fees being used as treasury income that are above the compensation threshold for node operators.
-* **Demurrage money & 0.1% wealth tax** - The money simulates the effects of demurrage using a 0.1% wealth tax.
-* **Demurrage money & 1% wealth tax** - The money simulates the effects of demurrage using a 1% wealth tax.
+* **Demurrage money & 0.1% network coin tax** - The money simulates the effects of demurrage using a 0.1% network coin tax.
+* **Demurrage money & 1% network coin tax** - The money simulates the effects of demurrage using a 1% network coin tax.
 
 The data model applies some examples values to illustrate the difference between these approaches based on whether the user is storer, an active user or a combination of the two. The data modelling can be found here:
 
@@ -39,12 +39,12 @@ If node operators were paid a predictable or fixed amount based on performance b
 
 With storable networks it is more difficult to lower transaction fees as low as possible as node operators rely on the income generated from transactions. This means the network needs to predict how many transactions it will receive to reduce the fees accordingly to make sure the node operators are only compensated what is necessary. Alternatively it means using a single fee amount that could have been reduced due to the excess income that was generated beyond the intended compensation amount. Storable networks will likely need to introduce a buffer so that node operators are always sufficiently compensated otherwise this could create a systemic risk for the network. Node operators also rely on the price stability of the network money as if the price drops the same transaction fee amount might not be enough to incentivise ongoing operation.
 
-Wealth taxes don't rely on transaction volume which makes the income more predictable. They do however rely on price stability of the network money. Overall this should mean that wealth taxes provide more reliable income for node operators than transaction fees. The transaction fees can be reduced to the absolute minimum and it can remain there in perpetuity. The only increase in fee that is commonly required is one that prevents transaction spammers. Demurrage networks should be able to more reliably keep transaction fees as cheap as possible. The other benefit of the wealth tax approach is it spreads the cost of paying for node operators across the entire network of people that hold the network coin rather than just being the responsibility of active transacting users.
+Network coin taxes don't rely on transaction volume which makes the income more predictable. They do however rely on price stability of the network money. Overall this should mean that network coin taxes provide more reliable income for node operators than transaction fees. The transaction fees can be reduced to the absolute minimum and it can remain there in perpetuity. The only increase in fee that is commonly required is one that prevents transaction spammers. Demurrage networks should be able to more reliably keep transaction fees as cheap as possible. The other benefit of the network coin tax approach is it spreads the cost of paying for node operators across the entire network of people that hold the network coin rather than just being the responsibility of active transacting users.
 
 
 
-**Wealth tax networks will need to add additional incentives or have sufficient network effects to maintain a high wealth tax**
+**Network coin tax networks will need to add additional incentives or have sufficient network effects to maintain a high network coin tax**
 
-A wealth tax network could be easily duplicated and the wealth tax could be reduced to only pay for node operation. When these networks mature there will likely be less development effort required to improve and maintain the network. This situation creates an opportunity to reduce the wealth tax or for other networks to duplicate the network and reduce it.
+A network coin tax network could be easily duplicated and the network coin tax could be reduced to only pay for node operation. When these networks mature there will likely be less development effort required to improve and maintain the network. This situation creates an opportunity to reduce the network coin tax or for other networks to duplicate the network and reduce it.
 
-This could make it difficult to keep the wealth tax above the cost of operating the network unless an additional incentive is added to generate ongoing demand for the network money. Alternatively network effects could help with preventing people from leaving the network due to the difficulties in getting everyone to migrate elsewhere.
+This could make it difficult to keep the network coin tax above the cost of operating the network unless an additional incentive is added to generate ongoing demand for the network money. Alternatively network effects could help with preventing people from leaving the network due to the difficulties in getting everyone to migrate elsewhere.

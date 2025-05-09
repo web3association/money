@@ -22,7 +22,7 @@
 ## Web3 Network Money
 
 * [Demurrage implementation approaches](web3-network-money/demurrage-implementation-approaches.md)
-* [Wealth tax data modelling](web3-network-money/wealth-tax-data-modelling.md)
+* [Network coin tax data modelling](web3-network-money/network-coin-tax-data-modelling.md)
 * [Creating Web3 network effects](web3-network-money/creating-web3-network-effects.md)
 * [Creating stable demand for network money](web3-network-money/creating-stable-demand-for-network-money/README.md)
   * [Financial liquidity incentive options](web3-network-money/creating-stable-demand-for-network-money/financial-liquidity-incentive-options.md)
@@ -33,7 +33,7 @@
 * [Demurrage network money is inevitable](web3-network-money/demurrage-network-money-is-inevitable/README.md)
   * [Storable money & no treasury income](web3-network-money/demurrage-network-money-is-inevitable/storable-money-and-no-treasury-income.md)
   * [Storable money & transaction fees](web3-network-money/demurrage-network-money-is-inevitable/storable-money-and-transaction-fees.md)
-  * [Demurrage money & wealth taxes](web3-network-money/demurrage-network-money-is-inevitable/demurrage-money-and-wealth-taxes.md)
+  * [Demurrage money & network coin taxes](web3-network-money/demurrage-network-money-is-inevitable/demurrage-money-and-network-coin-taxes.md)
 
 ## Web3 Token money
 

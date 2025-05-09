@@ -12,7 +12,7 @@ Demurrage doesn’t need to be implemented immediately. A genesis allocation of 
 
 **Objectives & incentives**
 
-* **Founding entities** - Founding entities need to pay for ongoing development costs to improve and maintain the network's infrastructure. Founding entities have the objective to create an initial funding process that can demonstrate how existing and future funds could be used effectively. This is important to get right as it will be used to justify the introduction of a wealth tax. There is also a need to market the network and maximise the size of the community and overall investment into the network. More investment means more funding for different initiatives and it can also help with increasing overall development velocity.
+* **Founding entities** - Founding entities need to pay for ongoing development costs to improve and maintain the network's infrastructure. Founding entities have the objective to create an initial funding process that can demonstrate how existing and future funds could be used effectively. This is important to get right as it will be used to justify the introduction of a network coin tax. There is also a need to market the network and maximise the size of the community and overall investment into the network. More investment means more funding for different initiatives and it can also help with increasing overall development velocity.
 * **Contributors** - Contributors want to benefit from the genesis allocation of coins that they could receive to build new use cases and applications on the network. They benefit from the coin's value being as high as possible so that the ecosystem can fund more contributors and different initiatives.
 * **Community members** - Community members are looking to maximise their investment returns by investing into the Web3 ecosystems that they most believe in. Community members will be looking at how effective the founding entities have been at using their own funding and how effective the initial funding process is at generating impactful returns on investment. This can influence how much investment the ecosystem is able to attract.
 * **Overall ecosystem** - Maximise investment into the ecosystem and create initial treasury systems and funding processes. Investments will be used to bootstrap network developments and for funding for any initial applications and use cases.
@@ -21,7 +21,7 @@ Demurrage doesn’t need to be implemented immediately. A genesis allocation of 
 
 **Coin storing**
 
-Coin storing would be at its highest in the earliest stages of the network as this is when there is the least amount of applications and protocols available. The lack of demurrage via a wealth tax creates an incentive to invest in the network and store the coin to take advantage of any potential price appreciation. Coin holding is highly beneficial at this stage of the network. The ecosystem wants as many people as possible to hold the coin so that its value can increase. Investment into the ecosystem and storing coins helps to maximise the value of the funding that is available from any genesis allocation of coins. These coins can be used to fund impactful ecosystem initiatives.
+Coin storing would be at its highest in the earliest stages of the network as this is when there is the least amount of applications and protocols available. The lack of demurrage via a network coin tax creates an incentive to invest in the network and store the coin to take advantage of any potential price appreciation. Coin holding is highly beneficial at this stage of the network. The ecosystem wants as many people as possible to hold the coin so that its value can increase. Investment into the ecosystem and storing coins helps to maximise the value of the funding that is available from any genesis allocation of coins. These coins can be used to fund impactful ecosystem initiatives.
 
 
 
@@ -33,22 +33,22 @@ Coin usage would be at its lowest in the earlier stages of the network, which me
 
 ## Growth phase
 
-The growth phase is when the ecosystem introduces demurrage via a wealth tax. This will generate ongoing income for the treasury. The network is then able to use that income in the funding process to develop new use cases, protocols and applications.
+The growth phase is when the ecosystem introduces demurrage via a network coin tax. This will generate ongoing income for the treasury. The network is then able to use that income in the funding process to develop new use cases, protocols and applications.
 
 
 
 **Objectives & incentives**
 
-* **Founding entities** - Founding entities need to prove how effective they have been at creating a funding process that generates a positive return on investment. The wealth tax will be used to fund ongoing development and new initiatives. Their objective is to refine and improve the funding process as much as possible to maximise the impact and growth potential from these funding initiatives. The overall objective at this stage is to introduce a wealth tax that accelerates the growth of the network through funding impactful initiatives and ongoing development and improvements to the network.
-* **Contributors** - The objective for contributors is to generate as much impact as possible in the ecosystem so that they will be selected to receive funding. The incentives to achieve this objective should grow stronger over time once the wealth tax is introduced. This is because if the network grows it increases the amount of funding that is also available. Contributors could be paid very well to work in the ecosystem. This would align the incentives with attracting top performing talent.
-* **Community members** - Community members still have the objective to maximise their return on investment from investing into the network. Community members might lose money from a wealth tax however they could also see large amounts of coin price appreciation due to the new use cases and applications that get developed. Community members will be able to benefit from a number of these new use cases that get developed. Community members have an ongoing incentive to just store the coin whilst the network is growing quickly and at a rate that is above the cost of the wealth tax.
-* **Overall ecosystem** - Investment remains highly important for the ecosystem as this will help to retain and grow the value of the network coin. The coin can be actively used to fund a lot of different initiatives. The quality and effectiveness of the funding process becomes a large focal point as this will heavily influence the overall growth of the network and this will either enable future wealth tax increases or limit them. If a network is able to generate returns on investment that are higher than the tax they are collecting they are incentivised to keep increasing the wealth tax to maximise the growth rate. A performant funding process plus high wealth taxes could translate into the fastest possible growth rate for the ecosystem, which could be an effective approach in a highly competitive market.
+* **Founding entities** - Founding entities need to prove how effective they have been at creating a funding process that generates a positive return on investment. The network coin tax will be used to fund ongoing development and new initiatives. Their objective is to refine and improve the funding process as much as possible to maximise the impact and growth potential from these funding initiatives. The overall objective at this stage is to introduce a network coin tax that accelerates the growth of the network through funding impactful initiatives and ongoing development and improvements to the network.
+* **Contributors** - The objective for contributors is to generate as much impact as possible in the ecosystem so that they will be selected to receive funding. The incentives to achieve this objective should grow stronger over time once the network coin tax is introduced. This is because if the network grows it increases the amount of funding that is also available. Contributors could be paid very well to work in the ecosystem. This would align the incentives with attracting top performing talent.
+* **Community members** - Community members still have the objective to maximise their return on investment from investing into the network. Community members might lose money from a network coin tax however they could also see large amounts of coin price appreciation due to the new use cases and applications that get developed. Community members will be able to benefit from a number of these new use cases that get developed. Community members have an ongoing incentive to just store the coin whilst the network is growing quickly and at a rate that is above the cost of the network coin tax.
+* **Overall ecosystem** - Investment remains highly important for the ecosystem as this will help to retain and grow the value of the network coin. The coin can be actively used to fund a lot of different initiatives. The quality and effectiveness of the funding process becomes a large focal point as this will heavily influence the overall growth of the network and this will either enable future network coin tax increases or limit them. If a network is able to generate returns on investment that are higher than the tax they are collecting they are incentivised to keep increasing the network coin tax to maximise the growth rate. A performant funding process plus high network coin taxes could translate into the fastest possible growth rate for the ecosystem, which could be an effective approach in a highly competitive market.
 
 
 
 **Coin storing**
 
-Coin storing is still highly beneficial during the growth phase of the network. Any treasury income that is generated by the wealth tax will benefit from the coin maintaining or growing in value. A coin that is in high demand and being stored can help to increase the amount of initiatives that can be funded from the income that is generated from the wealth tax.
+Coin storing is still highly beneficial during the growth phase of the network. Any treasury income that is generated by the network coin tax will benefit from the coin maintaining or growing in value. A coin that is in high demand and being stored can help to increase the amount of initiatives that can be funded from the income that is generated from the network coin tax.
 
 
 
@@ -60,7 +60,7 @@ As the number of applications and use cases increase the reasons for people to t
 
 ## Dispersion phase
 
-The dispersion phase of the network is when the growth rate of the network does not exceed the cost of the wealth tax. For instance, if the ecosystem is growing by 2% a year, but the wealth tax is 3% a year, the cost of holding the coin would now exceed the gains that someone could expect to make. The incentives for the user is now to not store the coin due to the loss of value and lack of price appreciation. People are now incentivised to use the coin when necessary for goods and services or for investment into other business ventures.
+The dispersion phase of the network is when the growth rate of the network does not exceed the cost of the network coin tax. For instance, if the ecosystem is growing by 2% a year, but the network coin tax is 3% a year, the cost of holding the coin would now exceed the gains that someone could expect to make. The incentives for the user is now to not store the coin due to the loss of value and lack of price appreciation. People are now incentivised to use the coin when necessary for goods and services or for investment into other business ventures.
 
 
 
@@ -75,10 +75,10 @@ The dispersion phase of the network is when the growth rate of the network does 
 
 **Coin storing**
 
-The wealth tax should now become increasingly effective at discouraging the storing of the network coin. In this phase it is no longer financially lucrative to hold the network coin. Instead people are now incentivised to exchange their coins for goods or services or to invest into business ventures as otherwise they would simply be losing money by just storing them.
+The network coin tax should now become increasingly effective at discouraging the storing of the network coin. In this phase it is no longer financially lucrative to hold the network coin. Instead people are now incentivised to exchange their coins for goods or services or to invest into business ventures as otherwise they would simply be losing money by just storing them.
 
 
 
 **Coin usage**
 
-The effects of demurrage via a wealth tax will be much more effective at this stage for incentivising people to use the money they have productively such as for buying goods and services or for investments. There should also now be a lot more protocols, applications and use cases for people to use. Coin usage should now be at its highest and remain high due to the functionality that is available and due to the ongoing incentives created by demurrage.
+The effects of demurrage via a network coin tax will be much more effective at this stage for incentivising people to use the money they have productively such as for buying goods and services or for investments. There should also now be a lot more protocols, applications and use cases for people to use. Coin usage should now be at its highest and remain high due to the functionality that is available and due to the ongoing incentives created by demurrage.

@@ -16,7 +16,7 @@ A coin expiry based approach would mean that at a certain date the coin becomes 
 
 **Coin burning**
 
-Coin burning means the coins would become unusable or be permanently discard. Burning could be achieved through a form of wealth tax or using transaction fees. From a wealth tax it would mean coins would be taxed and then burnt. For transaction fees, a portion of the fees earned from a transaction could be burnt. Coin burning can help to create a demurrage currency however it also means reducing the money supply. This would create deflationary money. This could increase the value of the money and lead to situations where people expect prices to fall, this then could result in many people delaying purchases, which would reduce overall consumer demand. This slowing of consumer spending could lead to lower business revenues and discourage investment. Persistent deflation can lead to a deflationary spiral, where falling prices lead to lower production and incomes, reducing demand further and causing economic stagnation. So coin burning would not be a very desirable or effective solution for implementing demurrage.
+Coin burning means the coins would become unusable or be permanently discard. Burning could be achieved through a form of network coin tax or using transaction fees. From a network coin tax it would mean coins would be taxed and then burnt. For transaction fees, a portion of the fees earned from a transaction could be burnt. Coin burning can help to create a demurrage currency however it also means reducing the money supply. This would create deflationary money. This could increase the value of the money and lead to situations where people expect prices to fall, this then could result in many people delaying purchases, which would reduce overall consumer demand. This slowing of consumer spending could lead to lower business revenues and discourage investment. Persistent deflation can lead to a deflationary spiral, where falling prices lead to lower production and incomes, reducing demand further and causing economic stagnation. So coin burning would not be a very desirable or effective solution for implementing demurrage.
 
 
 
@@ -26,11 +26,11 @@ Instead of direct demurrage, incentives could be introduced for reaching certain
 
 
 
-**Wealth taxation**
+**Network coin taxation**
 
-A wealth tax means that every account and contract in the network would be taxed a percentage amount periodically. The benefit of this approach is that it doesn’t need to impact the money supply. The taxation could simply be used as income for the network's treasury meaning the taxed amount would be circulated back into the economy. Wealth tax income could then be used to fund highly impactful initiatives.
+A network coin tax means that every account and contract in the network would be taxed a percentage amount of the network coins they possess periodically. The benefit of this approach is that it doesn’t need to impact the money supply. The taxation could simply be used as income for the network's treasury meaning the taxed amount would be circulated back into the economy. Network coin tax income could then be used to fund highly impactful initiatives.
 
-Wealth taxes are one of the most egalitarian and flexible solutions for simulating demurrage in a Web3 network. You could use any preferred supply mechanism and everyone would be treated equally based on wealth. For generating treasury income, a wealth tax approach was also identified as the most promising solution for generating long term income.
+Network coin taxes are one of the most egalitarian and flexible solutions for simulating demurrage in a Web3 network. You could use any preferred supply mechanism and everyone would be treated equally based on the amount of network coins they hold. For generating treasury income, a network coin tax approach was also identified as the most promising solution for generating long term income.
 
 
 
@@ -42,4 +42,4 @@ A Web3 network could try to prevent the problems of ongoing money expansion by b
 
 Supply changes either mean a constantly expanding money supply with the problems of inflation or a balance between supply increases and burn mechanisms that make money unpredictable and ineffective at simulating demurrage. Neither of these approaches are desirable or necessary.
 
-The easiest way to constantly stimulate demurrage is through a wealth tax. Using a wealth tax the money supply mechanisms can operate in whichever way is most effective for the network. Networks could adopt a deflationary, fixed supply, inflationary or elastically changing supply approach depending on their requirements.
+The easiest way to constantly stimulate demurrage is through a network coin tax. Using a network coin tax the money supply mechanisms can operate in whichever way is most effective for the network. Networks could adopt a deflationary, fixed supply, inflationary or elastically changing supply approach depending on their requirements.
