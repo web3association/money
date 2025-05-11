@@ -23,7 +23,7 @@
 
 * [Demurrage implementation approaches](web3-network-money/demurrage-implementation-approaches.md)
 * [Network coin tax data modelling](web3-network-money/network-coin-tax-data-modelling.md)
-* [Creating Web3 network effects](web3-network-money/creating-web3-network-effects.md)
+* [Web3 network effects](web3-network-money/web3-network-effects.md)
 * [Creating stable demand for network money](web3-network-money/creating-stable-demand-for-network-money/README.md)
   * [Financial liquidity incentive options](web3-network-money/creating-stable-demand-for-network-money/financial-liquidity-incentive-options.md)
 * [Goals & concessions](web3-network-money/goals-and-concessions.md)
