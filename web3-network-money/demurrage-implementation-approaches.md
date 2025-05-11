@@ -30,7 +30,7 @@ Instead of direct demurrage, incentives could be introduced for reaching certain
 
 A network coin tax means that every account and contract in the network would be taxed a percentage amount of the network coins they possess periodically. The benefit of this approach is that it doesn’t need to impact the money supply. The taxation could simply be used as income for the network's treasury meaning the taxed amount would be circulated back into the economy. Network coin tax income could then be used to fund highly impactful initiatives.
 
-Network coin taxes are one of the most egalitarian and flexible solutions for simulating demurrage in a Web3 network. You could use any preferred supply mechanism and everyone would be treated equally based on the amount of network coins they hold. For generating treasury income, a network coin tax approach was also identified as the most promising solution for generating long term income.
+Network coin taxes are one of the most egalitarian and flexible solutions for simulating demurrage in a Web3 network. You could use any preferred supply mechanism and everyone would be treated equally based on the amount of network coins they hold. For generating treasury income, a network coin tax approach also appears to be the most promising solution for generating meaningful treasury income over the long term.
 
 
 
