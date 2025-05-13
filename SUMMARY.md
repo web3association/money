@@ -27,6 +27,8 @@
 * [Stable demand for network money](web3-network-money/stable-demand-for-network-money/README.md)
   * [Financial liquidity incentive options](web3-network-money/stable-demand-for-network-money/financial-liquidity-incentive-options.md)
 * [Goals & concessions](web3-network-money/goals-and-concessions.md)
+* [Money supply approaches](web3-network-money/money-supply-approaches/README.md)
+  * [Network money & stable prices](web3-network-money/money-supply-approaches/network-money-and-stable-prices.md)
 * [Web3 network development phases](web3-network-money/web3-network-development-phases.md)
 * [Demurrage advantages & opportunities](web3-network-money/demurrage-advantages-and-opportunities.md)
 * [Demurrage risks & challenges](web3-network-money/demurrage-risks-and-challenges.md)
