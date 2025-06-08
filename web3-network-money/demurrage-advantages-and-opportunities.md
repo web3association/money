@@ -66,13 +66,13 @@ Demurrage when implemented as a network coin tax does not involve any constraint
 
 
 
-**Efficient financial markets**
+**Granular incentive mechanisms**
 
-If the value of the network coin was mostly or fully derived from its usage for transaction fees it could make the value of the coin more volatile due to a changing amount of demand for transactions. Multiple sources of demand is a desirable outcome to try and resolve this problem.
+An opportunity with applying demurrage to Web3 networks is how granular the coin taxation rate could be applied to different use cases. It could be higher when the coin is sitting idle in a wallet and lower when it is deposited in a financial protocol. A more granular approach to applying the network coin tax creates an opportunity to incentivise the exact outcomes that a network is trying to achieve.
 
-An opportunity with applying demurrage to Web3 networks is how a coin taxation rate could be applied. The taxation rate could be different in different contexts. It could be higher when the coin is sitting idle in a wallet and lower when it is deposited in a financial protocol. A more granular approach to applying the network coin tax creates an opportunity to create more highly efficient financial markets by incentivising people to use the network coin as productively as possible.
+Creating more efficient financial markets is an example goal for these types of incentive mechanisms. This could be valuable for a Web3 network as the coin's value might be mostly or fully derived from its usage for transaction fees. Without multiple sources of demand the price of the network coin could become more volatile due to changing amounts of demand for transactions.
 
-The network coin could be used as token exchange liquidity or as lending and borrowing liquidity as some examples. These use cases could help with better maintaining stable prices for the network coin over the long term. The network coin could be entirely focussed on being used for either transaction fees or as financial liquidity. The more effective the network coin is at facilitating token exchanges the more efficient the network's token market becomes. Efficient financial markets should be an effective way to increase the network effects of the network. Stable network coin prices can also help to increase the price stability of any income generated from taxation, income that can then be used to pay for node operators and other ecosystem initiatives.
+The network coin could be used as token exchange liquidity or as lending and borrowing liquidity as some examples. These use cases could help with better maintaining stable prices for the network coin over the long term. The network coin could be entirely focussed on being used for either transaction fees or as financial liquidity. For example the more effective the network coin is at facilitating token exchanges the more efficient the network's token market could become. A network coin tax could help with creating these more efficient financial markets by reducing the taxation rate when the money is deposited as financial collateral within these protocols. Getting these incentive mechanisms right could help with creating more powerful network effects that help the network to thrive over the long term.
 
 
 
