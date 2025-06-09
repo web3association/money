@@ -1,6 +1,6 @@
 # Demurrage implementation approaches
 
-Network money needs to be highly liquid and always available so that people can always use it to pay for transactions they submit on the network or to pay for any other forms of taxes. Demurrage is an important solution for ensuring that network money is not stored over the long term. Demurrage would help to prevent wealth from concentrating into the hands of a few people due to the incentives it creates to not store money and leave it idle. People are instead incentivised to be more productive with their money by investing it or exchanging it for goods and services rather than holding money that loses value over time. Demurrage could be implemented in a number of ways in a Web3 network.
+The network coin needs to be highly liquid and always available so that people can always use it to pay for transactions they submit on the network or to pay for any other forms of taxes. Demurrage is an important solution for ensuring that the network coin is not stored over the long term. Demurrage would help to prevent wealth from concentrating into the hands of a few people due to the incentives it creates to not store money and leave it idle. People are instead incentivised to be more productive with their money by investing it or exchanging it for goods and services rather than holding money that loses value over time. Demurrage could be implemented in a number of ways in a Web3 network.
 
 
 

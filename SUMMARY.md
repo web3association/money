@@ -15,29 +15,29 @@
 
 * [Facilitating the exchange process](web3-money/facilitating-the-exchange-process.md)
 * [Web3 money use cases & responsibilities](web3-money/web3-money-use-cases-and-responsibilities.md)
-* [Network money & token money](web3-money/network-money-and-token-money/README.md)
-  * [Responsibility comparison](web3-money/network-money-and-token-money/responsibility-comparison.md)
-  * [Properties comparison](web3-money/network-money-and-token-money/properties-comparison.md)
+* [Network coin & tokens](web3-money/network-coin-and-tokens/README.md)
+  * [Responsibility comparison](web3-money/network-coin-and-tokens/responsibility-comparison.md)
+  * [Properties comparison](web3-money/network-coin-and-tokens/properties-comparison.md)
 
-## Web3 Network Money
+## Web3 Network Coin
 
-* [Demurrage implementation approaches](web3-network-money/demurrage-implementation-approaches.md)
-* [Network coin tax data modelling](web3-network-money/network-coin-tax-data-modelling.md)
-* [Web3 network effects](web3-network-money/web3-network-effects.md)
-* [Stable demand for network money](web3-network-money/stable-demand-for-network-money/README.md)
-  * [Financial liquidity incentive options](web3-network-money/stable-demand-for-network-money/financial-liquidity-incentive-options.md)
-* [Goals & concessions](web3-network-money/goals-and-concessions.md)
-* [Money supply approaches](web3-network-money/money-supply-approaches/README.md)
-  * [Network money & stable prices](web3-network-money/money-supply-approaches/network-money-and-stable-prices.md)
-* [Web3 network development phases](web3-network-money/web3-network-development-phases.md)
-* [Demurrage advantages & opportunities](web3-network-money/demurrage-advantages-and-opportunities.md)
-* [Demurrage risks & challenges](web3-network-money/demurrage-risks-and-challenges.md)
-* [Demurrage network money is inevitable](web3-network-money/demurrage-network-money-is-inevitable/README.md)
-  * [Storable money & no treasury income](web3-network-money/demurrage-network-money-is-inevitable/storable-money-and-no-treasury-income.md)
-  * [Storable money & transaction fees](web3-network-money/demurrage-network-money-is-inevitable/storable-money-and-transaction-fees.md)
-  * [Demurrage money & network coin taxes](web3-network-money/demurrage-network-money-is-inevitable/demurrage-money-and-network-coin-taxes.md)
+* [Demurrage implementation approaches](web3-network-coin/demurrage-implementation-approaches.md)
+* [Network coin tax data modelling](web3-network-coin/network-coin-tax-data-modelling.md)
+* [Web3 network effects](web3-network-coin/web3-network-effects.md)
+* [Stable demand for the network coin](web3-network-coin/stable-demand-for-the-network-coin/README.md)
+  * [Financial liquidity incentive options](web3-network-coin/stable-demand-for-the-network-coin/financial-liquidity-incentive-options.md)
+* [Goals & concessions](web3-network-coin/goals-and-concessions.md)
+* [Money supply approaches](web3-network-coin/money-supply-approaches/README.md)
+  * [Network money & stable prices](web3-network-coin/money-supply-approaches/network-money-and-stable-prices.md)
+* [Web3 network development phases](web3-network-coin/web3-network-development-phases.md)
+* [Demurrage advantages & opportunities](web3-network-coin/demurrage-advantages-and-opportunities.md)
+* [Demurrage risks & challenges](web3-network-coin/demurrage-risks-and-challenges.md)
+* [Demurrage network money is inevitable](web3-network-coin/demurrage-network-money-is-inevitable/README.md)
+  * [Storable money & no treasury income](web3-network-coin/demurrage-network-money-is-inevitable/storable-money-and-no-treasury-income.md)
+  * [Storable money & transaction fees](web3-network-coin/demurrage-network-money-is-inevitable/storable-money-and-transaction-fees.md)
+  * [Demurrage money & network coin taxes](web3-network-coin/demurrage-network-money-is-inevitable/demurrage-money-and-network-coin-taxes.md)
 
-## Web3 Token money
+## Web3 Tokens
 
-* [Observations, goals & concessions](web3-token-money/observations-goals-and-concessions.md)
-* [Token money future possibilities](web3-token-money/token-money-future-possibilities.md)
+* [Observations, goals & concessions](web3-tokens/observations-goals-and-concessions.md)
+* [Token money future possibilities](web3-tokens/token-money-future-possibilities.md)
