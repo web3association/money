@@ -1,6 +1,6 @@
-# Token money future possibilities
+# Token money adoption possibilities
 
-A number of different communities could benefit from creating their own token money, and token money could be implemented in a number of ways.
+A number of different communities could benefit from creating their own token based money, as tokens can be implemented in a number of ways.
 
 
 

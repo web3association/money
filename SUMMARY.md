@@ -40,4 +40,4 @@
 ## Web3 Tokens
 
 * [Observations, goals & concessions](web3-tokens/observations-goals-and-concessions.md)
-* [Token money future possibilities](web3-tokens/token-money-future-possibilities.md)
+* [Token money adoption possibilities](web3-tokens/token-money-adoption-possibilities.md)
