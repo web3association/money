@@ -28,14 +28,14 @@
   * [Financial liquidity incentive options](web3-network-coin/stable-demand-for-the-network-coin/financial-liquidity-incentive-options.md)
 * [Goals & concessions](web3-network-coin/goals-and-concessions.md)
 * [Money supply approaches](web3-network-coin/money-supply-approaches/README.md)
-  * [Network money & stable prices](web3-network-coin/money-supply-approaches/network-money-and-stable-prices.md)
+  * [The network coin & stable prices](web3-network-coin/money-supply-approaches/the-network-coin-and-stable-prices.md)
 * [Web3 network development phases](web3-network-coin/web3-network-development-phases.md)
 * [Demurrage advantages & opportunities](web3-network-coin/demurrage-advantages-and-opportunities.md)
 * [Demurrage risks & challenges](web3-network-coin/demurrage-risks-and-challenges.md)
-* [Demurrage network money is inevitable](web3-network-coin/demurrage-network-money-is-inevitable/README.md)
-  * [Storable money & no treasury income](web3-network-coin/demurrage-network-money-is-inevitable/storable-money-and-no-treasury-income.md)
-  * [Storable money & transaction fees](web3-network-coin/demurrage-network-money-is-inevitable/storable-money-and-transaction-fees.md)
-  * [Demurrage money & network coin taxes](web3-network-coin/demurrage-network-money-is-inevitable/demurrage-money-and-network-coin-taxes.md)
+* [Demurrage is inevitable](web3-network-coin/demurrage-is-inevitable/README.md)
+  * [Storable money & no treasury income](web3-network-coin/demurrage-is-inevitable/storable-money-and-no-treasury-income.md)
+  * [Storable money & transaction fees](web3-network-coin/demurrage-is-inevitable/storable-money-and-transaction-fees.md)
+  * [Demurrage money & network coin taxes](web3-network-coin/demurrage-is-inevitable/demurrage-money-and-network-coin-taxes.md)
 
 ## Web3 Tokens
 

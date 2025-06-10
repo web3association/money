@@ -40,7 +40,7 @@ The good thing about transaction fees is that they at least help with generating
 
 **Low network security (Score - 2)**
 
-Networks that adopt a transaction fee approach for generating treasury income would create an environment where people are not taxed or penalised for just holding the network coins and doing nothing with them. This means storing is rewarded as the attractiveness of holding network money would be higher than holding many other assets that commonly depreciate over time. This reduces the network security as it creates a long term risk that power consolidates into the hands of a few people that have managed to accumulate a large amount of the network coin. The inevitability of wealth concentration is increased only further by the presence of any risk free staking rewards.
+Networks that adopt a transaction fee approach for generating treasury income would create an environment where people are not taxed or penalised for just holding the network coins and doing nothing with them. This means storing is rewarded as the attractiveness of holding the network coin would be higher than holding many other assets that commonly depreciate over time. This reduces the network security as it creates a long term risk that power consolidates into the hands of a few people that have managed to accumulate a large amount of the network coin. The inevitability of wealth concentration is increased only further by the presence of any risk free staking rewards.
 
 
 

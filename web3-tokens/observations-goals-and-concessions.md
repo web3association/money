@@ -12,19 +12,19 @@ Token based money could be governed in a multitude of ways depending on the need
 
 **Observation - Environment specific implementation**
 
-Token money could be implemented in any way that a community prefers. Network money has the responsibility of handling node operation and ensuring the network is always available for anyone to use and exchange token based assets. Token money does not have this requirement, so it could adopt the store of value property in certain circumstances. For example, a country could create a token based money that enables holders to hold a certain amount of token money without there being a token tax. Then if the user exceeds that threshold the token tax would then be applied. This isn’t a suggestion that this type of approach is a good idea. Instead it is a statement that token money can be implemented in a variety of different ways. In a permissionless network anyone can hold whichever assets they want to. So mediums of exchange that adopt demurrage would need to consider and generate an ongoing and sufficient amount of demand for the token money to maintain stable prices.
+Token money could be implemented in any way that a community prefers. The network coin has the responsibility of handling node operation and ensuring the network is always available for anyone to use and exchange token based assets. Token money does not have this requirement, so it could adopt the store of value property in certain circumstances. For example, a country could create a token based money that enables holders to hold a certain amount of token money without there being a token tax. Then if the user exceeds that threshold the token tax would then be applied. This isn’t a suggestion that this type of approach is a good idea. Instead it is a statement that token money can be implemented in a variety of different ways. In a permissionless network anyone can hold whichever assets they want to. So mediums of exchange that adopt demurrage would need to consider and generate an ongoing and sufficient amount of demand for the token money to maintain stable prices.
 
 
 
 **Observation - Local financial liquidity incentive**
 
-The financial incentives around liquidity that are adopted by the network money could be effective for handling global token exchanges between the most important assets that are available in the network. However some communities could also have assets that are only relevant to their own community. Localised financial liquidity incentives could also be relevant and effective for token money. Liquidity incentives could also be effective for token money.
+The financial incentives around liquidity that are adopted by the network coin could be effective for handling global token exchanges between the most important assets that are available in the network. However some communities could also have assets that are only relevant to their own community. Localised financial liquidity incentives could also be relevant and effective for token money. Liquidity incentives could also be effective for token money.
 
 
 
 **Goals - Community acceptance and adoption**
 
-Token money doesn’t need to compete on a global scale like network money does. Token money only needs to achieve acceptance and adoption in the community it is intended for such as a country or online community. A medium of exchange will benefit from being as broadly accepted as possible in these communities to increase its network effects. Broad acceptance of token money would make it simpler and easier for people to use it as a medium of exchange in their community. This can prevent the need for exchanging that money for other types of money that people might also be accepting instead.
+Token money doesn’t need to compete on a global scale like the network coin does. Token money only needs to achieve acceptance and adoption in the community it is intended for such as a country or online community. A medium of exchange will benefit from being as broadly accepted as possible in these communities to increase its network effects. Broad acceptance of token money would make it simpler and easier for people to use it as a medium of exchange in their community. This can prevent the need for exchanging that money for other types of money that people might also be accepting instead.
 
 
 

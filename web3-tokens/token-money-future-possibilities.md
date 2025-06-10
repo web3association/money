@@ -38,7 +38,7 @@ Massive online multiplayer games could benefit from their own token money to fac
 
 **Unlikely that no token money is adopted**
 
-The least likely outcome for Web3 networks is that no token based money is adopted. This would mean that the network money would be adopted as the primary medium of exchange. This is a very unlikely outcome as there are so many different communities that exist that could require a different system of money and different implementation approaches. It would be much more risky to use the same medium of exchange for every community that might exist across the world due to different growth rates and usage patterns. Widely using the network money instead of token money as a medium of exchange would mean there would be zero room for error due to how reliant people would be on using a single medium of exchange.
+The least likely outcome for Web3 networks is that no token based money is adopted. This would mean that the network coin would be adopted as the primary medium of exchange. This is a very unlikely outcome as there are so many different communities that exist that could require a different system of money and different implementation approaches. It would be much more risky to use the same medium of exchange for every community that might exist across the world due to different growth rates and usage patterns. Widely using the network coin instead of token money as a medium of exchange would mean there would be zero room for error due to how reliant people would be on using a single medium of exchange.
 
 
 
@@ -58,7 +58,7 @@ The most likely outcome for token money is that there will be many implementatio
 
 Token money could be implemented and used in a wide variety of ways. The scope and potential of what could be adopted is actually quite difficult to comprehend. Token money is fully programmable so the system of money could work in any way that a community prefers. Incentives could be introduced to encourage a wide range of behaviours and outcomes.
 
-If the network money is effective at ensuring the network is always operational it opens up the opportunity to experiment with many forms of token money. Systemic failures in token money should not jeopardise the stability of the network. Alternative forms of token money can be immediately adopted and at low cost. Web3 networks help to create an environment where many forms of token money could be adopted and experimented with.
+If the network coin is effective at ensuring the network is always operational it opens up the opportunity to experiment with many forms of token money. Systemic failures in token money should not jeopardise the stability of the network. Alternative forms of token money can be immediately adopted and at low cost. Web3 networks help to create an environment where many forms of token money could be adopted and experimented with.
 
 
 
