@@ -6,7 +6,7 @@ There are a number of advantages and opportunities for Web3 ecosystems that adop
 
 ## **Fungible assets**
 
-The following are general advantages that are potentially applicable to any fungible asset that adopt demurrage and not just systems of money.
+The following are some advantages that are applicable to many fungible assets that adopt demurrage, this also includes systems of money.
 
 
 
