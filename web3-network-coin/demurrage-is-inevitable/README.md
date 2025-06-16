@@ -1,6 +1,6 @@
 # Demurrage is inevitable
 
-To make the case that demurrage is inevitable we need to compare some situations where a demurrage based Web3 ecosystem competes with alternative approaches for money and generating treasury income. Money is an integral part of the comparison as demurrage directly impacts the properties of the network coin as a form of money. Treasury income is the other main factor to consider, as if demurrage is implemented as a network coin tax it would be something that directly impacts how treasury income is generated. We’ll also need to consider how any of these differences impact transaction fees, network security, incentives and the attractiveness of investing in the network coin itself.
+To make the case that demurrage is inevitable we need to compare some situations where a demurrage based Web3 ecosystem competes with alternative approaches for the network coin and generating treasury income. The network coin is an integral part of the comparison as demurrage directly impacts the properties of the coin. Treasury income is the other main factor to consider, as if demurrage is implemented as a network coin tax will impact how treasury income is generated. We’ll also need to consider how any of these differences impact transaction fees, network security, incentives and the attractiveness of investing in the network coin itself.
 
 In regards to technology, if one ecosystem had better tech than the other it can be assumed that another ecosystem could emerge that duplicates the best technology in the market and then introduces the demurrage currency system. Web3 ecosystems, for the most part, are open source. So at a minimum you could expect that any competing demurrage based networks would have equal technical capabilities as other ecosystems over the long term. In reality a newer ecosystem could have some technical improvements over the existing networks. However for the sake of simplicity, these comparisons will assume the tech is the same across each network.
 
@@ -8,25 +8,25 @@ In regards to the network's funding process, all of these ecosystems could have 
 
 
 
-## Money & treasury income approaches
+## Network coin & treasury income approaches
 
-To understand the benefits of demurrage we can compare the most common combination of approaches that a Web3 ecosystem might adopt when creating a money system and a process for generating treasury income. The approaches we will compare include:
+To understand the benefits of demurrage we can compare the most common combination of approaches that a Web3 ecosystem might adopt when creating a network coin and what fees or taxation approach is adopted for generating treasury income. The approaches we will compare include:
 
-* [**Storable money & no treasury income**](storable-money-and-no-treasury-income.md) - Creating a storable money with no mechanism for generating treasury income
-* [**Storable money & transaction fees** ](storable-money-and-transaction-fees.md)- Creating a storable money with a transaction fee model for generating treasury income
-* [**Demurrage money & network coin taxes**](demurrage-money-and-network-coin-taxes.md) - Creating a demurrage money using a network coin tax which is used to generate treasury income
+* [**Storable coins & no treasury income**](storable-network-coin-and-no-treasury-income.md) - Creating a storable network coin with no mechanism for generating treasury income
+* [**Storable coins & transaction fees** ](storable-network-coin-and-transaction-fees.md)- Creating a storable network coin with a transaction fee model for generating treasury income
+* [**Demurrage network coin & network coin taxes**](demurrage-network-coin-and-network-coin-taxes.md) - Creating a demurrage based network coin using a network coin tax which is used to generate treasury income
 
-<figure><img src="../../.gitbook/assets/money-treasury-income-approaches.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/network-coin-treasury-income-approaches.png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Key takeaways**
 
-* **Demurrage is a better system for money** - As covered in the previous resources, demurrage represents a more effective approach for a system of money over storable money that causes wealth concentrations, economic stagnation and instability due to interest and money cycles.
-* **Network coin taxes are the most effective for generating treasury income** - Network coin taxes generate more predictable and reliable income that is less impacted by changing transaction volume. To generate large amounts of income the network is reliant on network effects that are able to sustain higher network coin taxes.
+* **Demurrage creates a more reliable system** - As covered in the previous resources, demurrage represents a more effective approach for systems of money or other fungible assets over storable variants that result in wealth concentration, economic stagnation and instability due to interest and money cycles.
+* **Network coin taxes are highly effective for generating treasury income** - Network coin taxes generate more predictable and reliable income that is less impacted by changing transaction volume. To generate large amounts of income the network is reliant on network effects that are able to sustain higher network coin taxes.
 * **Network coin taxes can reduce transaction fees more consistently to their lowest** - Network coin taxes can subsidise or fully pay for node operational costs which creates a long term solution for reducing transaction fees. Storable networks rely on transaction fees to pay for node operators which makes it more difficult to have transaction fees as low as they possibly can be as they need to predict how many transactions will be created to work out what the fee structure should be. This commonly means a buffer is needed to make sure the node operators are sufficiently compensated. With network coin taxes, it is easier to keep transaction fees as low as possible as the network coin tax income is more predictable and periodic.
-* **Network coin taxes create the most aligned incentives** - All users that hold the coin will contribute towards the treasury through the network coin tax. The ecosystem also gets to focus on making transaction fees as low as possible which encourages the maximum amount of usage. Network coin taxes penalise idle money which is the most undesirable use case. Increased transaction fees punish active users, the most important use case of the network. Network coin taxes are more egalitarian and effective at aligning the incentives.
-* **Network coin taxes can lead to improved network security** - Users are incentivised to use their coins productively rather than leave them idle, resulting in more exchange and investment. Demurrage helps to maximise coin velocity and opportunities for people to receive money for goods and services. Demurrage can help to ensure that money is not the end goal in the economy, which increases coin dispersion and decentralisation of the coin. Reducing the concentration of wealth should help with maintaining higher levels of network security as the influence that people have from the network coin would be reduced due to higher coin dispersion across the network. A balance still needs to be struck between having enough demand for the network coin so it is valuable but not too valuable that everyone is incentivised to store it.
+* **Network coin taxes create the most aligned incentives** - All users that hold the coin will contribute towards the treasury through the network coin tax. The ecosystem also gets to focus on making transaction fees as low as possible which encourages the maximum amount of usage. Network coin taxes penalise idle coins which is good for the network as idle network coins is the least desirable outcome. Increased transaction fees punish active users, the most important use case of the network. Network coin taxes are more egalitarian and effective at aligning the incentives.
+* **Network coin taxes can lead to improved network security** - Users are incentivised to use their coins productively rather than leave them idle, resulting in more exchange and investment. Demurrage helps to maximise coin velocity and opportunities for people to receive coins for goods and services. Demurrage can help to ensure that the network coin doesn't become the end goal in the economy, instead it increases coin dispersion and decentralisation of the coin. Reducing the concentration of wealth should help with maintaining higher levels of network security as the influence that people have from the network coin would be reduced due to higher coin dispersion across the network. A balance still needs to be struck between having enough demand for the network coin so it is valuable but not too valuable that everyone is incentivised to store it.
 * **Network coin taxes create the best investment opportunities** - Network coin taxes create reliable and predictable treasury income. If the network has a lot of growth potential this treasury income can help with funding impactful initiatives that improve the network or that increase the number of protocols, applications and use cases available. A network coin tax can create a reliable growth engine for funding ongoing development efforts. Reliable funding can make it easier for a network to outcompete the other less funded and potentially stagnant networks. The ongoing development efforts and network improvements could lead to a larger amount of network growth and coin price appreciation. This can make the network coin a compelling investment.
 
 
@@ -45,22 +45,22 @@ If a larger network used transaction fees to generate treasury income it would h
 
 If a larger network had no treasury income generating mechanism it would have the risk of stagnation and slow ecosystem development. In comparison, a network that adopts demurrage would have more reliable income to maintain and improve the network. This funding could represent an ongoing opportunity to develop improvements and use cases that the other network doesn’t have. A larger network could lose its competitive advantage if it isn’t able to incentivise ongoing development efforts.
 
-Larger ecosystems need to have more than just the best tech to succeed. They need to create incentive structures that ensure the network will be maintained and improved over the long term. The tech becomes an increasingly small factor for determining long term success as all new networks can duplicate and use the existing technology by taking the open source code and launching a new network. Incentives and network effects become the increasingly important part of determining which Web3 ecosystems will succeed or fail. Demurrage implemented as a network coin tax leads to improvements in generating treasury income, lowering transaction fees, aligning the incentives and improving network security. It also represents a highly appealing investment opportunity for those that buy into the network's coin in its earlier stages.
+Larger ecosystems need to have more than just the best tech to succeed. They need to create incentive structures that ensure the network will be maintained and improved over the long term. Over time, the tech becomes an increasingly small factor for determining long term success of a Web3 network. All new networks can duplicate and use the best technology by taking the open source code and launching a new network. Incentives and network effects become the increasingly important part of determining which Web3 ecosystems will succeed or fail. Demurrage implemented as a network coin tax can result in improvements in generating treasury income, lowering transaction fees, aligning the incentives and improving network security. It also represents a highly appealing investment opportunity for those that buy into the network's coin in its earlier stages.
 
-Web3 ecosystems are open and permissionless. For this reason large incumbents will need to also adopt the best approaches for creating strong network effects with aligned incentives. Large networks that fail to achieve this can be outcompeted by smaller networks that are able to better align the incentives. Demurrage money when implemented through a network coin tax can help with creating more desirable incentive structures.
+Web3 ecosystems are open and permissionless. For this reason large incumbents will need to also adopt the best approaches for creating strong network effects with aligned incentives. Large networks that fail to achieve this can be outcompeted by smaller networks that are able to better align the incentives. A demurrage based network coin, simulated using a network coin tax, can help with creating an environment with better aligned incentives.
 
 
 
 ## Money & treasury income approaches **analysis**
 
-{% content-ref url="storable-money-and-no-treasury-income.md" %}
-[storable-money-and-no-treasury-income.md](storable-money-and-no-treasury-income.md)
+{% content-ref url="storable-network-coin-and-no-treasury-income.md" %}
+[storable-network-coin-and-no-treasury-income.md](storable-network-coin-and-no-treasury-income.md)
 {% endcontent-ref %}
 
-{% content-ref url="storable-money-and-transaction-fees.md" %}
-[storable-money-and-transaction-fees.md](storable-money-and-transaction-fees.md)
+{% content-ref url="storable-network-coin-and-transaction-fees.md" %}
+[storable-network-coin-and-transaction-fees.md](storable-network-coin-and-transaction-fees.md)
 {% endcontent-ref %}
 
-{% content-ref url="demurrage-money-and-network-coin-taxes.md" %}
-[demurrage-money-and-network-coin-taxes.md](demurrage-money-and-network-coin-taxes.md)
+{% content-ref url="demurrage-network-coin-and-network-coin-taxes.md" %}
+[demurrage-network-coin-and-network-coin-taxes.md](demurrage-network-coin-and-network-coin-taxes.md)
 {% endcontent-ref %}

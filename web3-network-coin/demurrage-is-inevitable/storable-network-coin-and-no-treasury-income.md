@@ -1,16 +1,16 @@
-# Storable money & no treasury income
+# Storable network coin & no treasury income
 
 <div align="left"><figure><img src="../../.gitbook/assets/hoardable-money-no-income.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
-Storable money is a form of money that can be stored and saved over time with either no or limited loss in value. Storable money is often superior to most goods and services that decay or lose value over time. Storable money commonly leads to holders of money demanding interest from others that want to access that money due to the fact that storable money is superior as a store of value when compared to other goods and services. For Web3 ecosystems that have adopted a proof of stake mechanism, those that hold coins can also commonly generate a return by simply staking their coins to secure the network. This creates a form of appreciating money that constantly grows in value over time. In these situations the user does not need to be productive with their money and can just leave it idle and their financial position should grow over time.
+A storable network coin is one that can be stored and saved over time with either no or limited loss in value. A storable network coin will often be superior to most goods and services that decay or lose value over time. Storable network coins will commonly lead to holders of that coin demanding interest from others that want to access the network coin due to the fact that storable coins are superior as a store of value when compared to other goods and services. For Web3 ecosystems that have adopted a proof of stake mechanism, coin holders can commonly generate a return by simply staking their coins to secure the network. This creates an appreciating fungible asset, as the coin holder will keep receiving more coins over time from staking. In these situations the user does not need to be productive with the network coin and can just leave it idle and their financial position should grow over time.
 
 No treasury income means that no added fee mechanisms have been introduced to generate income for the network's treasury. This means an ecosystem would be reliant on the genesis allocation to fund any initiatives or be reliant on investment from community members. No income for an ecosystem treasury means the network would not be trying to create a circular economy using the network itself to help with funding any impactful initiatives.
 
 
 
-**Bad money system (Score - 1)**
+**Very low system reliability (Score - 1)**
 
-Appreciating money has all of the problems mentioned in the money resources such as reduced economic activity due to stored and idle money and the artificial ceiling on capital creation due to the impacts of interest. A small staking reward creates another problem for this implementation of money as it further incentivises storing and rewards people that hold their coins and lock them up. This approach could result in ongoing economic stagnation and low coin velocity due to the incentives people have to store this form of money and also due to the lack of incentives that exist for maintaining and improving the network.
+An appreciating network coin has all of the problems mentioned in the money resources such as reduced economic activity due to stored and idle networks coins and the artificial ceiling on capital creation due to the impacts of interest. A small staking reward creates another problem for this implementation of the network coin as it further incentivises storing and rewards people that hold their coins and lock them up. This approach could result in ongoing economic stagnation and low coin velocity due to the incentives people have to store the network coin and also due to the lack of incentives that exist for maintaining and improving the network.
 
 
 
@@ -18,7 +18,7 @@ Appreciating money has all of the problems mentioned in the money resources such
 
 A network that doesn’t generate income from transaction fees or from a network coin tax would have no ongoing income being generated to fund impactful ecosystem initiatives. It would be reliant on any genesis allocation it has from the beginning of the network or from investments from community members. No income prevents the ecosystem from creating a circular economy that improves itself. This could be highly problematic for the ecosystem as it could eventually lead to stagnation in the development and maintenance of the network.
 
-Transaction fee income could also generate more income than is necessary for paying node operators. The ecosystem could either overpay the node operators or it could redistribute it to the community. Paying node operators more when they need to handle congestion can make sense however there is a point where this can become excessive and unnecessary. Redistributing the excess income back to coin holders creates an even worse system of money as this redistribution incentivises people to store more money. Neither of these approaches are desirable, ideally excess transaction fee income would be used as treasury income.
+Transaction fee income could also generate more income than is necessary for paying node operators. The ecosystem could either overpay the node operators or it could redistribute it to the community. Paying node operators more when they need to handle congestion can make sense however there is a point where this can become excessive and unnecessary. Redistributing the excess income back to coin holders creates an even worse system as this redistribution incentivises people to store more of the network coin. Neither of these approaches are desirable, ideally excess transaction fee income would be used as treasury income.
 
 
 
@@ -36,7 +36,7 @@ Without treasury income, applications and new use cases that get developed in th
 
 **Low network security (Score - 2)**
 
-Networks that don’t adopt demurrage and that don’t generate any treasury income would incentivise and reward storing as the attractiveness of holding the network coin would be higher than holding many other assets that commonly depreciate over time. This reduces the network security as it creates a long term risk that power consolidates into the hands of a few people that have managed to accumulate a large amount of the network coin. The inevitability of wealth concentration is increased only further by the presence of any risk free staking rewards.
+Networks that don’t adopt demurrage and that don’t generate any treasury income would incentivise and reward storing as the attractiveness of holding the network coin would be higher than holding many other assets that commonly depreciate over time. This reduces the network security as it creates a long term risk that power consolidates into the hands of a few people that have managed to accumulate a large amount of the network coin. The inevitability of wealth concentration is increased only further by the presence of any risk free staking rewards or lending.
 
 
 

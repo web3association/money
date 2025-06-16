@@ -34,9 +34,9 @@
 * [Demurrage advantages & opportunities](web3-network-coin/demurrage-advantages-and-opportunities.md)
 * [Demurrage risks & challenges](web3-network-coin/demurrage-risks-and-challenges.md)
 * [Demurrage is inevitable](web3-network-coin/demurrage-is-inevitable/README.md)
-  * [Storable money & no treasury income](web3-network-coin/demurrage-is-inevitable/storable-money-and-no-treasury-income.md)
-  * [Storable money & transaction fees](web3-network-coin/demurrage-is-inevitable/storable-money-and-transaction-fees.md)
-  * [Demurrage money & network coin taxes](web3-network-coin/demurrage-is-inevitable/demurrage-money-and-network-coin-taxes.md)
+  * [Storable network coin & no treasury income](web3-network-coin/demurrage-is-inevitable/storable-network-coin-and-no-treasury-income.md)
+  * [Storable network coin & transaction fees](web3-network-coin/demurrage-is-inevitable/storable-network-coin-and-transaction-fees.md)
+  * [Demurrage network coin & network coin taxes](web3-network-coin/demurrage-is-inevitable/demurrage-network-coin-and-network-coin-taxes.md)
 
 ## Web3 Tokens
 
