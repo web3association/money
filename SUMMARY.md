@@ -14,10 +14,11 @@
 ## Web3 Money
 
 * [Facilitating the exchange process](web3-money/facilitating-the-exchange-process.md)
-* [Web3 money use cases & responsibilities](web3-money/web3-money-use-cases-and-responsibilities.md)
-* [Network coin & tokens](web3-money/network-coin-and-tokens/README.md)
-  * [Responsibility comparison](web3-money/network-coin-and-tokens/responsibility-comparison.md)
-  * [Properties comparison](web3-money/network-coin-and-tokens/properties-comparison.md)
+* [Network coin & tokens](web3-money/network-coin-and-tokens.md)
+
+***
+
+* [Comparing use cases & responsibilities](comparing-use-cases-and-responsibilities.md)
 
 ## Web3 Network Coin
 

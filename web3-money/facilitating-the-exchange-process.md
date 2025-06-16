@@ -26,7 +26,7 @@ For businesses, it is more common that they might pay some fee for using the ban
 
 In a digital fiat monetary system, banks have a lot of influence and power over both consumers and businesses that rely on those services. Banks can deny anyone access to their services if they identify a risk or reason to not accept them as a customer.
 
-When a fee is charged for completing an exchange, it is commonly in the same currency that was used for payment. For instance, Bob might accept digital payments and his bank might take a 1% fee for each transaction they facilitate. If Alice pays Bob $2 of digital fiat money, the bank might take a small fee amount in dollars. In this case, at 1% the fee would be 2 cents.
+The fiat banking system is owned and governed by private individuals or entities and banks typically receive most of the income from lending activities. In fiat systems, the same money, such as dollars, is commonly used both as the medium of exchange and as the means by which the banks charge fees for facilitating transactions. For instance, Bob might accept digital payments and his bank might take a 1% fee for each transaction they facilitate. If Alice pays Bob $2 of digital fiat money, the bank might take a small fee amount in dollars. In this case, at 1% the fee would be 2 cents.
 
 
 
