@@ -12,9 +12,9 @@ In regards to the network's funding process, all of these ecosystems could have 
 
 To understand the benefits of demurrage we can compare the most common combination of approaches that a Web3 ecosystem might adopt when creating a network coin and what fees or taxation approach is adopted for generating treasury income. The approaches we will compare include:
 
-* [**Storable coins & no treasury income**](storable-network-coin-and-no-treasury-income.md) - Creating a storable network coin with no mechanism for generating treasury income
-* [**Storable coins & transaction fees** ](storable-network-coin-and-transaction-fees.md)- Creating a storable network coin with a transaction fee model for generating treasury income
-* [**Demurrage network coin & network coin taxes**](demurrage-network-coin-and-network-coin-taxes.md) - Creating a demurrage based network coin using a network coin tax which is used to generate treasury income
+* [**Storable coins & no treasury income**](storable-money-and-no-treasury-income.md) - Creating a storable network coin with no mechanism for generating treasury income
+* [**Storable coins & transaction fees** ](storable-money-and-transaction-fees.md)- Creating a storable network coin with a transaction fee model for generating treasury income
+* [**Demurrage network coin & network coin taxes**](demurrage-money-and-network-coin-taxes.md) - Creating a demurrage based network coin using a network coin tax which is used to generate treasury income
 
 <figure><img src="../../.gitbook/assets/network-coin-treasury-income-approaches.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,14 +53,14 @@ Web3 ecosystems are open and permissionless. For this reason large incumbents wi
 
 ## Money & treasury income approaches **analysis**
 
-{% content-ref url="storable-network-coin-and-no-treasury-income.md" %}
-[storable-network-coin-and-no-treasury-income.md](storable-network-coin-and-no-treasury-income.md)
+{% content-ref url="storable-money-and-no-treasury-income.md" %}
+[storable-money-and-no-treasury-income.md](storable-money-and-no-treasury-income.md)
 {% endcontent-ref %}
 
-{% content-ref url="storable-network-coin-and-transaction-fees.md" %}
-[storable-network-coin-and-transaction-fees.md](storable-network-coin-and-transaction-fees.md)
+{% content-ref url="storable-money-and-transaction-fees.md" %}
+[storable-money-and-transaction-fees.md](storable-money-and-transaction-fees.md)
 {% endcontent-ref %}
 
-{% content-ref url="demurrage-network-coin-and-network-coin-taxes.md" %}
-[demurrage-network-coin-and-network-coin-taxes.md](demurrage-network-coin-and-network-coin-taxes.md)
+{% content-ref url="demurrage-money-and-network-coin-taxes.md" %}
+[demurrage-money-and-network-coin-taxes.md](demurrage-money-and-network-coin-taxes.md)
 {% endcontent-ref %}
