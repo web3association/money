@@ -1,6 +1,10 @@
 # Network coin supply approaches
 
-The supply of the network coin and whether this changes over time will have an ongoing impact on the incentives and potential outcomes that emerge from implementing demurrage. The four main approaches to compare include contractionary, expansionary, fixed and elastic supply change approaches.
+The supply of the network coin is an important part of a Web3 network because it could directly affect activity in the network, price stability and whether there’s rising prices (inflation) or falling prices (deflation) in the network's economy.
+
+Under the existing fiat banking system, central banks commonly target a 2% inflation rate and manage a central bank interest rate to influence the economy. If prices are falling and the economy is slowing down or unemployment is rising the central bank might lower the interest rate to reduce the cost for people to borrow. This can help with stimulating the economy. If prices are rising too quickly and causing inflation the central bank can increase the interest rate to increase the cost of borrowing - which also makes saving more attractive. The problem with targeting an inflation rate is this will deliberately increase asset prices over time. Inflation rewards people who already own assets and harms those who don’t. If wages increased at the same rate of inflation there would be less concern about increasing asset prices as people could proportionally still afford the same assets. In practice this does not happen, wages commonly stagnate behind the inflation rate, making it harder and harder for people without assets to purchase them in the future. Inflation causes unearned income as those that already have assets are not contributing anything else to the economy yet they are being rewarded for just owning the assets that are increasing in price due to the monetary system.
+
+Demurrage when implemented using a network coin tax does not result in any limitations in how the supply of the network coin is managed. At a high level, the supply of the network coin, or for any other fungible asset, could be contractionary, fixed, expansionary or elastic.
 
 
 
