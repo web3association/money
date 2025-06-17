@@ -4,10 +4,10 @@ A number of comparisons can be made to better understand the implications of ado
 
 The approaches we want to compare are as follows:
 
-* **Storable money & added transaction fees generating treasury income** - The money doesn’t lose value over time and the base transaction fee is increased to generate ongoing income for the ecosystem treasury.
-* **Storable money & excess transaction fees generating treasury income** - The money doesn’t lose value over time and the transaction fees are as low as possible with only excess fees being used as treasury income that are above the compensation threshold for node operators.
-* **Demurrage money & 0.1% network coin tax** - The money simulates the effects of demurrage using a 0.1% network coin tax.
-* **Demurrage money & 1% network coin tax** - The money simulates the effects of demurrage using a 1% network coin tax.
+* **Storable network coin & added transaction fees generating treasury income** - The network coin doesn’t lose value over time and the base transaction fee is increased to generate ongoing income for the ecosystem treasury.
+* **Storable network coin & excess transaction fees generating treasury income** - The network coin doesn’t lose value over time and the transaction fees are as low as possible with only excess fees being used as treasury income that are above the compensation threshold for node operators.
+* **Demurrage network coin & 0.1% network coin tax** - The network coin simulates the effects of demurrage using a 0.1% network coin tax.
+* **Demurrage network coin & 1% network coin tax** - The network coin simulates the effects of demurrage using a 1% network coin tax.
 
 The data model applies some examples values to illustrate the difference between these approaches based on whether the user is storer, an active user or a combination of the two. The data modelling can be found here:
 
