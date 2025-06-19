@@ -6,7 +6,13 @@ Many Web3 networks are programmable and enable the creation of smart contracts a
 
 The network coin and tokens are two distinct fungible assets that could both be adopted as forms of money. Some example network coins include ETH for Ethereum, BNB for Binance Chain, SOL for Solana and ADA for Cardano. Within each of these example Web3 networks, tokens can also be created and adopted by anyone that uses the network. Stablecoins are digital currencies that are designed to maintain a stable value by pegging them to assets like fiat money or commodities. Stablecoins are an example of a type of token that can be created on Web3 networks. USDC and USDT are some examples of USD backed stablecoins that are available on some of these Web3 networks. Web3 networks create an environment where many systems of money could exist.
 
-The network coin and tokens have different properties that are worth considering when thinking about whether the network coin or tokens are suitable as systems of money. For this comparison we should assume that both the network coin and tokens adopt the same monetary policy, meaning they could both be storable where neither of them lose value over time or they could both adopt the same rate of demurrage. This comparison can then help with better understanding which fungible asset is going to generally be more desirable due to its inherent properties.
+Some of you might be asking yourself whether the network coin is necessary. The short answer is yes, it is the most compelling solution for creating a circular economy that has aligned incentives for using and operating a Web3 network. A separate page has been added to add some more detail on the importance of a network coin:
+
+{% content-ref url="is-the-network-coin-necessary.md" %}
+[is-the-network-coin-necessary.md](is-the-network-coin-necessary.md)
+{% endcontent-ref %}
+
+The network coin and tokens have different properties that can be considered before thinking about whether the network coin or tokens could be suitable as systems of money. For this comparison we can assume that both the network coin and tokens adopt the same monetary policy, meaning they could both be storable where neither of them lose value over time or they could both adopt the same rate of demurrage. This comparison can then help with better understanding which fungible asset is going to generally be more desirable due to its inherent properties.
 
 
 
