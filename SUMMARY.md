@@ -19,7 +19,7 @@
 
 ***
 
-* [Comparing use cases & responsibilities](comparing-use-cases-and-responsibilities.md)
+* [Use cases & responsibilities](use-cases-and-responsibilities.md)
 
 ## Web3 Network Coin
 

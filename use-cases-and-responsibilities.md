@@ -1,4 +1,4 @@
-# Comparing use cases & responsibilities
+# Use cases & responsibilities
 
 The network coin and tokens have a number of different use cases and responsibilities they could handle. Let’s take a look at which use cases and responsibilities are the most suitable for each type of fungible asset.
 
@@ -135,6 +135,24 @@ Although the store of value property is undesirable for creating a reliable medi
 
 
 
+## **Contract collateral**
+
+Both the network coin or tokens could be used as collateral within contractual agreements. When two people want to enter an agreement there can be a lack of trust between the two parties. If either of the two parties break the agreement the contract collateral can be used as compensation to resolve that problem. Contract collateral can help to establish a deterrent for either party to break the agreement. This can improve the trust and reassurances that both parties have before they enter agreement as they now one or both parties need to consider the risk of loss. Some use cases where this could be useful include during the exchange of any goods or services or when someone agrees to the terms of use when using a digital platform. For instance a social media platform could have the terms of use that users are not allowed to upload explicit or harmful content. Contract collateral could be used to enable people to submit public facing content anywhere on a digital platform as now there is some collateral that could be slashed or taken away. Many contractual agreements could benefit from some form of collateral to increase trust and overall confidence that the agreement will be upheld. For permissionless networks, the identity of the individual might not be fully known. Contract collateral could also be considered as a potential alternative to verifying the identity of someone.
+
+
+
+**Network coin**
+
+The network coin could greatly benefit from being used as contract collateral as this create another source of demand for the network coin. A reason why this use case is particularly valuable is it can be coupled with the financial liquidity use case. The network could incentivise people to provide the network coin as collateral into a token exchange or lending and borrowing protocol. It could then incentivise people to use that liquidity as the contract collateral for other use cases. The network coin would be productively used as financial liquidity and also be used as collateral for establishing trust in contractual agreements.
+
+
+
+**Tokens**
+
+Tokens will also benefit from being used as contract collateral. The network will want to incentivise people to prioritise the usage of the network coin as a form of contract collateral. This helps to improve the demand for the network coin. However it also doesn’t want to over incentivise the usage of the network coin so that a few people use a large amount of it as collateral. The network would focus on incentivising people to hold a certain amount of the network coin as collateral and then beyond this point encourage people to use tokens for any larger requirements. Tokens would be a complimentary form of contract collateral to use alongside the network coin.
+
+
+
 ## Summary
 
-Overall the network coin is the most suitable candidate for handling network operation and network governance and tokens are the most suitable candidate for creating systems of money. Both the network coin and tokens are suitable for being used as financial liquidity, however the network coin is particularly well suited for becoming the primary liquidity pairing for global token exchanges. Both the network coin and token based forms of money benefit from trying to reduce their effectiveness as a store of value.
+Overall the network coin is the most suitable candidate for handling network operation and network governance and tokens are the most suitable candidate for creating systems of money. Both the network coin and tokens are suitable for being used as financial liquidity and as contract collateral, however the network coin is particularly well suited for becoming the primary liquidity pairing for global token exchanges. Both the network coin and token based forms of money benefit from trying to reduce their effectiveness as a store of value.
