@@ -42,7 +42,7 @@ If the Web3 network grew over time the cost of operating a node could also incre
 
 ## Summary
 
-The network coin is purpose built for the networks. It creates a circular economy where users create demand for the network coin as it is required for paying for network usage. Node operators provide the supply of servers to operate the network and receive the network coin as compensation for doing so.
+The network coin is purpose built for the network. It creates a circular economy where users create demand for the network coin to pay for network usage. Node operators provide the supply of servers to operate the network and receive the network coin as compensation for doing so.
 
 Alternative approaches such as using tokens introduce an unnecessary amount of added complexity and risk into how the network is operated. External sources of funding are inherently less reliable over the long term and they also create misaligned incentives. Both of these problems can be avoided by adopting a network coin based implementation.
 
