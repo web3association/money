@@ -21,15 +21,17 @@ Some relevant objectives that could help with improving the effectiveness of a l
 
 Token exchange protocols let users swap various digital tokens with one another.
 
-A primary use case for digital asset networks is to facilitate the creation and usage of different tokens. Tokens could represent any physical or digital asset. A Web3 digital asset network will greatly benefit from incentivising exchange liquidity to make it as easy as possible to exchange tokens for other tokens. This should make the exchange market more efficient and also make it easier for people to access the network coin as they would now be able to more easily exchange any existing token for the network coin.
+A primary use case for digital asset networks is to facilitate the creation and usage of different tokens. Tokens could represent any physical or digital asset. A Web3 digital asset network can greatly benefit from incentivising exchange liquidity as this can make it easier to exchange tokens for other tokens. This should make the exchange market more efficient and also make it easier for people to access the network coin as they would now be able to easily exchange any existing token for the network coin.
 
-An efficient token exchange protocol will be a vital part of creating a competitive digital asset network. An incentive for using the network coin for token exchange should help with improving the effectiveness and efficiency of the token exchange market. Liquidity could also be locked-up using an incentive to create longer term demand for the network coin, this could then help with improving the overall network effects.
+An efficient token exchange protocol will be a vital part of creating a competitive digital asset network. An incentive for using the network coin for token exchange should help with improving the effectiveness and efficiency of the token exchange market. Liquidity could also be locked-up using an incentive to create longer term demand for the network coin, this could then help with improving overall network effects.
 
-The problem with this incentive on its own is people could exploit the incentive by creating their own token and adding their own liquidity that no one uses. If the incentive required transaction volume or a certain amount of wallets this could also be easily faked and exploited. There is already an incentive to add liquidity to the exchange pairings that generate the most fee income. However this incentive also forces users to take on a level of risk as they must hold another token as well which might collapse and lose its value. The holder might end up with less network coins and more tokens that now might be worthless. Some users would prefer to not risk their network coins. Creating their own token and owning the supply and exchange liquidity would solve that problem however now the network coin is not being used productively. Single asset lending and borrowing incentives should help to provide an alternative and complementary solution to this forced risk taking problem.
+The network coin could become a primary token exchange liquidity pairing if the right incentive mechanisms can encourage the usage of the network coin within token exchanges. It is worth asking, is a single prominent liquidity pairing for tokens an appealing solution? The problems with encouraging multiple pairings for every token is it will result in fragmented liquidity across a wider number of tokens. The more tokens there are the bigger this problem becomes. Fragmentation can lead to less efficient markets due to the increased slippage and the need to use multiple token liquidity pairings to exchange with more meaningful volume. A prominent liquidity pairing, such as by using the network coin, could create an environment where in most cases anyone would be able to exchange from one token to another through the usage of the network coin. This approach is simple and can be effective for creating deeper liquidity pairings using the network coin as the dominant pairing. The main downside with incentivising a prominent liquidity pairing is it creates a single point of failure. The network coin would need to be extremely robust and reliable to fulfil this responsibility. This is definitely a concern, however the network coin does also benefit from a reliable use case for generating longer term demand for the coin. The token exchange liquidity use case is a highly compelling one, as this will help with creating a highly effective digital asset network. The network coin is also a mission critical part of the networks infrastructure so a lot of effort can go into ensuring it will effectively fulfil this type of responsibility.
+
+One of the problems with this incentive is that on its own people could exploit the incentive by creating their own token and adding their own liquidity that no one uses. If the incentive required transaction volume or a certain amount of wallets this could also be easily faked and exploited. The counter argument to this is that there would already be an incentive for people to add liquidity into pairings that will actually generate fee income. However this incentive does also force users to take on a certain level of risk, as now they must hold another token, which might collapse and lose its value. The holder might end up with less network coins and more tokens that now might be worthless. Some users would prefer to not risk their network coins. Creating their own token and owning the supply and exchange liquidity would solve that problem however now the network coin is not being used productively. A solution to this forced risk problem is to also adopt a single asset lending and borrowing incentive, as this provides an alternative risk free solution that people can use instead.
 
 
 
-## Single asset lending and borrowing
+## **Single asset lending and borrowing**
 
 A single asset lending and borrowing protocol could help with enabling users to lend out their network coins to earn interest or with borrowing against their own network coins. This helps users to generate passive income or gives them access to leveraged liquidity.
 
@@ -47,7 +49,7 @@ Overall this liquidity incentive is a compelling one as it provides a risk free 
 
 
 
-## Multiple asset lending and borrowing
+## **Multiple asset lending and borrowing**
 
 A multiple asset lending and borrowing protocol would help users with lending out their network coins or tokens to earn interest or to borrow against their own network coins or tokens.
 
@@ -89,7 +91,7 @@ Collateral for creating synthetic assets would mean the network coin would not e
 
 
 
-## Summary
+## **Summary**
 
 The most compelling liquidity incentives mentioned above are a token exchange liquidity incentive and a single asset lending and borrowing liquidity incentive. These two incentives are complementary and help to encourage people to use their network coins productively, whether that's taking risk themselves to generate yield in a token exchange or from enabling others to borrow their network coins and use it productively themselves. The token exchange incentive will be particularly important for making the network's token exchange market more efficient by reducing slippage and increasing the amount of available liquidity being used to facilitate exchange.
 

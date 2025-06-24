@@ -24,10 +24,11 @@
 ## Web3 Network Coin
 
 * [Demurrage implementation approaches](web3-network-coin/demurrage-implementation-approaches.md)
-* [Network coin tax data modelling](web3-network-coin/network-coin-tax-data-modelling.md)
-* [Web3 network effects](web3-network-coin/web3-network-effects.md)
+* [Importance of network coin demand](web3-network-coin/importance-of-network-coin-demand.md)
 * [Stable demand for the network coin](web3-network-coin/stable-demand-for-the-network-coin/README.md)
   * [Financial liquidity incentive options](web3-network-coin/stable-demand-for-the-network-coin/financial-liquidity-incentive-options.md)
+* [Network coin tax data modelling](web3-network-coin/network-coin-tax-data-modelling.md)
+* [Web3 network effects](web3-network-coin/web3-network-effects.md)
 * [Goals & concessions](web3-network-coin/goals-and-concessions.md)
 * [Network coin supply approaches](web3-network-coin/money-supply-approaches/README.md)
   * [The network coin & stable prices](web3-network-coin/money-supply-approaches/the-network-coin-and-stable-prices.md)
