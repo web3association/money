@@ -16,10 +16,7 @@
 * [Facilitating the exchange process](web3-money/facilitating-the-exchange-process.md)
 * [Network coin & tokens](web3-money/network-coin-and-tokens/README.md)
   * [Is the network coin necessary?](web3-money/network-coin-and-tokens/is-the-network-coin-necessary.md)
-
-***
-
-* [Use cases & responsibilities](use-cases-and-responsibilities.md)
+* [Use cases & responsibilities](web3-money/use-cases-and-responsibilities.md)
 
 ## Web3 Network Coin
 
