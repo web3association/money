@@ -34,21 +34,9 @@ Massive online multiplayer games could benefit from their own token money to fac
 
 ## Adoption of token money
 
-
-
-**Unlikely that no token money is adopted**
-
 The least likely outcome for Web3 networks is that no token based money is adopted. This would mean that the network coin would be adopted as the primary medium of exchange. This is a very unlikely outcome as there are so many different communities that exist that could require a different system of money and different implementation approaches. It would be much more risky to use the same medium of exchange for every community that might exist across the world due to different growth rates and usage patterns. Widely using the network coin instead of token money as a medium of exchange would mean there would be zero room for error due to how reliant people would be on using a single medium of exchange.
 
-
-
-**Unlikely that only one type of token money gets adopted**
-
-One implementation of token money could become a globally adopted medium of exchange due to its popularity and effectiveness. Although this is possible it is still unlikely that a token money becomes the only adopted token money due to the differences in requirements and preferences in how these systems of money are managed across different communities.
-
-
-
-**Very likely that multiple types of token money are adopted**
+One implementation of token money could become a globally adopted medium of exchange due to its popularity and effectiveness. Although this is possible it is still unlikely that one implementation of token money becomes the only adopted form of money due to the differences in requirements and preferences in how these systems of money are managed across different communities.
 
 The most likely outcome for token money is that there will be many implementations that each have their own properties and governance processes. Global currencies might emerge that become popular for certain use cases. Community based token money should cater for the specific requirements and preferences of that community. Because Web3 networks are open and permissionless, it could be reasonable to expect that we see an ongoing amount of competition between systems of money, where new ideas about how to implement and govern these systems continue to evolve and improve over time.
 
