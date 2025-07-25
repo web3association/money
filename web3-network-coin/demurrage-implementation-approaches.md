@@ -42,4 +42,8 @@ A Web3 network could try to prevent the problems of ongoing money expansion by b
 
 Supply changes either mean a constantly expanding money supply with the potential problems of inflation or a balance between supply increases and burn mechanisms that make money unpredictable and ineffective at simulating demurrage. Neither of these approaches are desirable or necessary.
 
-The easiest way to constantly stimulate demurrage is through a network coin tax. Using a network coin tax the money supply mechanisms can operate in whichever way is most effective for the network. Networks could adopt a contractionary, fixed supply, expansionary or elastically changing supply approach depending on their requirements.
+
+
+## Summary
+
+The easiest way to stimulate demurrage in a Web3 network is through the adoption of a network coin tax. Using a network coin tax means that any supply change mechanisms can operate in whichever way is feasible or the most effective for the network at that point in time.
