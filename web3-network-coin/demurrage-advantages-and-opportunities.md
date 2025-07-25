@@ -1,84 +1,84 @@
 # Demurrage advantages & opportunities
 
-There are a number of advantages and opportunities for Web3 ecosystems that adopt demurrage via a network coin tax. Demurrage can help to improve the reliability of a Web3 network coin. It is also can be advantageous for the network, its treasury and society more broadly.
+There are a number of advantages and opportunities for Web3 ecosystems that adopt demurrage via a network coin tax. Demurrage can help to improve the properties and reliability of the network coin as a fungible asset. Demurrage is also advantageous for the network, its treasury and society more broadly.
 
 
 
-## **Fungible assets**
+### **Fungible assets**
 
-The following are some advantages that are applicable to many fungible assets that adopt demurrage, this also includes systems of money.
+The following are some advantages that can be applicable to fungible assets that adopt demurrage, fungible assets would also include any system of money.
 
 
 
 **Increased network coin velocity**
 
-Implementing demurrage would help with increasing the velocity of money due to the incentives it creates for users to not leave money idle in their wallet. The longer that someone holds demurrage money in their wallet the more money they will lose due to demurrage. For Web3 networks this will likely be due to a network coin tax. Users are incentivised to do something productive with the money rather than just hold it, such as by purchasing goods or services or investing it into business ventures.
+Implementing demurrage would help with increasing the velocity of the network coin due to the incentives it creates for users to not leave their coins idle in their wallet. The longer that someone holds the network coin in their wallet the more of the coin they will lose due to the network coin tax. Users are incentivised to do something productive with the network coin rather than just hold it, such as using it in financial protocols or by purchasing goods or services or investing it into business ventures.
 
 
 
 **Smaller network coin supply changes**
 
-Systems of money could benefit from having a certain supply change mechanism that is suited to their use cases, such as fixed, expansionary, contractionary or elastic. These money supply change systems may be automatically adjusting, which is desirable to avoid the need for community governance at a global scale. Demurrage can help with improving the systems around supply changes as it can help with increasing the velocity of money. Higher velocity should mean that even small supply changes are more effective at impacting economic activity in the network. Increases in the supply of money should be under the same impulse and incentives for it to be used productively due to the effects of demurrage. Demurrage and higher coin velocity within a Web3 ecosystem should help with reducing the number of size of any money supply changes.
+The network coin could benefit from having a supply change mechanism that is suited to its use cases, such as fixed, expansionary, contractionary or elastic. These supply changes could be automatically adjusting, which is desirable to avoid the need for community governance at a global scale. Demurrage can help with improving any systems around supply changes as it can help with increasing the velocity of the network coin. Higher velocity should mean that even small supply changes are more effective at influencing economic activity in the network. Any new supply of the network coin would then be under the same impulse and incentives for it to be used productively due to the effects of demurrage. Demurrage should help with reducing the number and scale of any required supply changes.
 
 
 
 **Incentivises productive network coin usage**
 
-If users don’t leave their coins idle in their wallet, due to the incentives created by demurrage, they will need to find a place to spend or invest that money. Demurrage could help with persistently increasing the amount of economic activity that occurs in the network. Every holder of money would have an incentive to put it to better use rather than just hold it. Increasing the amount of economic exchange is desirable as it means someone's goods or services are being paid for and those sellers can then use that income to either provide more goods and services, invest it or use it elsewhere in the economy. Investments are highly beneficial for economic activity as now someone who might not have been working is now given the opportunity to contribute towards the economy and start providing their own goods or services. The ongoing incentives created by demurrage can help with lowering the prices of goods and services and making a more competitive market due to the ongoing incentive for people to either exchange or invest their money. Demurrage also helps to reduce the marginal efficiency of money as capital, which increases the number of investment opportunities that now become viable due to them now representing a better return on investment than simply saving the network coin.
+If users don’t leave their coins idle in their wallet, due to the incentives created by demurrage, they will need to find a place to use those coins productively. Demurrage could help with persistently increasing the amount of economic activity that occurs in the network if the right productive use cases can be incentivised. Every holder of the network coin would have an incentive to put it to better use rather than just hold it. The network can be very deliberate about what use cases get incentivised to improve the effectiveness and operation of the network.
 
 
 
-**Easier access to the network coin**
+**Increased availability of the network coin**
 
-People that don’t have much money could greatly benefit from demurrage. Demurrage would increase the demand for labour as it increases the number of business ventures that become viable. As an example, a farmer might be interested in growing mango trees. This investment might only breakeven or generate a small return on investment. This business opportunity might only become viable thanks to the adoption of demurrage. The investor would benefit from not losing money by just holding their coins. And the farmer growing mango tree’s benefits from getting access to the capital that will help them start their business. Without demurrage this investment might not have ever occurred. But thanks to demurrage the whole economy benefits from easier access to money that can help with starting a new business.
-
-
-
-**Reduced coin based inequality**
-
-If someone receives interest from simply holding or staking the network coin there is a strong likelihood that inequality in coin ownership will increase over time. Any form of a storable network coin should be able to generate positive and risk free interest due either staking rewards or from lending it out in a single asset borrowing and lending protocols. The amount of interest they would earn could vary however it would still be a positive rate of return.
-
-Let’s consider a 1% interest rate. A person holding $1 million worth of the network coin would receive $10,000 in interest each year. If they are able to live off less than that amount they reach escape velocity where they can perpetually increase their network coin position each year without contributing anything else to the economy. Demurrage prevents this likely inevitability as instead of gaining 1% each year they would be losing 1%. Now instead of reaching escape velocity it instead gets harder and harder to retain large amounts of the network coin over the long term due to the loss from demurrage. A positive interest rate for holding or using the network coin in a risk free manner is an example of unearned income - someone is receiving income without contributing anything else to the economy. Demurrage helps to reduce these issues around unearned income and reduce the possibility of coin related inequality over the long term.
+People that don’t have any network coins could greatly benefit from demurrage. Demurrage can help to prevent people from storing the network coin excessively, which can prevent the price from rapidly appreciating due to a lack of availability. If people can always easily access the coin they will be able to use it to pay for network usage. Demurrage also incentives people to lend their network coins when they are not using them productively as they are less storable. This gives people access to network coins in the form of a loan when they have a productive use case for the coin.
 
 
 
-## **Network**
+**Reduced risk of concentrations in coin ownership**
+
+If someone receives a risk free reward from simply holding or staking the network coin there is a likelihood that concentrations in coin ownership will increase over time. A storable network coin will mean a positive and risk free return is achievable due either staking rewards or from lending it out in a single asset borrowing and lending protocols. The amount of interest they earn could vary however it would still generate a positive rate of return.
+
+Let’s consider a 1% return that is generated from staking, lending or a combination of the two. A person holding $1 million worth of the network coin might receive $10,000 in interest each year. If they are able to live off less than this amount they reach financial escape velocity where they can continuously increase their network coin position each year without contributing anything else to the economy. Demurrage prevents this likely inevitability as instead of gaining 1% each year they would be losing 1%. Now instead of reaching escape velocity it would instead get harder and harder to retain large amounts of the network coin over the long term due to the loss from demurrage. A positive interest rate for holding or using the network coin in a risk free manner is an example of unearned income - someone is receiving income without contributing anything meaningful to the economy. Demurrage helps to remove or reduce these issues around unearned income and reduce the possibility of growing concentrations in coin ownership over the long term.
+
+
+
+### **Network**
 
 
 
 **Increased coin decentralisation**
 
-Demurrage incentivises people to exchange or invest their coins rather than leaving them idle. This can help with increasing the amount of coin dispersion across the network, which is highly beneficial for a Web3 network due to preventing the concentration of coin ownership over the long term. The network coin can be commonly used to determine someone's voting power when participating in governance decisions, such as network parameter changes. Decentralisation of coin ownership is highly useful in these contexts as it would help with improving the security of the network. Decentralised ownership means the power to influence the network's operational parameters is distributed across more people. Even a small rate of demurrage can help to ensure the network coins will not consolidate into the hands of a few people due to the cost of holding a large amount of coins.
+Demurrage incentivises people to exchange or invest their coins rather than leaving them idle. This can help with increasing the amount of coin dispersion across the network, which is highly beneficial for a Web3 network due it reducing the risks around concentrations of coin ownership over the long term. The network coin can be commonly used to determine someone's voting power when participating in governance decisions, such as network parameter changes. Decentralisation of coin ownership is highly useful in these contexts as it would help with improving the security of the network. Decentralised ownership means the power to influence the network's operational parameters is distributed across more people. Even a small rate of demurrage can help to ensure the network coins will not consolidate into the hands of a few people due to the costs involved of holding a large amount of coins.
 
 
 
 **Node operator income stability**
 
-A network coin tax could either subsidise or fully pay for the operational costs of running a node. This means transaction fees could be reduced or even potentially removed in the future. This makes the network more competitive in the market. A network coin tax is a periodic form of tax which can generate predictable and reliable treasury income. It represents a long term solution for keeping transaction fees as low as possible whilst also generating income to compensate node operators.
+A network coin tax could either subsidise or fully pay for the operational costs of running a node. This means transaction fees could be reduced or even potentially removed in the future. This makes a network more competitive in the market. A network coin tax is a periodic and ongoing form of taxation which can generate predictable and reliable treasury income. It represents a long term solution for compensating node operators that means transaction fees can be as low as possible.
 
 
 
 **Flexible supply change mechanisms**
 
-Demurrage when implemented as a network coin tax does not involve any constraints on how the supply of money is handled. Web3 networks could implement a network coin tax and then adopt any approach for making supply changes. These include fixed, expansionary, contractionary or elastic supply models. For example, for an elastic supply mechanism, a network could introduce more coins into the network via the treasury and then remove some of the supply from the income that is generated by the network coin tax.
+Demurrage when implemented as a network coin tax does not involve any constraints on how the supply of the network coin is handled. Web3 networks could implement a network coin tax and then adopt any approach for making supply changes. These include fixed, expansionary, contractionary or elastic supply models. For example, for an elastic supply mechanism, a network could introduce more coins into the network via the treasury and then remove some of the supply from the income that is generated by the network coin tax.
 
 
 
 **Granular incentive mechanisms**
 
-Another opportunity with applying demurrage to Web3 networks is how granular the coin taxation rate could be applied towards different use cases. It could be higher when the coin is sitting idle in a wallet and lower when it is deposited in a financial protocol. A more granular approach to applying the network coin tax creates an opportunity to incentivise the exact outcomes that a network is trying to achieve.
+Another opportunity with applying demurrage to Web3 networks is how the coin taxation rate could be applied in a multitude of different ways towards important use cases. It could be higher when the coin is sitting idle in a wallet and lower when it is deposited as financial liquidity. A more granular approach to applying the network coin tax creates an opportunity to incentivise the exact outcomes that a network is trying to achieve.
 
-As an example, creating more efficient financial markets is one potentially desirable goal for these types of incentive mechanisms. This could be valuable for a Web3 network as the coin's value might be mostly or fully derived from its usage for transaction fees. Without multiple sources of demand the price of the network coin could become more volatile due to changing amounts of transaction volume. The network coin could be used as token exchange liquidity or as lending and borrowing liquidity as some examples. These use cases could help with better maintaining stable prices for the network coin over the long term. The network coin could be focussed on being used for either transaction fees or as financial liquidity. The more effective the network coin is at facilitating token exchanges the more efficient the network's token market becomes. A network coin tax could help with creating these types of outcomes, resulting in more efficient financial markets by reducing the taxation rate when the network coin is deposited as financial collateral. Getting these incentive mechanisms right could help with creating more powerful network effects that help a network with thriving over the long term.
+As an example, creating more efficient financial markets is one potentially desirable goal for these types of incentive mechanisms. This could be valuable for a Web3 network as the coin's value might be mostly or fully derived from its usage for transaction fees. Without multiple sources of demand the price of the network coin could become more volatile due to changing amounts of transaction volume. The network coin could be used as a pairing for token exchange liquidity or as lending and borrowing liquidity, use cases that could help with better maintaining stable prices for the network coin over the long term. The network coin could be focussed on being used for either transaction fees or as financial liquidity. The more effective the network coin is at facilitating token exchanges the more efficient the network's token market could become. Getting these incentive mechanisms right could help with creating more powerful network effects that help a network to thrive over the long term.
 
 
 
-## **Treasury**
+### **Treasury**
 
 
 
 **Ecosystem funding**
 
-The income generated by a network coin tax would be reliable and predictable. This income can then be used for funding ecosystem initiatives that introduce new use cases or that improve the network's infrastructure. Even a small percentage tax rate could generate a meaningful amount of income to help with maintaining and improving a Web3 network. Network coin taxes would be charged periodically, such as every day, meaning they would only collect a very small percentage amount. Over a year the aggregate taxation value collected would represent the annual percentage tax rate. The exact amount of income would be known ahead of time due to it coming from the existing supply. The predictability of the taxation income is beneficial for the ecosystem's funding process as it can be taken into account when planning and funding any larger initiatives. Ecosystem funding can help with creating a positive flywheel for improving and growing the network. The better the return on investment is for funding ecosystem initiatives the faster the price of the network coin could appreciate. More coin price appreciation means the same network coin tax can pay for a larger amount of ecosystem initiatives. This creates a growth flywheel that could keep repeating until the network is globally adopted.
+The income generated by a network coin tax would be reliable and predictable. This income can then be used for funding ecosystem initiatives that introduce new use cases or that improve the network's infrastructure. Even a small percentage tax rate could generate a meaningful amount of income to help with maintaining and improving a Web3 network. Network coin taxes would be charged periodically, such as every day, meaning they would only collect a very small percentage amount. Over a year the aggregate taxation value collected would represent the annual percentage tax rate. The exact amount of income would be known ahead of time due to it coming from the existing supply. The predictability of the taxation income is beneficial for the ecosystem's funding process as it can be taken into account when planning and funding any larger initiatives. Ecosystem funding can help with creating a positive flywheel for improving and growing the network. The better the return on investment is for funding ecosystem initiatives the faster the price of the network coin could appreciate. More coin price appreciation means the same network coin tax could pay for a larger amount of ecosystem initiatives. This creates a growth flywheel that could repeat until the network is globally adopted.
 
 
 
@@ -88,7 +88,7 @@ The network coin tax could dramatically help with increasing the ecosystem's rat
 
 
 
-## Society
+### **Society**
 
 
 
