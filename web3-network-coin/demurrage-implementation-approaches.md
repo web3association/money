@@ -46,4 +46,4 @@ Supply changes either mean a constantly expanding money supply with the potentia
 
 ## Summary
 
-The easiest way to stimulate demurrage in a Web3 network is through the adoption of a network coin tax. Using a network coin tax means that any supply change mechanisms can operate in whichever way is feasible or the most effective for the network at that point in time.
+The easiest way to implement demurrage in a Web3 network is through the adoption of a network coin tax. Using a network coin tax means that any supply change mechanisms can operate in whichever way is feasible or the most effective for the network at that point in time.
