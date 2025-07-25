@@ -1,6 +1,6 @@
 # Financial liquidity incentive options
 
-A number of decentralised finance (DeFi) protocols already exist within the Web3 industry. A financial liquidity incentive could provide a compelling solution for creating longer term demand for the network coin that has adopted demurrage.
+A number of decentralised finance (DeFi) protocols already exist within the Web3 industry. A financial liquidity incentive could provide a compelling solution for creating longer term demand for the network coin that has adopted a network coin tax.
 
 Staking related protocols will not be mentioned below as an incentive option as solutions should emerge that enable someone to stake their coins whilst also using those coins as liquidity in DeFi protocols. The remaining and most relevant protocols for a financial liquidity incentive are highlighted below.
 
