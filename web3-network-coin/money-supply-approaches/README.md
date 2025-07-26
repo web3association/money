@@ -10,7 +10,7 @@ Demurrage when implemented using a network coin tax does not result in any limit
 
 ## The network coin & stable prices
 
-A large factor that contributes towards the decision of how the network coin supply should change is the need for a medium of exchange to maintain stable prices. The network coin might not need to be a medium of exchange however it still can benefit from maintaining price stability.
+A large factor that contributes towards the decision of how the network coin supply should change is the need for a medium of exchange to maintain stable prices. The network coin might not need to be a medium of exchange however it still can benefit from maintaining price stability:
 
 {% content-ref url="the-network-coin-and-stable-prices.md" %}
 [the-network-coin-and-stable-prices.md](the-network-coin-and-stable-prices.md)
