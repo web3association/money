@@ -6,7 +6,7 @@ Combining together the previous pieces of analysis covering how demurrage could 
 
 **Network coin tax**
 
-A network coin tax is the most compelling approach for implementing demurrage. It creates an impulsion to use the network coin more productively due to the coin taxation and it also highly effective for creating a reliable income source for the ecosystems treasury. To reduce the impact of the tax on day to day usage it is suggested to charge the taxation rate regularly and in very small amounts, such as daily or twice a day. This helps to prevent any sudden usage changes that would be more likely if a weekly, monthly or annual based approach was adopted.
+A network coin tax is the most compelling approach for implementing demurrage. It creates an impulsion to use the network coin more productively due to the coin taxation and it is also highly effective for creating a reliable income source for the ecosystem's treasury. To reduce the impact of the tax on day to day usage it is suggested to charge the taxation rate regularly and in very small amounts, such as daily or twice a day. This helps to prevent any sudden usage changes that would be more likely if a weekly, monthly or annual based approach was adopted.
 
 
 
