@@ -30,6 +30,7 @@
   * [The network coin & stable prices](web3-network-coin/money-supply-approaches/the-network-coin-and-stable-prices.md)
 * [Web3 network development phases](web3-network-coin/web3-network-development-phases.md)
 * [Goals & concessions](web3-network-coin/goals-and-concessions.md)
+* [Demurrage implementation](web3-network-coin/demurrage-implementation.md)
 * [Demurrage advantages & opportunities](web3-network-coin/demurrage-advantages-and-opportunities.md)
 * [Demurrage risks & challenges](web3-network-coin/demurrage-risks-and-challenges.md)
 * [Demurrage is inevitable](web3-network-coin/demurrage-is-inevitable/README.md)
