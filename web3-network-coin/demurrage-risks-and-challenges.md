@@ -6,13 +6,13 @@ Implementing demurrage in a Web3 ecosystem does have its risks and challenges, h
 
 ## Difficulty sustaining a network coin tax above the low risk yield rate over the long term
 
-Once a Web3 ecosystem is mature and well developed there is an incentive to duplicate the network and strip it of any taxes that exceed the cost of operating the network. Some people would individually benefit from this duplicated network as they might save money on network coin taxes. The problem with this is it would likely mean that the network coin tax would be very low and this could greatly increase the storability of the coin. If wealth can easily concentrate and be stored there is an increased risk of systemic failure. Collectively it is more beneficial to keep the network coin tax high enough to prevent wealth concentrations. Individually it could still be beneficial to create and market a network without this taxation approach, however the adoption of these networks can lead to the same low coin velocity and wealth concentrations problems that can be seen in historical forms of money.
+Once a Web3 ecosystem is mature and well developed there is an incentive to duplicate the network and strip it of any taxes that exceed the cost of operating the network. Some people would individually benefit from this duplicated network as they might save money on network coin taxes. The problem with this is it would likely mean that the network coin tax would be very low and this could greatly increase the storability of the coin. If wealth can easily concentrate and be stored there is an increased risk of systemic failure. Collectively it is more beneficial to keep the network coin tax high enough to prevent wealth concentrations. Individually it could still be beneficial to create and market a network without this taxation approach, however the adoption of these networks can lead to the same low coin velocity and wealth concentration problems that can be seen in historical forms of money.
 
 
 
 **Counter arguments**
 
-To prevent systemic network failures due to ongoing wealth concentrations the network simply needs to ensure the coin will disperse over time. To achieve this the network needs to ensure the taxation rate is above the average low risk yield bearing rate such as from staking and providing liquidity for financial protocols. The low risk yield bearing rate might be 1%. If the network coin tax rate is 1.1% it will become increasingly hard for someone to accumulate large amounts of the network coin due to the loss of coins from taxation. The network coin still have very desirable properties such as being globally used and highly predictable and reliable. More experimentation and data points will provide evidence on how high the taxation rate can be before the demand meaningfully decreases.
+To prevent systemic network failures due to ongoing wealth concentrations the network simply needs to ensure the coin will disperse over time. To achieve this the network needs to ensure the taxation rate is above the average low risk yield bearing rate such as from staking and providing liquidity for financial protocols. The low risk yield bearing rate might be 1%. If the network coin tax rate is 1.1% it will become increasingly hard for someone to accumulate large amounts of the network coin due to the loss of coins from taxation. The network coin still has very desirable properties such as being globally used and highly predictable and reliable. More experimentation and data points will provide evidence on how high the taxation rate can be before the demand meaningfully decreases.
 
 
 
@@ -52,7 +52,7 @@ The idea and benefits of demurrage are not widely understood or known in society
 
 **Counter arguments**
 
-The network coin does not need to compete to become the most desirable medium of exchange. It could solely focus on being used for paying for node operation and being used as financial liquidity and as contract collateral. Token money is able to experiment with a variety of different ideas to create a broadly adopted mediums of exchange. New forms of money can be introduced and adopted over time.
+The network coin does not need to compete to become the most desirable medium of exchange. It could solely focus on being used for paying for node operation and being used as financial liquidity and as contract collateral. Token money is able to experiment with a variety of different ideas to create a broadly adopted medium of exchange. New forms of money can be introduced and adopted over time.
 
 Education will still be a meaningful barrier for the adoption of demurrage. The quality of educational resources will be an important part of convincing people that demurrage is actually highly preferable and a more effective approach for fungible assets like the network coin and systems of money. A Web3 ecosystem only needs a moderately sized community to endorse this approach for the ecosystem to demonstrate the potential and advantages of a network coin tax.
 
@@ -66,7 +66,7 @@ The concept of demurrage is not well understood by the general public, and it mi
 
 **Counter arguments**
 
-In the short term, the return on investment potential could be a strong incentive for people to consider when deciding whether they are going to invest in a Web3 network or not. If the network is provably generating a great return on investment for people that are investing into a demurrage based network it will make it much easier for them to accept that approach as they would benefit from it. The network could be particularly lucrative for investors in the growth phases.
+In the short term, the return on investment potential could be a strong incentive for people to consider when deciding whether they are going to invest in a Web3 network or not. If the network can prove it generates a great return on investment for people that are investing into a demurrage based network it will make it much easier for them to accept that approach as they would benefit from it. The network could be particularly lucrative for investors in the growth phases.
 
 In the later stages of the network the incentives change as it will become less profitable to hold the network coin as an investment. This is highly desirable as at this stage the wider community needs ongoing access to the network coin to use the network.
 
