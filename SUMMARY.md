@@ -42,3 +42,7 @@
 
 * [Observations, goals & concessions](web3-tokens/observations-goals-and-concessions.md)
 * [Token money adoption possibilities](web3-tokens/token-money-adoption-possibilities.md)
+
+## Resources
+
+* [Web3 Economy](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/7sWb1PnaeuxJgiv6Qz4a/)
