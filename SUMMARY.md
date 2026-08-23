@@ -8,7 +8,7 @@
 * [Medium of exchange](money/medium-of-exchange.md)
 * [Nature of money](money/nature-of-money.md)
 * [Interest](money/interest.md)
-* [Consequences of interest](money/consequences-of-interest.md)
+* [Consequences of storable money](money/consequences-of-storable-money.md)
 * [Demurrage](money/demurrage.md)
 
 ## Web3 Money
