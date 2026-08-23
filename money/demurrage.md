@@ -1,28 +1,28 @@
 # Demurrage
 
-The previous sections have helped to highlight the problems that arise due to the adoption of storable money, such as it being a root cause for interest, which then contributes towards growing wealth inequality. Demurrage represents a promising solution to these problems.
+The previous sections have helped to highlight the problems that arise due to the adoption of storable money, such as it being a root cause for interest, which then contributes towards demand instability, lower demand for labour, price increases for goods and services and growing wealth inequality. Demurrage represents a promising solution to these problems.
 
 
 
-## **Removing the store of value property**
+## **Reducing costless storability**
 
-By designing money to perform the store of value function in addition to the medium of exchange function, we inadvertently made money superior to real goods & services as a form in which to hold wealth. As a consequence of this superiority, money does not meet with goods & services on a level playing field when it mediates their exchange.
+By designing money to perform the store of value function in addition to being highly storable, we inadvertently made money superior to real goods & services as a form in which to hold and accumulate wealth. As a consequence of this superiority, money does not meet with goods & services on a level playing field when it mediates their exchange.
 
 When considering the direct exchange of goods & services as a baseline scenario, it can be observed that it is universally true that tangible wealth imposes costs on its holders. Whether that is due to physical decay, costs of storage and maintenance or technological obsolescence. The physical nature of goods & services compels their sale sooner rather than later.
 
 When exchange takes place between producers of goods & services, there is pressure to transact on both sides of every negotiation. Therefore, if money is to be a neutral medium to facilitate exchange without changing the terms of those exchanges, it must meet goods & services on a level playing field as well.
 
-If it does not, the terms of exchange will be affected by money and it will therefore not be a neutral medium. The goal of Silvio Gesell’s proposal is to simply make money neutral.
+If it does not, the terms of exchange will be affected by money and it will therefore not be a neutral medium. The intended goal of Silvio Gesell’s proposal is to simply make money neutral.
 
 
 
 ## **Treating money as a public resource**
 
-Treating money as a form of private wealth is harmful to society. A proper understanding of money can help with recognising it as a creation of society, a public utility designed to enable everyone to reap the enormous rewards of the division of labour.
+Treating money as a form of private wealth that can be perpetually accumulated is harmful to society. A proper understanding of money can help with recognising it as a creation of society, a public utility designed to enable everyone to reap the enormous rewards of the division of labour.
 
 Water, air, public airwaves, public parks and the internet are all examples of resources that belong to everyone. These resources are not owned by any single individual. People rely on these resources for society to function properly. Money is also a vital public resource. Everyone depends on money to exchange goods and services and for investing or donating towards impactful initiatives.
 
-Money could be thought of as a public road. Public roads are not forms of private property. They are public utilities created by society to improve the living standards of all of its members. The charging of interest is like allowing people to park their cars on public roads and then allowing those people to charge others to move their cars so traffic can flow. Permitting the extraction of interest is allowing private parties to treat a vital public resource as a form of private property and charge for its use. We wouldn’t tolerate such a situation on our roads, but we have tolerated an analogous situation when it comes to the vital public resource of money. Our systems of money should belong to The Commons and not be considered as a form of private wealth that can be stored and left idle.
+Money could be thought of as a public road. Public roads are not forms of private property. They are public utilities created by society to improve the living standards of all of its members. The charging of interest is like allowing people to park their cars on public roads and then allowing those people to charge others to move their cars so traffic can flow. Permitting the extraction of interest is allowing private parties to treat a vital public resource as a form of private property and charge for its use. We wouldn’t tolerate such a situation on our roads, but we have tolerated an analogous situation when it comes to the vital public resource of money. Our systems of money should belong to The Commons and not be considered as a form of private wealth that can be excessively stored and left idle.
 
 
 
@@ -34,7 +34,9 @@ On the topic of fixing the problems with money, Silvio Gesell writes:
 
 “Supply is under a direct impulsion inherent in the nature of wares, and for this reason I propose a similar impulsion for demand. In the process of settling the price, supply would then no longer be at a disadvantage in comparison with demand.”
 
-Demurrage money is money that constantly loses value over time. Demurrage money would create a level playing field between money and goods and services. It would lead to a mutually shared incentive for buyers and sellers to transact rather than creating situations where demand can be easily withdrawn due to the will of the holders of money.
+Demurrage money is money subject to a periodic holding or storage fee, intended to encourage circulation rather than hoarding. The fee does not necessarily mean the money itself loses value.
+
+Demurrage money would create a level playing field between money and goods and services. It would lead to a mutually shared incentive for buyers and sellers to transact rather than creating situations where demand can be easily withdrawn due to the will of the holders of money.
 
 Demurrage would have a negligible effect on anyone using money as a medium of exchange. If you receive your pay in demurrage money and use it during the following days and weeks to purchase goods & services, the cost of holding that money due to demurrage would be almost imperceptible. Even if you wait a month to spend your money, the loss due to demurrage would be minor. Demurrage would only have a meaningful impact on those who hold money for long periods of time.
 
