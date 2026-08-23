@@ -8,4 +8,4 @@ Resources exploring money, the functions of money, the problems with existing fo
 
 **Credits**
 
-The resources from the money section are heavily inspired from the [video course](https://silviogesell.com/video-course/) presented by the [Silvio Gesell Foundation](https://silviogesell.com/). Most of those resources are entirely based on the content covered in the video course. To learn more about Gesell’s background, ideas and economic perspectives please consider watching their video course.
+To learn more about Gesell’s background, ideas and economic perspectives please consider watching the [video course](https://silviogesell.com/video-course/) presented by the [Silvio Gesell Foundation](https://silviogesell.com/). This analytical resource has foundations that are influenced by this course however the analysis does deviate from that content when it begins to talk about the differences between storability as a property of money and store of value as a function of money.
