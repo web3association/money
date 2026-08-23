@@ -32,7 +32,7 @@ Imagine how different the world would be if the owners of trillions of dollars w
 
 
 
-## **Increased demand instability**
+## **Demand instability**
 
 Under inflationary conditions, money performs the medium of exchange function much more effectively, which means that it performs the store of value function less effectively. Just as how money is a great way to hold wealth when prices are falling, since its purchasing power increases, the opposite is the case when prices rise. Money loses purchasing power when prices rise, therefore holders of money are incentivised to convert their money into other forms in order to preserve their wealth. And often, just like with deflation, inflation can be a self-reinforcing process. Prices rise, causing people with stores of money to want to get rid of their money, which means to convert it into other forms by buying other assets, which only causes prices to rise even more.
 
