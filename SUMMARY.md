@@ -10,6 +10,7 @@
 * [Interest](money/interest.md)
 * [Consequences of storable money](money/consequences-of-storable-money.md)
 * [Demurrage](money/demurrage.md)
+* [Separating store of value & storability](money/separating-store-of-value-and-storability.md)
 
 ## Web3 Money
 
