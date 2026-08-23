@@ -6,7 +6,7 @@
 
 * [Nature of exchange](money/nature-of-exchange.md)
 * [Medium of exchange](money/medium-of-exchange.md)
-* [Incompatibility of the functions of money](money/incompatibility-of-the-functions-of-money.md)
+* [Nature of money](money/nature-of-money.md)
 * [Interest](money/interest.md)
 * [Consequences of interest](money/consequences-of-interest.md)
 * [Demurrage](money/demurrage.md)
