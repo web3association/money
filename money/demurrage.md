@@ -4,7 +4,7 @@ The previous sections have helped to highlight the problems that arise due to th
 
 
 
-## **Reducing costless storability**
+## **Addressing the problem of low-cost storability**
 
 By designing money to perform the store of value function in addition to making money highly storable, we inadvertently made money superior to real goods & services as a form in which to hold and accumulate wealth. As a consequence of this superiority, money does not meet with goods & services on a level playing field when it mediates their exchange.
 
