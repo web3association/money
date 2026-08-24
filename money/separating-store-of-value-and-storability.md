@@ -4,6 +4,8 @@ In Philip Pye’s English translation of _The Natural Economic Order_, Gesell wr
 
 > _**“Money is an instrument of exchange and nothing else”**_
 
+Money is commonly expected to serve simultaneously as a medium of exchange and a store of value, but these functions pull in opposite directions. To function as a medium of exchange, money must circulate. To function as a store of value, it must be retained. The better money becomes as a safe and durable store of wealth, the easier it becomes for holders to remove it from circulation. Gesell therefore believed that combining these functions in the same instrument creates an inherent contradiction.
+
 Gesell did not deny that people need to save. What he denied is that idle money itself should be the ideal vehicle for saving. His distinction was approximately:
 
 * **Saving** - Setting aside part of one’s present income or wealth for future use. The resulting savings may be held as money, lent to others, or invested in real or financial assets.
@@ -58,4 +60,4 @@ It is therefore unnecessary to make the currency itself lose purchasing power th
 
 Extending Gesell’s proposal, the store of value quality of money and a variable rate of demurrage could operate as counterweights. Price stability or appreciation would tend to increase the demand to hold money, while demurrage would tend to reduce that demand and encourage circulation. If demand for idle balances became excessive, the demurrage rate could be increased; if the demand to hold money became too weak, it could be reduced. The central objective would not be to prevent money from preserving value, but to prevent it from being withheld from circulation indefinitely without cost.
 
-Gesell’s claim that “money is an instrument of exchange and nothing else” therefore appears too absolute. Money can serve as both a medium of exchange and a store of value. The ability to preserve purchasing power is beneficial for it to function effectively in exchange. From this perspective, the problem is not value preservation itself, but the possibility that money can be held idle for prolonged periods at an insufficient carrying cost. Demurrage seeks to address that problem by imposing a negative net return on monetary balances without necessarily destabilising the purchasing power of the monetary unit.
+Gesell’s claim that “money is an instrument of exchange and nothing else” therefore appears too absolute. Money can serve as both a medium of exchange and a store of value. The ability to preserve purchasing power is beneficial for it to become a desirable medium of exchange. From this perspective, the problem is not value preservation itself, but the possibility that money can be held idle for prolonged periods at an insufficient carrying cost. Demurrage seeks to address that problem by imposing a negative net return on monetary balances without necessarily destabilising the purchasing power of the monetary unit.
