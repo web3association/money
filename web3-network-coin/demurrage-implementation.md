@@ -54,13 +54,13 @@ Collateral can be used in contracts as assurance. This increases trust and means
 
 **Network coin supply adjustments**
 
-As the usage of the network coin within financial protocols increases over time the benefits of maintaining stable prices should also increase with it due to the responsibility of the network coin being used as a primary pairing for facilitating token exchanges. Founding entities may want to do small and conservative supply increases to help with maintaining stable prices. They can then automate this process when it is possible to do so. A mechanism that handles supply changes does not need to accurately maintain stable prices, instead it could simply help to reduce the amount of price appreciation due to any increased economic growth and demand for the network coin.
+As the network grows and matures the rate of growth should eventually slow down and stabilise. In this environment that rate of appreciation for the network coin should lower as well. In this environment there is an argument that the network coin supply could remain fixed as the coin appreciation rate is more negligible due to the large size of the network. If the network grows more consistently over a long time horizon then there may be more benefit to considering a gradually increasing supply or even elastic supply changes if secure mechanisms can be developed. These changes don't need to achieve perfect price stability, instead they could help to reduce the volatility and the rate of price appreciation.
 
 
 
 **Network coin tax rate adjustments**
 
-A Web3 network could experience dramatic periods of growth and contraction in its early phases. It will be difficult to know how much the network is growing during different periods and how fast this rate of growth or contraction changes. In the earlier phases of the network it might be more practical for the founding entities to set the initial network coin tax rate and then update this based on metrics that can help with understanding the network's economic growth and price appreciation. This could also be potentially handled directly by the wider community if the right tools and processes are in place to provide a simple voting process. When the network is larger and more mature the growth rate will likely become more limited and within far more predictable ranges, mostly due to the larger scale of the network. This factor along with the usage of any historical data points around the influence of demurrage on economic growth rates will make it easier to develop a more automated solution over the long term. Alternatively it will at least help with making a solution that is simpler for the community to use to become informed when making any decision about the coins taxation rate.
+A Web3 network could experience dramatic periods of growth and contraction in its early phases. It will be difficult to know how much the network is growing during different periods and how fast this rate of growth or contraction is going to change. In the earlier phases of the network it might be more practical for the founding entities to set the initial network coin tax rate and then update this based on metrics that can help with understanding the network's economic growth and price appreciation. This could then be potentially handled by the wider community in the future if the right tools and processes are in place to provide a simple voting process. or an automated system. When the network is larger and more mature the growth rate will likely become more limited and within far more predictable ranges. This factor along with the usage of any historical data points around the influence of demurrage on economic growth rates will make it easier to develop a more automated solution over the long term. Alternatively it will at least help with making a solution that is simpler for the community to use to become informed when making any decisions about the network coins taxation rate.
 
 
 
@@ -70,19 +70,19 @@ A Web3 network could experience dramatic periods of growth and contraction in it
 
 **Sustaining long term demand**
 
-Demand for the network coin needs to be high enough that the value of the network coin remains high - this is essential for the security of the network. If it decreases over time it could become easier to accumulate enough of the network coin to maliciously attack the network. Too much demand can also be problematic, the network coin shouldn’t become storable and easy to accumulate. Demand for the coin that results in people continuously storing the network coin rather than using it productively is a highly undesirable outcome. The network coin tax rate will need to be adjusted over time to ensure the right level of demand for the coin is achieved.
+Demand for the network coin needs to be high enough that the value of the network coin remains high - this is essential for the security of the network. If it decreases over time it could become easier to accumulate enough of the network coin to maliciously attack the network. Too much demand can also be problematic, the network coin shouldn’t become excessively storable and easy to accumulate. Demand for the coin that results in people continuously storing the network coin rather than using it productively is an undesirable outcome. The network coin tax rate will need to be adjusted over time to ensure the right level of demand for the coin is achieved.
 
 
 
 **Financial protocol yields**
 
-Yield generated by financial protocols will likely play an important role in determining the network coin tax rate. The network coin tax rate should be above the average low risk yield as this can help with preventing concentrations in network coin ownership. If it is below this rate it becomes easy to continuously accumulate a growing position of the network coin.
+Yield generated by financial protocols will likely play an important role in determining the network coin tax rate. The network coin tax rate should be above the average of the low risk yields as this can help with preventing concentrations in network coin ownership. If it is below this rate it could become easy to keep continuously accumulating a growing position of the network coin.
 
 
 
 **Economic growth rate**
 
-How fast the economy expands and contracts will have a big influence on what the network coin tax rate should be. If the economic growth rate is high, and this leads to a lot of network coin price appreciation, this means people are receiving a lot of unearned income from simply holding the network coin. A network coin tax can help to reduce this issue as it can be increased and decreased in response to these economic changes in an attempt to capture this unearned income. If a demurrage based network coin can help with improving the economic growth rate there will be price appreciation in the network coin, which can be mostly captured using the network coin tax.
+How fast the economy expands and contracts will have a big influence on what the network coin tax rate should be. If the economic growth rate is high, and this leads to a lot of network coin price appreciation, this means people are receiving a lot of unearned income from simply holding the network coin. A network coin tax can help to reduce this issue as it can be increased and decreased in response to these economic changes in an attempt to capture this unearned income. If a demurrage based network coin can also help with improving the economic growth rate there could be ongoing price appreciation for the network coin, this can be mostly be captured using the network coin tax.
 
 
 
