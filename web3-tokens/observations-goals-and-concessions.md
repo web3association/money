@@ -31,9 +31,3 @@ Token money doesn’t need to compete on a global scale like the network coin do
 **Concession - Systemic failure risks**
 
 Token money could be implemented in ways that make it unstable over the long term. Governance processes might collapse or become ineffective. These risks could be an ongoing problem for token money due to the ongoing amount of competition between new forms of money. Web3 networks enable a free market for different forms of token money. This means that any failure of one token money could introduce an opportunity for another to emerge. New forms of money could be adopted very rapidly due to the speed and availability of these digital environments. Although systemic failures could occur this also opens the door for ongoing innovation.
-
-
-
-**Concession - Store of value asset adoption risks**
-
-Users are incentivised to hold assets that don’t lose value over time. This means any token money that is introduced that adopts demurrage could have limited demand when compared to alternative assets that maintain or grow in value over time. Mediums of exchange will need to consider this when thinking about how they will generate stable demand for the money so that the price remains stable and so the price is not suppressed. Token money will likely also require sufficient network effects and incentives to sustain moderately high token taxes to simulate demurrage over the long term.
