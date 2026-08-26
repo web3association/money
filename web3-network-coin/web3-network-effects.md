@@ -1,6 +1,6 @@
 # Web3 network effects
 
-Network effects refer to the phenomenon where the value of a product or service increases as more people use it. Network effects could become an important part of retaining users in a Web3 network, reducing the likelihood that everyone migrates to another competing network. Network effects could be important due to the role they could play in sustaining a higher rate of demurrage, due to the difficulty for other networks to gain enough traction.
+Network effects refer to the phenomenon where the value of a product or service increases as more people use it. Network effects could become an important part of retaining users in a Web3 network. Network effects will likely be important due to the impact these effects can have on sustaining a higher rate of demurrage, due to the difficulty for other networks to gain enough traction.
 
 
 
@@ -46,7 +46,7 @@ This approach is slightly more compelling than single user applications as a gro
 
 A growing number of businesses that accept the network own coin or token based assets for buying goods and services could create a network effect due to the adoption of these fungible assets for conducting commerce.
 
-This isn’t very compelling for creating a reliable network effect as businesses could accept the same token but from other networks or they could accept other forms of money entirely along with the ones they already do. They don’t rely on other businesses to also do this for them to take this initiative themselves. It is however worth noting that businesses would likely be concerned with whether these alternative forms of money are sufficiently reliable and stable. These factors could reduce the speed of adoption until any emerging network has proven itself to be reliable.
+This isn’t very compelling for creating a reliable network effect as businesses could accept the same token but from other networks or they could accept other forms of money entirely along with the ones they already do. They don’t rely on other businesses to also do this for them to take accept these alternative payment methods themselves. It is however worth noting that businesses would likely be concerned with whether these alternative forms of money are sufficiently reliable and stable. These factors could reduce the speed of adoption until any emerging network has proven itself to be reliable.
 
 
 
@@ -62,7 +62,7 @@ This isn’t a very compelling approach as self sovereign identity wallets shoul
 
 Each identity wallet could have connections with other wallets such as peer reviews, endorsements, friend or professional based connection information or even collaboration history. The data that exists between each identity could create a network effect that makes it difficult to move to other networks.
 
-This is only somewhat compelling as self sovereign identity solutions can work across multiple networks as the standards can be universally adopted and integrated. Identities and credentials can migrate to other networks. Decentralised identifier (DID) implementations are tied to specific blockchains. Some users may decide to replace any existing DID’s they’ve used in a renewed credential, however this still could introduce a level of risk or complexity to handle these migrations. So this factor could add some degree of network effects that could reduce the number of people that are willing to migrate to other networks.
+This is only somewhat compelling as self sovereign identity solutions can work across multiple networks because the standards can be universally adopted and integrated. Identities and credentials can migrate to other networks. Decentralised identifier (DID) implementations are tied to specific blockchains. Some users may decide to replace any existing DID’s they’ve used in a renewed credential, however this still could introduce a level of risk or complexity to handle these migrations. So this factor could add some degree of network effects as it could reduce the number of people that are willing to migrate to other networks.
 
 
 
