@@ -1,132 +1,299 @@
 # Interest
 
-Everyone understands that money grows through interest. We know that when one borrows money, they must repay not just the amount borrowed but an additional amount as well. We also know that when we lend money or deposit it in a savings account we are entitled not just to the amount lent/deposited but an additional amount that we call interest. But is this logical and natural?
+Interest is commonly understood as the additional amount paid by a borrower to a lender in return for the temporary use of money. A borrower must usually repay more than the amount originally received, while a lender expects to recover the amount provided together with an additional return.
 
-When a squirrel sets aside nuts for the winter does he come back later and find more nuts? No, that never happens. In fact, the opposite happens. When a squirrel stores nuts, some of those nuts spoil due to exposure to the elements, some get eaten by insects, some get lost, some get stolen by other creatures. A store of nuts invariably loses value with the passage of time. And this is a nearly universal aspect of nature. We live in a universe characterised by increasing entropy. Physical matter tends to move from a state of greater order to a state of less order. Because of this law of nature, almost all forms of physical wealth lose value with the passage of time.
+Interest is also associated with bank deposits, bonds and other financial arrangements. Someone who places money in an interest-bearing account expects their balance to increase over time. Money consequently appears to behave differently from most physical goods, which ordinarily deteriorate, become obsolete or impose costs on their owners.
 
-But money behaves in the exact opposite way. Why does money gain value with the passage of time when everything else loses value?
+When a squirrel stores nuts for the winter, it does not return to find that the quantity has increased. Some of the nuts may spoil, be eaten, become lost or be stolen. A store of physical goods generally loses value or imposes costs with the passage of time.
+
+Money placed in an interest-bearing arrangement can behave in the opposite way. The monetary claim increases even though the holder has not added further money to it. This raises two related questions:
+
+1. What does an observed interest rate actually represent?
+2. Why does a return for lending money exist?
+
+Before evaluating different theories of interest, it is necessary to define the term more precisely.
 
 
 
-## **Compound interest**
+## The components of an interest rate
 
-It is easy to underestimate the significance of interest. People who don’t borrow or lend money generally think interest doesn’t affect them. This couldn’t be further from the truth. Interest is the circulatory principle of the blood of the economic organism. It affects virtually every aspect of the economy. It affects wages. It affects the prices of goods & services. It affects the availability and cost of housing. It makes ever-greater concentrations of wealth mathematically inevitable. It causes the boom & bust dynamic of the economy, and it’s the main driver of our constant pursuit of growth which puts us on a path toward environmental disaster.
+In ordinary conversation, the entire additional amount charged on a loan is described as interest. However, the rate on a real-world loan commonly consists of several components that perform different functions.
 
-In order to grasp the power of interest, consider the following:
+For the purposes of this analysis, an observed lending rate can be divided into four broad components:
 
-* Invest 1 penny with 1% interest, compounded monthly, for 2000 years - $4.8 million
-* Invest 1 penny with 2% interest, compounded monthly, for 2000 years - $2.3 quadrillion
+1. Basic or risk-free interest
+2. A risk premium
+3. Expected inflation or deflation
+4. Administrative costs.
 
-At 1% the penny grows to enough to buy a nice apartment in New York City. At 2% it grows to enough to buy everything on earth five times. That’s the power of compound interest. Over long periods of time interest overwhelms everything. The growth of compound interest is an exponential mathematical function. And any exponential growth function eventually goes vertical if it continues unchecked. It eventually shoots toward infinity at an ever accelerating rate.
+Gesell’s objection concerned the first component. He did not argue that lenders should receive no compensation for the risk of loss, changes in purchasing power, administration or genuine financial services.
+
+
+
+## Basic or risk-free interest
+
+Basic interest is the underlying return available to a lender independently of the characteristics of a particular borrower, changes in purchasing power and the administrative cost of issuing the loan.
+
+It is sometimes described as pure interest or risk-free interest. In practice, analysts often approximate it by looking at the return on highly secure government debt or other financial instruments considered to have very low default risk.
+
+A government that borrows in a currency it issues is generally less exposed to involuntary nominal default than a private borrower because it can create additional units of that currency. Government debt may still be affected by inflation, policy decisions and changes in market confidence, but its rate is commonly used as a reference point for lower-risk lending.
+
+For Gesell, this underlying return reflects the ability of money to command payment when its owner gives up liquidity. He referred to the monetary advantage from which it arises as basic or primeval interest.
+
+
+
+## Risk premium
+
+A risk premium compensates a lender for the possibility that the borrower will fail to meet the terms of the loan.
+
+The risk is different for each borrower. A person with an unstable income or poor repayment history may be charged a higher rate than someone with a strong financial position. A financially uncertain corporation may have to offer a higher return on its bonds than a more stable company.
+
+The risk premium does not arise merely from the nature of money. It reflects the circumstances of the borrower, the collateral provided, the terms of the agreement and the probability of loss.
+
+Even if basic interest disappeared, lenders could still require compensation for genuine credit risk. A loan to a less creditworthy borrower would still justify a higher payment than a loan with little or no risk of default.
+
+
+
+## Expected inflation or deflation
+
+The purchasing power of money may change during the term of a loan.
+
+If inflation occurs, the money used to repay the loan will purchase fewer goods and services than the money originally provided. This benefits the borrower relative to the lender because the debt is repaid with money of lower purchasing power.
+
+Deflation has the opposite effect. If prices fall, the money used to repay the loan has greater purchasing power than the money originally borrowed. The real burden on the borrower increases, while the lender receives money that can purchase more.
+
+Lenders and borrowers therefore consider expected changes in purchasing power when agreeing to a rate.
+
+If a loan has a nominal rate of 8 per cent and inflation over the same period is 3 per cent, the approximate real rate is 5 per cent. The nominal rate is the rate stated in the contract, while the real rate adjusts for changes in purchasing power.
+
+This inflation or deflation component does not represent basic interest in Gesell’s narrow definition. It compensates for an expected change in the value of the monetary unit during the loan.
+
+
+
+## Administrative costs
+
+Issuing and managing loans requires work and resources. A lender or financial institution may need to evaluate the borrower, prepare the agreement, maintain accounts and records, collect and process payments, monitor collateral, respond to missed payments or pursue recovery when an agreement is breached.
+
+The people and systems performing these activities must be funded. Part of the rate or fees associated with a loan therefore compensates the provider for administration and genuine financial services.
+
+These costs do not arise from the ability of money itself to generate a return. They are payments for labour, infrastructure and services.
+
+
+
+## Interest in the narrow sense
+
+When this analysis refers to Gesell’s claim that interest should disappear, it refers specifically to basic interest. It does not refer to the entire observed rate charged on every loan.
+
+A lending arrangement could continue to include compensation for the probability of default, adjustments for expected inflation or deflation, payment for administration and payment for other genuine services.
+
+This distinction is important. The statement that basic interest might disappear does not imply that every borrower should be able to obtain a loan at no cost. A risky and administratively complex loan could still require substantial compensation even if the underlying monetary component of interest were absent.
+
+The question addressed by Gesell’s theory is narrower: why can an owner of comparatively secure and liquid money expect a return simply for surrendering control of it for a period?
+
+
+
+## Theories of interest
+
+Interest has existed in different forms for thousands of years. Economists, philosophers and religious traditions have proposed many explanations for why it arises and whether it is justified.
+
+There is no single theory that has been accepted in every period or school of economic thought. The principal explanations considered here are abstinence theory, fructification theory, productivity theory, time-preference theory, the real theory of interest and Gesell’s monetary theory of interest.
+
+
+
+## Abstinence theory
+
+Abstinence theory describes interest as a reward for postponing consumption.
+
+According to this theory, someone who possesses wealth has the option to consume it immediately. By choosing not to do so, the saver makes resources available for lending and productive investment. Interest provides compensation for this abstinence.
+
+The theory highlights the relationship between saving and the formation of investment capital. If all income were consumed immediately, fewer resources would be available for equipment, infrastructure and other long-term productive activities.
+
+Gesell’s objection was that abstinence alone does not normally cause physical wealth to increase. If someone refrains from drinking a quantity of milk, the milk does not become more valuable. It spoils. A factory that remains unused does not automatically generate a return. Its machinery may deteriorate or become obsolete. Inventory stored in a warehouse imposes costs and may lose value.
+
+Even gold, which is resistant to physical decay, may require security, storage and insurance. Retaining physical wealth can therefore produce a negative return rather than a positive one.
+
+From Gesell’s perspective, postponing consumption does not by itself explain why the owner of money should receive a positive return. It explains why resources might become available for future use, but it does not establish why the act of waiting must necessarily be rewarded.
+
+
+
+## Fructification theory
+
+Fructification theory connects interest to the productive capacity of nature.
+
+This explanation is associated with the French economist Anne Robert Jacques Turgot. A person possessing money can use it to purchase productive land. Land may produce crops, rents or other forms of income. The money holder will therefore not lend the money unless the loan offers a return comparable to the income available from land ownership.
+
+Under this theory, the return on land creates an opportunity cost for lending. Interest exists because the owner of money could instead use it to acquire a productive natural asset.
+
+Gesell challenged this explanation through his criticism of private land ownership. He argued that land was not created by human labour and should therefore not be treated in the same way as goods produced by individuals. Under a system in which land was owned by the community, the private income available from acquiring land would operate differently.
+
+He also argued that fructification could not be the sole cause of interest because lending and interest had existed under arrangements in which private ownership of land was restricted or absent.
+
+The productive forces of nature may influence the returns available in an economy, but Gesell did not consider them the foundational cause of monetary interest.
+
+
+
+## Productivity theory
+
+Productivity theory explains interest through the productive use of capital.
+
+A borrower may use a loan to purchase tools, machinery, buildings or other assets that increase the productivity of labour. Because access to capital enables the borrower to produce more wealth, the lender is considered entitled to receive part of the additional output.
+
+This theory is initially persuasive because productive capital can clearly increase economic output. A worker using modern machinery can often produce much more than a worker relying only on manual labour.
+
+Gesell argued that productivity theory considers only the benefit received by the borrower. The lender may also benefit because productive use can preserve an asset that would otherwise deteriorate or remain idle.
+
+If machinery is lent to someone who uses and maintains it, the owner may benefit from avoiding the costs of inactivity. If goods are transferred to someone able to use them before they spoil or become obsolete, both parties may benefit.
+
+Which participant benefits more depends on the circumstances. Productivity may justify sharing the output of a particular investment, but Gesell argued that it does not establish why money itself should always command a positive return.
+
+Productive business arrangements could also take the form of shared ownership or profit-sharing rather than a predetermined monetary payment. The productivity of capital therefore does not, by itself, explain the existence of basic interest on money.
+
+
+
+## Time-preference theory
+
+Time-preference theory is associated particularly with the Austrian school of economics. It begins from the proposition that people generally prefer present consumption to future consumption.
+
+Under this view, £100 available today is ordinarily considered more valuable than £100 available several years from now. Someone who gives up present control of money must therefore be compensated for waiting. Interest is the price that brings present and future preferences into balance.
+
+Time-preference theory also argues that without a reward for postponing consumption, people would consume more of their present income and make fewer resources available for long-term investment.
+
+Gesell questioned whether positive time preference describes human behaviour universally enough to explain interest.
+
+Some people clearly prefer immediate consumption. Others deliberately sacrifice present consumption to prepare for old age, emergencies or future responsibilities. A person concerned about retirement might be willing to exchange £100 of present consumption for less than £100 of future consumption if doing so provides security.
+
+This would represent negative rather than positive time preference. The person values future security enough to accept a cost for transferring purchasing power through time.
+
+Gesell therefore argued that human preferences vary and cannot provide a complete explanation for a persistent, economy-wide rate of basic interest.
+
+
+
+## The real theory of interest
+
+Contemporary neoclassical economics commonly explains interest through a combination of productivity and time preference.
+
+On the supply side, savers decide how much present consumption they are willing to postpone. On the demand side, borrowers and investors evaluate how productively the available capital can be used. The interest rate helps balance the supply of saving with the demand for investment.
+
+This combined explanation is sometimes described as the real theory of interest because it locates the cause of interest in real economic factors which include preferences between present and future consumption, the productivity of capital, the availability of savings and the demand for investment.
+
+Gesell rejected this approach because he did not accept either productivity or time preference as a sufficient explanation for basic interest. Combining the theories did not, in his view, resolve their underlying weaknesses.
+
+His alternative was to locate the cause of basic interest in the characteristics of money itself.
+
+
+
+## Gesell’s monetary theory of interest
+
+Gesell argued that basic interest is not a consequence of natural fertility, the productivity of capital or a universal preference for present consumption. He described it as a consequence of the form of money adopted by society.
+
+Money is a human institution created to facilitate exchange. Its characteristics are therefore not fixed by nature. If a particular form of money creates economic advantages for its holder, those advantages arise from the design of the monetary system.
+
+The central feature in Gesell’s explanation is the difference between the storability of money and the storability of goods, services and labour.
+
+Goods and productive assets normally impose costs on their owners. Food spoils, inventory requires storage, machinery becomes obsolete and buildings require maintenance. Labour that is not used today cannot generally be stored and sold tomorrow.
+
+Money can often be retained at a lower cost. This gives its holder greater freedom to wait.
+
+The owner of goods may be compelled to sell because delay produces a loss. The owner of money can withhold demand until favourable terms are offered. Gesell argued that this difference allows money to claim a payment as the condition for returning to circulation.
+
+In his account, basic interest is that payment. It is the price the borrower or producer pays to persuade the money holder to surrender liquidity.
+
+The power of money to earn basic interest therefore does not arise from the money producing new wealth by itself. It arises from the holder’s ability to delay exchange.
+
+Gesell referred to the resulting return as a tribute that money can demand from goods. If the tribute is not available, money can remain outside the market while goods continue to deteriorate and sellers continue to incur costs.
+
+Under this theory, basic interest measures the bargaining advantage that the monetary system gives to the holder of low-cost storable money.
+
+
+
+## Compound interest
+
+Compound interest means that interest is added to an existing balance and then becomes part of the amount on which future interest is calculated.
+
+With simple interest, the additional return is calculated only on the original principal. With compound interest, the balance grows because returns are earned on both the original principal and the interest accumulated during earlier periods. This creates exponential rather than linear growth.
+
+The significance of compounding can be difficult to perceive over short periods. Over long periods, even a low rate produces very large results.
+
+Consider an initial investment of one penny:
+
+* At 1 per cent annual interest, compounded monthly for 2,000 years, the balance grows to approximately $4.8 million.
+* At 2 per cent annual interest, compounded monthly for 2,000 years, the balance grows to approximately $2.3 quadrillion.
+
+The difference between 1 per cent and 2 per cent appears small, but the effect becomes enormous when the return compounds over a sufficiently long period.
 
 <figure><img src="../.gitbook/assets/compoundinterest.jpg" alt=""><figcaption></figcaption></figure>
 
-Here’s the growth curve of an investment of one penny at different percentages of interest. The lower the interest rate, the longer it takes to go vertical, but they all go vertical eventually, even at 1%. Unchecked exponential growth is completely at odds with the laws of nature. Nothing in nature grows that way. Bacteria or insects or rabbits might grow exponentially for a while, but eventually some limiting factor operates to stop the exponential growth. If this didn’t happen pretty soon bacteria, insects or rabbits would crowd out everything else on earth. But what limiting factor stops the growth of interest? Interest is a process that doesn’t follow the laws of nature, and Silvio Gesell says this is because interest is an artificial, man-made phenomenon.\
-<br>
+The accompanying growth curves illustrate this exponential pattern. Higher rates become visibly steep sooner, but every positive compound rate eventually accelerates if it continues without interruption.
 
-## Money creation via bank lending
+Physical and biological growth processes normally encounter limits. Populations of organisms may expand rapidly, but they are eventually constrained by food, space, disease and other environmental conditions.
 
-Many people have an image in their minds of government printing presses churning out dollar bills. However that is not how most money actually gets created. For the most part, new money comes into existence when banks issue loans. When a bank makes a loan, they simply credit the amount of the loan to the borrower’s account and this act creates new money. It might not make sense, but that is the reality of how most money comes into existence in the existing fiat system.
+Financial claims can continue compounding mathematically even when the underlying physical economy cannot grow at a corresponding rate. In practice, defaults, taxation, inflation, consumption, market losses and institutional change prevent individual monetary claims from expanding indefinitely. Nevertheless, compounding creates a persistent tendency for existing financial wealth to generate additional claims over time.
 
-When a bank makes a loan of $1,000, They credit the borrower’s account with $1,000. The borrower can now spend the $1,000 of new money that has been added to the money supply. Furthermore, this method of money creation means that more money creation is needed in the future. When a loan of $1,000 is made, $1,000 is created. However a future need for more than $1,000 results due to interest on the loan. That means more money will have to be created by issuing more loans in the future.
+Gesell regarded this tendency as artificial rather than natural because it arises from monetary and contractual arrangements created by society.
 
-The dynamics of money creation through bank lending mean that scarcity is built into the system. There’s never enough money to satisfy all outstanding obligations, and this necessitates more and more lending. The creation of money through lending sets in motion a hamster wheel of loans financed by more loans, and this process continues without limit (or until the system collapses).
 
-The nature of money creation through bank lending makes the growth of debt mathematically inevitable. It is not primarily a consequence of financial irresponsibility on the part of borrowers. It is an automatic consequence of the growth characteristics of interest. Remember, even at 1% the growth curve eventually goes vertical.
 
-To illustrate this dynamic, let’s look at a few graphs. This first one is the total amount of household debt in the US from 1945 to 2018.
+## Money creation through bank lending
+
+Most money in modern fiat economies does not exist as physical notes and coins. It exists as deposits recorded within the banking system.
+
+Commercial banks create deposit money when they make loans. If a bank approves a loan of £1,000, it credits the borrower’s account with a deposit of £1,000. The borrower can then transfer or spend that deposit.
+
+The act of lending creates:
+
+* a £1,000 asset for the bank, representing the borrower’s obligation to repay; and
+* a £1,000 deposit liability, representing the money available in the borrower’s account.
+
+When the principal is repaid, the corresponding deposit money is removed from circulation. The borrower must also pay the financing charges associated with the loan, including interest and fees.
+
+Banks do not create money without limits. Their lending is constrained by factors including capital requirements, liquidity, regulation, credit risk, the availability of creditworthy borrowers and the expected profitability of lending.
+
+Nevertheless, bank lending remains a principal mechanism through which the quantity of deposit money expands and contracts.
+
+
+
+## Interest and the demand for continued income
+
+A loan creates a principal amount that the borrower can spend, while the lending agreement requires the borrower to repay the principal together with an additional amount.
+
+The additional payment does not necessarily require a separate quantity of money to be created specifically for that individual loan. Existing money can circulate between participants and be used repeatedly, while banks spend part of their income on wages, operating costs, dividends and other expenses.
+
+However, borrowers collectively require continuing income to meet both principal and financing payments. In a system where a large proportion of money is created through debt, economic activity, refinancing and new lending can become closely connected to the ability of existing borrowers to service their obligations.
+
+Gesellian analysis places particular emphasis on this relationship. If money holders demand basic interest before making liquidity available, productive activities must generate returns above that monetary threshold. Borrowers must obtain enough income from the wider economy to meet the additional claims attached to their debts.
+
+When debt and interest-bearing financial claims grow more quickly than the income available to service them, defaults, restructuring, inflation or further credit expansion may follow.
+
+
+
+## Growth of debt
+
+Household, corporate and government debt have all increased substantially over long periods in modern economies. The existing charts illustrate this rise in nominal debt across different sectors of the United States economy.
 
 <figure><img src="../.gitbook/assets/householddebt.png" alt=""><figcaption></figcaption></figure>
 
-It starts from almost nothing and grows at a constantly accelerating rate up until around the time of the Great Financial Crisis in 2008, which temporarily stopped the steady upward trajectory, but it then resumed. This chart only goes to 2018. Since then, total household debt has surpassed $17 trillion, so if the chart was continued to the present the curve would have gone off the top of the chart.
-
 <figure><img src="../.gitbook/assets/corporatedebt.png" alt=""><figcaption></figcaption></figure>
-
-This is the total corporate debt in the US over the same time period (although this one doesn’t stop in 2018).
 
 <figure><img src="../.gitbook/assets/federaldebt.png" alt=""><figcaption></figcaption></figure>
 
-This is the total US federal government debt from 1965 to the present.
+These graphs show the scale and direction of debt growth, but they should not be interpreted as demonstrating that interest is the sole cause. Nominal debt can also increase because of inflation, population growth, economic expansion, higher asset prices, changes in financial institutions, government spending and taxation decisions or greater use of formal credit.
 
-It’s not simply that households, corporations and government all became more spendthrift or more “addicted to debt”. It’s that the growth of debt is a mathematical inevitability in a system where lending is the mechanism for the creation of money.
+Gesellian scholars argue that the structure of debt-based money creation and compound financial claims contributes to the persistent tendency for debt to expand. The need to service existing obligations can encourage continued borrowing, refinancing and economic growth.
 
-One of the foremost contemporary Gesellian scholars, Dr. Felix Fuders, a German economist who teaches at a university in Chile, makes the argument that the mathematical tendency of the money supply to constantly increase, due to the dynamics of interest and money creation via bank loans, is one of the main drivers of the so-called “growth imperative”, the constant pursuit of growth without regard to the environmental or social consequences.
-
-Last year Felix published a book entitled How to Fulfil the UN Sustainability Goals: Rethinking the Role and Concept of Money in the Light of Sustainability, in which he makes the case that it is impossible to meaningfully address the problem of unsustainable growth without completely overhauling our monetary system along the lines proposed by Silvio Gesell.
+Under this interpretation, rising debt is not simply the consequence of personal irresponsibility. It also reflects the institutional relationship between money creation, lending and interest-bearing obligations.
 
 
 
-## The definition of interest
+## Interest and the growth imperative
 
-Before we can analyse the phenomenon of interest, we must first define it properly. In the discussion that follows, the word is used in a more precise, narrow sense than how it is used in everyday conversation. For example, when someone takes out a car loan or a mortgage, the loan has an overall “interest rate”. But that rate actually consists of four distinct components, each of which serve different purposes and behave according to different principles. Not all of these components should be considered as “interest” if properly understood. The four components are:
+Felix Fuders and other contemporary Gesellian scholars connect interest-bearing debt to what they describe as a growth imperative.
 
-* **Risk free interest** - So-called “pure” or “risk-free” interest is the part of the overall rate that is independent of the risk characteristics of the individual borrower, changes in the purchasing power of money and the administrative costs of issuing and servicing loans. This risk free interest, or “basic interest”, reflects the pure power of money to grow. The risk-free rate is usually approximated by using some standard interest rate on government debt. Since a government which borrows in its own currency can always create more of that currency if necessary in order to meet its obligations, there is no possibility of being forced into default.
-* **Risk premium** - The second component of “interest” is the risk-premium. This is an additional amount which is added to the risk-free rate to reflect the credit risk of the specific borrower. A person with a poor credit history will pay a higher rate on a car loan than a person with good credit. Similarly, corporations with questionable finances and lower credit ratings will pay higher rates on their bonds than more financially stable companies. Since the risk-premium is different for each loan and depends on the characteristics of the individual borrower, it should not be thought of as something that stems from the nature of money itself.
-* **Expected inflation or deflation** - The third component of “interest” is a measure of expected inflation or deflation. If the purchasing power of money changes over the course of a loan, the money used to repay the loan doesn’t have the same purchasing power as the money that was originally borrowed. If inflation has occurred over the course of a loan, the money used to repay the loan has less purchasing power than the money that was originally lent. This benefits the borrower at the expense of the lender. Deflation has the opposite effect, shifting wealth from the borrower to the lender. If the nominal interest rate on a loan is 8% and inflation over the course of the loan is 3%, the real rate (that is, the rate after adjusting for changes in the purchasing power of money) is 5%. So most real world interest rates include a component that reflects expected inflation or deflation. However, similar to the risk-premium, this factor stems from causes other than the nature of money itself and therefore should not be thought of as interest when properly understood.
-* **Administrative costs** - And the fourth component of “interest” is administrative costs. The issuer of loans has to employ people to evaluate loan applications, collect and process payments, pursue recourse for non-payment, etc. Those people need to be paid for these efforts. As with the second and third components, administrative costs have nothing to do with the nature of money and should not be thought of as interest.
+If financial claims increase through compound interest, the income available to meet those claims must also increase, or some claims must be reduced through default, restructuring, taxation or inflation.
 
-Therefore, in order to use a term that has a clear, logically rigorous definition and that describes the nature of money itself, only the first component, so-called “pure” interest, should be included in the definition. The analysis that follows is based on this narrower definition. It is important to keep in mind that this is at odds with how the word is understood in everyday use. So, for example, when we arrive at Gesell’s conclusion that interest should not exist, many people reflexively object that if lenders are not compensated for risk they would never lend to less creditworthy borrowers. This is obviously true, but that component of a lending agreement does not represent interest when properly understood.
+Businesses with debt obligations may need to expand revenue. Governments may seek continued economic growth to sustain tax income and service public debt. Households may depend on rising wages and asset values to manage long-term financial commitments.
 
+From this perspective, the monetary system creates continuing pressure for economic output and income to expand.
 
+Fuders argues that this pressure complicates efforts to achieve environmental sustainability. An economic system in which financial obligations require continuous expansion may conflict with ecological systems that cannot support unlimited material growth.
 
-## **Theories of interest**
-
-Interest is an economic phenomenon that has existed for thousands of years. It has been analysed not just by economists but by philosophers and the world’s major religions. From Aristotle to Silvio Gesell, from Judaism to Islam, interest has been a controversial subject that has been debated for thousands of years. Nevertheless, there is still no consensus regarding why interest exists. Many theories have been proposed over the centuries.
-
-
-
-**Abstinence theory**
-
-Abstinence theory states that interest is a reward for postponing consumption, thereby making resources available to be used for production. This theory suggests that by choosing not to consume their wealth immediately, savers enable its use in productive activities, and that they need to be offered a reward in order to do so. Abstinence theory highlights the role of saving and deferred gratification in creating investment capital. Abstinence theory is related to another theory which is ascendant in modern, neoclassical economic thought – i.e. Time-preference Theory.
-
-However, referring back to the example of a squirrel storing nuts, we find that Abstinence theory is completely at odds with the laws of nature. If one abstains from drinking a gallon of milk, does it increase in value? If one abstains from using a factory full of machinery and supplies, does one receive a reward for doing so? Does a warehouse full of inventory gain value with the passage of time? No, in all cases, the opposite happens. A gallon of milk, an idle factory and a warehouse of inventory all lose value with the passage of time.
-
-Even gold, an exceptional form of matter that is immune to decay, still imposes the costs of storage and security on its owners. If you had your net worth in the form of gold stored in your house would you feel secure? Would you not feel the need to spend money on security systems and/or insurance? If so, that means the gold would generate negative, not positive, interest.
-
-
-
-**Fructification theory**
-
-Fructification theory says that the root cause of the phenomenon of interest is the fertility of nature. This view goes back to the late-18th century and the French economist Turgot. According to this view, a holder of money has a choice between lending that money or buying land, and since ownership of land entitles the owner to the wealth created by the productive forces of nature, people will not choose to lend money unless the return they are offered matches the return they can earn through land ownership.
-
-Silvio Gesell argues that private ownership of land is an unnatural, irrational, unjust extension of the principle of private property which is actually at odds with that principle. Most economists agree that the basis of private property is human labour – i.e. “if you made it, you own it.” But who made land? How can private property rights over land be established on the basis of human labour? So the concept of Fructification would not apply under a Gesellian system in which all land was owned by the community. Furthermore, if Fructification was the cause of interest that would imply that interest would not exist if private land ownership did not also exist. The fact that interest has existed at times when private individuals could not own land indicates that while the productive forces of nature may be a contributory factor, they are clearly not the sole (or primary) cause of interest.
-
-
-
-**Productivity theory**
-
-Productivity theory says that since lenders provide borrowers with useful capital which increases the productivity of labour, lenders are therefore entitled to receive a portion of the additional wealth produced through the use of that capital. This is a superficially appealing argument as it’s true that labour is more productive when it has access to capital than without it. However the productivity theory only looks at one side of the picture. It takes no account of the fact that the lender of capital also benefits since the capital would have lost value over time if it was not put to productive use. Which side benefits more is by no means clear and depends on the specific circumstances. That being the case, it would be as reasonable to expect that interest should be negative (i.e. the lender benefits more and should therefore be willing to pay for those benefits) as that it should be positive.
-
-
-
-**Time preference theory**
-
-The Time-preference theory is associated with the Austrian school of economics and is based on the supposition that humans prefer present consumption to future consumption and therefore must be rewarded for postponing their consumption. According to this view, in the absence of interest, people would immediately consume everything they have thus making no resources available for capital investment. This posits a view of human nature whereby people are unthinking gluttons who would consume everything they have as soon as possible if they weren’t offered a reward for refraining from doing so.
-
-While it is undoubtedly true that there are some people who go straight to the bar when they get their pay cheques and thus express a positive time-preference, is this kind of behaviour general enough to base a theory of interest upon it? What about the opposite tendency, that is, people in the prime of their lives who recognise that they won’t always have health and the ability to work and who want to provide for their old age? Do those people need to be rewarded for postponing consumption? In fact, aren’t there many people who would be willing to trade $100 of present consumption for $90 of consumption in retirement assuming no change in the price level, because the idea of being destitute in old age is a terrifying prospect. This attitude implies negative time-preference.
-
-Which of these two descriptions of human nature is more generally accurate when applied to the population as a whole, spendthrifts running off to a bar to blow their pay cheque on booze, or people who want to be comfortable in old age and are therefore be willing to postpone consumption even if they don’t receive a reward for doing so?
-
-
-
-**Real theory**
-
-Contemporary, mainstream, neoclassical economics has developed what’s referred to as a “Real Theory” of interest, which is essentially a combination of the productivity and time-preference theories. This is the view that is taught in most university level economics courses. But if neither the Productivity Theory nor the Time-preference Theory are convincing on their own, why should a combination of the two be convincing?
-
-
-
-**Gesellian theory of interest**
-
-Silvio Gesell believed that interest has nothing to do with the laws of nature, the physical attributes of goods & services or human nature. Rather, he argued that interest is a consequence of our form of money. And since money is a creation of man, interest should also be understood as a man-made phenomenon. He furthermore believed that interest is a consequence of a fundamental design flaw in our existing form of money and that if we switched to a more rational, natural form of money interest would disappear.
-
-In Gesell’s view, It is the difference in the storability of money in comparison with real goods & services that is the root cause of interest. Money can be stored without cost or loss. Real goods & services cannot. This confers an advantage on holders of money and enables them to extract what Gesell refers to as a “tribute” from producers of unstorable goods & services. Let’s listen to how Gesell describes this dynamic:
-
-“Newsboys shout and run because their wares are unsaleable a few hours after production. The milkman's cart is provided with bells because he must make his sales to the hour and minute. The vegetable woman is the earliest riser of God's creatures; she awakens the sleeping cocks. The butcher cannot afford to oversleep himself or to close his shop during the Whitsun holidays, for in twenty four hours his wares would be on the verge of putrefaction. Bakers can sell their wares at the regular price only as long as the loaves are warm… The farmer who has ploughed out his potatoes and fears an early frost hurriedly collects them and as hurriedly brings them to market to take advantage of the fine weather and to save, as far as possible, the laborious loading and unloading of his cheap and heavy product… Or take wage earners, the ten thousand battalions of workmen. Are they not as hurried as the newsboy, the vegetable seller, the farmer? If they do not work, part of their assets, their capability to work, is lost with every beat of the pendulum. Thus the nature of wares, their transitoriness, arouses the majority of us every morning from sleep, spurs us to haste and forces us to appear at a given hour in the market. The possessor of wares is commanded by them, under threat of punishment, to seek the market, and the punishment is carried out by the wares themselves.”
-
-“The only way in which an owner of wares can protect himself against such losses is to sell them. He is compelled by the nature of his property to offer it for sale. If he resists this impulsion he is punished, and the punishment is carried out by his property, by the wares in his possession… It must also be remembered that new wares are continually flowing into the market. A cow must be milked daily, a man without possessions is daily compelled by hunger to work. The offer of wares must therefore become larger and more urgent if sale is delayed. As a rule the most favourable time for the sale of a product is the moment it leaves the factory. The longer the sale is delayed, the less favourable the market conditions… The offer of a ware for sale depends, therefore, not upon the will of its possessor, but upon the ware itself… Supply cannot be postponed. Quite independently of the will of the possessor of wares, a supply of them must daily appear in the market. Whether the sun shines or the rain falls, whether political rumours alarm the exchanges, supply is always equal to the stock of wares. Supply remains equal to the stock of wares even if the prices of wares are unsatisfactory. Whether the price brings the producer gain or loss, the wares must be offered for sale — usually at once.”
-
-But what about demand? Gesell continues: “The possessor of money holds demand like a hound on the leash and lets it slip at the quarry of his choice. Wares are the quarry of demand… Demand enters the market proudly confident of an easy victory; supply appears dejected like a beggar who expects more kicks than half pence. On the one hand impulsion, on the other hand freedom; and the two together, impulsion and freedom, determine price.”
-
-“Suppose now that demand makes use of the freedom it enjoys and withdraws from the market. Supply must then, because of the impulsion to which it is subject, seek out demand, hasten to meet it and entice it back to the market by the offer of some special advantage. Demand, instant demand, is a necessity to supply, and demand knows of this necessity. Consequently demand can usually ask for, and obtain some special advantage from its privilege of being able to withdraw from the market. Is there any reason why the possessor of money should not ask for this reward? … A and B, separated by space and time, wish to exchange their wares, flour and pig iron, and for this purpose need the money in C’s possession. C can at once effect the exchange with his money, or he can delay, hinder or forbid the exchange; for his money gives him the freedom of choosing the time at which it shall take place. Is it not obvious that C will demand payment for this power, and that A and B must grant it in the form of a tribute on their flour and pig iron? If they refuse this tribute to money, money withdraws from the market. A and B must then retire without completing the sale and undertake the heavy cost of returning home with their unsold products. They will then suffer equally as producers and consumers; as producers because their wares deteriorate, and as consumers because they must do without the goods to obtain which they brought their products to the market. If instead of gold, C owned another product, tea, powder, salt, cattle… the characteristics of these medium of exchanges would deprive him of the power of postponing his demand; he would no longer be able to levy a tribute on other products.”
-
-Gesell states that the power of money to grow has nothing to do with the productivity of capital. It has nothing to do with human’s preferring present consumption to future consumption. It has nothing to do with the productive forces of nature. Rather, it is a consequence of a distortion of the exchange process which is caused by the fact that instead of recognising that the most important function of money is to facilitate the exchange of goods & services. And instead of this, we made the irrational decision to design money that is excessively storable. As a result of this irrational decision, we inadvertently created a medium of exchange that alters the level playing field on which exchange takes place in an economy composed only of goods & services. And interest is a measure of the distortion thereby created. It is a quantification of the amount of power that has been taken away from producers of goods and services and given to holders of money.
+Gesell’s theory attributes this pressure ultimately to the ability of money to command basic interest. If low-cost monetary storability creates a minimum return that productive investment must exceed, then interest affects which investments proceed, how capital is allocated and how income is distributed.

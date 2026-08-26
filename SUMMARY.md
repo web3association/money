@@ -5,12 +5,11 @@
 ## Money
 
 * [Nature of exchange](money/nature-of-exchange.md)
-* [Medium of exchange](money/medium-of-exchange.md)
-* [Nature of money](money/nature-of-money.md)
+* [Money: definition, functions and forms](money/money-definition-functions-and-forms.md)
+* [Store of value, storability, saving and hoarding](money/store-of-value-storability-saving-and-hoarding.md)
 * [Interest](money/interest.md)
-* [Consequences of storable money](money/consequences-of-storable-money.md)
+* [Consequences of low-cost storable money](money/consequences-of-low-cost-storable-money.md)
 * [Demurrage](money/demurrage.md)
-* [Separating store of value & storability](money/separating-store-of-value-and-storability.md)
 
 ## Web3 Money
 
