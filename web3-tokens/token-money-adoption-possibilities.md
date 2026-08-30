@@ -1,79 +1,193 @@
 # Token money adoption possibilities
 
-A number of different communities could benefit from creating their own token based money, as tokens can be implemented in a number of ways.
+The number of token-based monetary systems that will achieve adoption cannot be known in advance.
+
+Web3 networks allow tokens to be created relatively easily, but creation does not guarantee acceptance. Most tokens may remain unused, while a smaller number become important within particular communities.
+
+Several broad outcomes are theoretically possible. Users might rely primarily on the network coin, one token might become a global medium of exchange or many forms of token money might coexist.
+
+The structure of Web3 networks makes the final possibility the most consistent with the diversity of communities and monetary preferences.
 
 
 
-## **Communities**
+## **No token money**
+
+One possible outcome is that no token becomes widely adopted as money. Users rely primarily on the native network coin for payments as well as network fees.
+
+This is technically possible because the coin is fungible, transferable and widely recognised. Its protocol-level demand gives it an advantage over newly created tokens.
+
+However, using one network coin as the principal medium of exchange across every community would place substantial pressure on its monetary policy.
+
+The coin would need to support node operation, consensus, governance, liquidity and global price stability.
+
+Different countries and communities experience different economic conditions. A single supply policy may produce appropriate outcomes for some while causing inflation or deflation in others.
+
+The coin would also become a greater systemic dependency. A failure in its monetary policy would affect both network operation and the principal medium of exchange.
+
+For these reasons, an outcome with no token money is possible but unlikely for a programmable network supporting diverse communities.
 
 
 
-**Countries**
+## **One global token**
 
-Nation states could decide to migrate their existing currencies to adopt Web3 technology. Token money could be used as a national currency with similar or completely new governance structures to manage that system of money.
+A token could become widely accepted across countries and applications.
 
+This token might prioritise stable purchasing power and avoid assigning the medium-of-exchange role to the network coin.
 
+A global token could simplify international exchange. Users would not need to convert between community currencies, and businesses could express prices in a common unit.
 
-**Local communities**
+However, it would face governance problems similar to a global network coin. One policy would need to serve economies growing and contracting at different rates.
 
-Towns, cities or small geographic regions may want to experiment with new forms of money in their own local area.
+The token would also become systemically important despite remaining technically separate from the underlying network. Its failure could disrupt a large amount of economic activity.
 
+A global token may emerge for particular forms of exchange without becoming the only money used everywhere.
 
-
-**Online communities**
-
-Online communities commonly exist for different topics, hobbies and interests. These communities may have economies the are large enough to benefit from their own medium of exchange. They might have ideas for new features or properties that are unique to the requirements of their community.
-
-
-
-**Online games**
-
-Massive online multiplayer games could benefit from their own token money to facilitate exchange in these online environments. These games often have their own economies with items that can be exchanged and services that people provide. Game based economies might even lead to environments where people are able to work in these economies full time as their primary source of income.
+Stablecoins already demonstrate how a token linked to a major currency can achieve use across several networks and communities. Their adoption does not prevent other currencies from continuing to exist.
 
 
 
-## Adoption of token money
+## **Several global tokens**
 
-The least likely outcome for Web3 networks is that no token based money is adopted. This would mean that the network coin would be adopted as the primary medium of exchange. This is a very unlikely outcome as there are so many different communities that exist that could require a different system of money and different implementation approaches. It would be much more risky to use the same medium of exchange for every community that might exist across the world due to different growth rates and usage patterns. Widely using the network coin instead of token money as a medium of exchange would mean there would be zero room for error due to how reliant people would be on using a single medium of exchange.
+Another possibility is that a small number of tokens achieve broad international adoption.
 
-One implementation of token money could become a globally adopted medium of exchange due to its popularity and effectiveness. Although this is possible it is still unlikely that one implementation of token money becomes the only adopted form of money due to the differences in requirements and preferences in how these systems of money are managed across different communities.
+Different tokens may be preferred for different purposes. One may provide stable purchasing power, another may be backed by a commodity and another may be associated with a large online economy.
 
-The most likely outcome for token money is that there will be many implementations that each have their own properties and governance processes. Global currencies might emerge that become popular for certain use cases. Community based token money should cater for the specific requirements and preferences of that community. Because Web3 networks are open and permissionless, it could be reasonable to expect that we see an ongoing amount of competition between systems of money, where new ideas about how to implement and govern these systems continue to evolve and improve over time.
+Users and businesses can accept several of them. Wallets can convert between tokens automatically when a recipient prefers a different asset.
 
+This reduces dependence on one global monetary system. If one token fails, others remain available.
 
+It also fragments liquidity and pricing. Businesses may need to select a unit of account even when they accept several payment assets.
 
-## Implementation & usage possibilities
-
-Token money could be implemented and used in a wide variety of ways. The scope and potential of what could be adopted is actually quite difficult to comprehend. Token money is fully programmable so the system of money could work in any way that a community prefers. Incentives could be introduced to encourage a wide range of behaviours and outcomes.
-
-If the network coin is effective at ensuring the network is always operational it opens up the opportunity to experiment with many forms of token money. Systemic failures in token money should not jeopardise the stability of the network. Alternative forms of token money can be immediately adopted and at low cost. Web3 networks help to create an environment where many forms of token money could be adopted and experimented with.
+Widely adopted tokens may therefore coexist while one or a small number become common pricing references.
 
 
 
-**New governance structures**
+## **Community-specific token money**
 
-The governance for systems of money can be completely reimagined to accommodate the requirements and preferences of each community. Some communities will prefer automated solutions that require no governance input at all. Other communities might want to have parameters that they change through voting mechanisms.
+Countries, local regions, online communities and games can each create their own money.
 
+This allows policy to reflect local economic conditions and governance preferences. A country can manage national supply, while an online community adopts a different demurrage rate or fixed policy.
 
+Community money only needs sufficient acceptance within its intended environment. It does not need to persuade the entire global network to use it.
 
-**New mediums of exchange ideas**
+This lowers the threshold for useful adoption. A token can succeed within one economy even when it is largely unknown elsewhere.
 
-The purpose of a medium of exchange is to exchange value from one person to another. Money enables someone to pay for goods and services using a common medium of exchange. Systems of money could introduce other things that people find valuable. Other factors such as the commitments of someone's time around certain initiatives or causes could be considered. It could include provisions for someone's time or provide future access to certain resources. A system of money could incentivise certain behaviours by giving people rewards for conducting exchange in a certain way or for providing certain contributions prior to the exchange. These incentives could be targeted at trying to generate outcomes that are most beneficial to the community as a whole.
-
-
-
-**Commodity assets adopted as money**
-
-Anyone is able to create representations of assets such as gold, precious metals and other commodities such as wood, corn and wheat. Token based representations of these physical assets could represent ownership over that commodity. Tokens are highly divisible and fungible. If two users both wanted to own these types of assets, these tokens could end up being something that people use as a medium of exchange. Commodity based token assets might not have ever been intended to be a form of money however it is possible that they get adopted as a medium of exchange in certain circumstances.
+Users interacting across communities can exchange between token systems through the network’s financial markets.
 
 
 
-**Fractional ownership based money**
+## **Many coexisting forms of money**
 
-Valuable physical or digital assets can also be fractionally owned. This can turn a single valuable asset, such as a house or collectible, into something that could be owned through a large number of tokens. Token ownership would make it highly divisible and fungible. Similar to commodity assets, there could be situations where multiple people are happy to hold and use these token assets as a medium of exchange. Token based assets greatly increase the likelihood that a range of assets could be used as a medium of exchange, even when they weren’t intended to be used in that way.
+The most likely broad outcome is that many token monetary systems coexist with the network coin.
+
+The network coin supports transaction processing and global liquidity. Tokens provide mediums of exchange tailored to different communities.
+
+Some tokens may achieve international use, while others remain local. A person can hold several forms of money and use wallets that select or convert the appropriate asset automatically.
+
+This arrangement distributes monetary risk. A failure in one token does not eliminate every medium of exchange or compromise the underlying network.
+
+It also creates continuing competition. Communities can compare supply policies, governance, stability, demurrage and treasury expenditure.
+
+Successful ideas may spread to other token systems, while poorly governed tokens lose users.
 
 
 
-**Incentive layers**
+## **Competition and experimentation**
 
-Token money could remain simple and be solely focussed on just being a good medium of exchange. However the applications and communities that adopt this money could introduce incentive layers for people that are using specific token moneys or using the money in a certain way. For instance, one business might offer people a discount to people that use the community's money and that also have a recent proof of contribution towards some initiative that they are looking to incentivise.
+The ease of creating tokens reduces the cost of monetary experimentation.
+
+A community does not need to change the global network coin or establish a new network before testing a different policy.
+
+This can accelerate innovation, but it can also produce a large number of unreliable assets. Users must distinguish between serious monetary systems and tokens created primarily for speculation.
+
+A token that initially gains adoption may later be replaced. Its governance may become ineffective, or another system may offer better stability and liquidity.
+
+Competition therefore operates continuously rather than only when a national monetary system experiences a major institutional change.
+
+
+
+## **Rapid migration**
+
+Digital wallets make movement between monetary systems much faster than movement between physical currencies.
+
+A user can exchange token money for another asset without travelling to a bank or carrying several physical forms of money.
+
+Applications can automate the process. A person may receive one token while their wallet immediately converts it into another.
+
+This increases user sovereignty but makes demand less stable. A poorly designed change can cause participants to leave rapidly.
+
+Token communities must therefore consider how governance announcements, supply changes and demurrage affect confidence.
+
+Rapid exit provides discipline but can also intensify a monetary crisis.
+
+
+
+## **Systemic failure and replacement**
+
+A token can fail because of technical defects, poor governance, loss of backing, excessive issuance or declining acceptance.
+
+The network continues operating and can support a replacement token. This limits the failure at the infrastructure level.
+
+However, replacing money affects existing balances, contracts, wages and debts. The community must decide whether and how old claims are converted.
+
+A rapid replacement can prevent the complete breakdown of exchange, but it may distribute losses unevenly.
+
+The possibility of replacement should not be used to justify careless design. It provides resilience after failure rather than eliminating the consequences.
+
+
+
+## **Acceptance and network effects**
+
+A monetary token becomes more useful as more people and businesses accept it.
+
+Each new participant gives existing holders another place to spend the token. This can create a network effect that supports continued adoption.
+
+Liquidity reinforces the effect. Users are more willing to accept a token when they know it can be exchanged easily for other assets.
+
+Community institutions can also create demand by accepting the token for taxes, fees, memberships or services.
+
+However, acceptance can decline if holders expect depreciation, governance failure or loss of liquidity. Network effects make a token more resilient but do not make adoption permanent.
+
+
+
+## **Monetary diversity and conversion**
+
+Using many forms of money introduces conversion costs. Participants may receive one token while preferring to hold another.
+
+Web3 applications can reduce this friction by routing exchanges through the network coin, stablecoins or other common liquidity assets.
+
+Automatic conversion allows monetary diversity to exist without requiring every user to manage each token manually.
+
+The cost and reliability of these conversions depend on market liquidity. Small or unstable tokens may experience substantial slippage.
+
+Community-specific money therefore benefits from connections to deeper global markets even when most of its use remains local.
+
+
+
+## **Governance diversity**
+
+Many token systems allow different governance models to coexist.
+
+One community may use a central monetary authority, another may adopt direct voting and another may deploy immutable rules.
+
+This diversity allows users to choose systems aligned with their preferences.
+
+It also makes comparison difficult. Participants must understand who controls each token, how supply can change and what happens during a dispute or technical failure.
+
+Governance becomes part of the asset’s value proposition. A token with reliable and legitimate decision-making may retain demand even when another token offers lower costs.
+
+
+
+## **The likely relationship between coins and tokens**
+
+The network coin and token money are unlikely to compete for exactly the same role.
+
+The network coin has protocol-level demand and supports global infrastructure. Tokens can specialise in mediums of exchange, local price stability and community governance.
+
+Users may hold the network coin for fees, staking, liquidity and collateral while using token money for ordinary commerce.
+
+Some participants will still accept the coin directly, and some tokens will be used as global liquidity. The division is not absolute.
+
+The layered structure allows responsibilities to overlap without requiring one asset to perform every function.
+
+The final range of token implementations may extend beyond currencies deliberately designed as money. Commodity claims, fractional ownership and application assets can also become mediums of exchange. These possibilities are examined next.
