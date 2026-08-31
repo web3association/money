@@ -6,7 +6,7 @@ This should be treated as an initial monetary design rather than a permanent con
 
 
 
-### **Core mechanism**
+## **Core mechanism**
 
 Demurrage should be expressed as an annual percentage rate and accrue over time in smaller increments. The protocol may settle accrued charges periodically or when a balance is accessed, provided that both methods produce the same predictable economic result.
 
@@ -22,7 +22,7 @@ No organisation or address category should receive an automatic exemption. Any r
 
 
 
-### **Treasury collection and initial supply**
+## **Treasury collection and initial supply**
 
 Collected coins should be transferred to the network treasury rather than burned. The treasury should spend them back into circulation, keeping the total coin supply initially fixed.
 
@@ -39,7 +39,7 @@ Funding should normally be released against milestones or observable contributio
 
 
 
-### **Base and reduced rates**
+## **Base and reduced rates**
 
 The protocol should establish:
 
@@ -59,7 +59,7 @@ The difference between the base and reduced rates should be meaningful but not s
 
 
 
-### **Qualification rules**
+## **Qualification rules**
 
 Eligibility should depend on the economic function performed rather than on depositing coins into a particular contract.
 
@@ -82,7 +82,7 @@ Multi-asset lending, stablecoin issuance, collateralised debt positions, derivat
 
 
 
-### **Transaction fees**
+## **Transaction fees**
 
 Demurrage income should provide the base funding for network operation, transaction fees can still be used for resource allocation and spam prevention.
 
@@ -90,7 +90,7 @@ Fees should be set near the minimum required to prevent excessive resource consu
 
 
 
-### **Initial rate and rollout**
+## **Initial rate and rollout**
 
 Demurrage may be absent or minimal during genesis while the network attracts participants, establishes liquidity and develops qualifying uses.
 
@@ -108,7 +108,7 @@ Transitions should depend on network conditions rather than fixed dates. Relevan
 
 
 
-### **Governance and adjustment**
+## **Governance and adjustment**
 
 Rate changes should be infrequent, gradual and predictable.
 
@@ -127,7 +127,7 @@ Published indicators should inform decisions rather than change rates automatica
 
 
 
-### **Monitoring**
+## **Monitoring**
 
 The network should assess the implementation using longer-term trends in:
 
@@ -146,7 +146,7 @@ No single measure should trigger a policy change. Adjustments should reflect sus
 
 
 
-### **Supply-policy review**
+## **Supply-policy review**
 
 The total supply should remain fixed initially. Persistent appreciation should first be evaluated against the effective demurrage rate and its effect on passive holding.
 
@@ -154,7 +154,7 @@ A modest and predictable expansionary policy should be considered only if apprec
 
 
 
-### **Initial configuration**
+## **Initial configuration**
 
 The initial recommended implementation therefore consists of:
 
